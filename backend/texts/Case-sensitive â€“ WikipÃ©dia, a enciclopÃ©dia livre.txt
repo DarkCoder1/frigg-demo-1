@@ -1,0 +1,7 @@
+Case-sensitive é um anglicismo[nota 1] que se refere a um tipo de análise tipográfica da informática. Em língua portuguesa, significa algo como "sensível ao tamanho das letras" ou "sensível a maiúsculas e minúsculas". Diz-se que um software é case-sensitive ou possui "case sensitivity"[nota 2] quando ele é capaz de analisar uma cadeia de caracteres, avaliar a existência de caixa alta e caixa baixa e comportar-se de diferentes maneiras em função disso.[1] [2]
+
+
+Aplicativos, compiladores, linguagens de programação e outros programas costumam ter comportamentos diferentes em função do uso de letras maiúsculas e minúsculas. A linguagem C, por exemplo, é case-sensitive, pois seus programas devem ser sempre escritos em caixa baixa (letras minúsculas):
+Um exemplo típico é a tentativa de efetuar login em um sistema operativo ou serviço de rede que faz distinção entre maiúsculas e minúsculas, e que por isto considera que, por exemplo, a palavra Chave é uma senha diferente da palavra chave, que por sua vez é diferente da palavra CHAVE, e assim sucessivamente para todas as combinações possíveis de letras maiúsculas e minúsculas da palavra "chave".
+Como exemplificado anteriormente, esse conceito também está presente em linguagens de programação e sistemas operacionais. Alguns exemplos:
+Para o compilador Java, wikipedia, WikiPedia e WIkipediA são três variáveis distintas.

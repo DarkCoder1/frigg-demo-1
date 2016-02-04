@@ -1,0 +1,7 @@
+O arXiv é um arquivo para preprints eletrônicos de artigos científicos nos campos da matemática, física, ciência da computação, biologia quantitativa e estatística que podem ser acessados via internet. Em muitos campos da matemática e da física, quase todos os artigos estão no arXiv. Em março de 2012, arXiv.org continha mais de 745.000 e-prints, com cerca de seis mil novos e-prints adicionados a cada mês.
+
+
+O arXiv foi originalmente desenvolvido por Paul Ginsparg iniciado em 1991 como um arquivo para preprints na física e posteriormente expandido de modo a incluir astronomia, matemática, ciências da computação, ciência não-linear, biologia quantitativa e, mais recentemente, estatística. Ginsparg foi condecorado um MacArthur Fellowship em 2002 pela criação do arXiv.
+Ele era originalmente armazenado no Laboratório Nacional de Los Alamos (no xxx.lanl.gov, daí seu nome original, o LANL preprint archive) e atualmente é armazenado e operado pela Cornell University, com mirrors pelo mundo. Ele trocou seu nome e endereço para arXiv.org em 1999 para ampliar a flexibilidade.
+A operação do arXiv atualmente é mantida pela Cornell University e pela National Science Foundation.[1]
+Embora do arXiv não possua revisão por pares, uma coleção de moderadores de cada área revê os artigos submetidos e podem recategorizar qualquer um que seja considerado off-topic. A lista de moderadores para muitas seções do arXiv está disponível publicamente[2] mas moderadores para as maiorias das seções de matemática e física continuam não listados.

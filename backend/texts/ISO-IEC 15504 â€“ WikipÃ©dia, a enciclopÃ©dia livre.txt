@@ -1,0 +1,18 @@
+A ISO/IEC 15504, também conhecida como SPICE, é a norma ISO/IEC que define processo de desenvolvimento de software. Ela é uma evolução da ISO/IEC 12207 mas possui níveis de capacidade para cada processo assim como o CMMI.
+
+
+IMPORTANTE: A NORMA ISO/IEC 15504 AINDA NÃO PASSOU POR NENHUMA REVISÃO.
+Janeiro de 1992: estudo da ISO sobre as necessidades e os requisitos de um padrão internacional para avaliação de processos de SW;
+Em outubro de 2003, a Norma ISO/IEC 15504 (SPICE) para a avaliação de processos de software foi oficialmente publicada pela ISO
+/== Sobre a Norma ISO/IEC 15504 ==/ A ISO/IEC 15504, também conhecida como SPICE, é a norma ISO/IEC que define processo de desenvolvimento de software. Ela é uma evolução da ISO/IEC 12207 mas possui níveis de capacidade para cada processo assim como o CMMI.
+Em outubro de 2003, a Norma ISO/IEC 15504 para a avaliação de processos de software foi oficialmente publicada pela ISO. A Norma ISO/IEC 15504 define um modelo bi-dimensional que tem por objetivo a realização de avaliações de processos de software com o foco da melhoria dos processos (gerando um perfil dos processos, identificando os pontos fracos e fortes, que serão utilizados para a elaboração de um plano de melhorias) e a determinação da capacidade dos processos viabilizando a avaliação de um fornecedor em potencial.
+Esta norma está sendo desenvolvida desde 1993 pela ISO em conjunto com a comunidade internacional através do projeto SPICE (Software Process Improvement and Capability Determination) com base nos modelos já existentes como ISO 9000 e CMM.
+Segundo a norma, uma avaliação de processo de software é uma investigação e análise disciplinada de processos selecionados de uma unidade organizacional em relação a um modelo de avaliação de processo.
+A ISO/IEC 15504 define um modelo de referência de processo que identifica e descreve um conjunto de processos considerados universais e fundamentais para a boa prática da engenharia de software, e define seis níveis de capacidade, seqüenciais e cumulativos que podem ser utilizados como uma métrica para avaliar como uma organização está realizando um determinado processo e também podem ser utilizados como um guia para a melhoria.
+A ISO/IEC 15504 define também um guia para a orientação da melhoria de processo, tendo como referência um modelo de processo e como uma das etapas a realização de uma avaliação de processo. Este guia sugere 8 etapas seqüenciais, que inicia com a identificação de estímulos para a melhoria e o exame das necessidades da organização.
+Em seguida existem ciclos de melhoria, nos quais um conjunto de melhoria são identificadas, uma avaliação das práticas correntes em relação à melhoria é realizada, um planejamento da melhoria é feito, seguido pela implementação, confirmação, manutenção e acompanhamento da melhoria.
+O SPICE inclui um modelo de referência, que serve de base para o processo de avaliação. Este modelo define duas dimensões:
+Corresponde à definição de um conjunto de processos considerados universais e fundamentais para a boa prática da engenharia de software; Atualmente, um modelo de referência de processo no domínio de software é a ISO 12207;
+Um modelo de avaliação, baseado na ISO 12207, é o definido na ISO 15504; Neste último, os processos são agrupados em cinco grandes categorias de processo:
+Objetivo: confirmar que cada produto de trabalho ou serviço resultado de um processo reflete corretamente às especificações de entrada do processo.
+ · Ciência da computação  · Engenharia da computação  · Engenharia empresarial  · história  · Administração  · Gerência de projetos  · Gerenciamento da qualidade  · Usabilidade  · Engenharia de sistemas

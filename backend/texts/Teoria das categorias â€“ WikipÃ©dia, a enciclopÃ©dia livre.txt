@@ -1,0 +1,47 @@
+A teoria das categorias é uma teoria matemática que trata de forma abstrata das estruturas matemáticas e dos relacionamentos entre elas. É conhecida, em parte como brincadeira, como "generalização do sem-sentido abstrato". Teoria das categorias foi pela primeira vez apresentada por Samuel Eilenberg e Saunders Mac Lane em 1945, como uma teoria relacionada com topologia algébrica.
+Ela é uma generalização da teoria dos conjuntos. Nela são estudados objetos e morfismos entre estes. Estes objetos podem ser entendidos como conjuntos estruturados e os morfismos (também chamados de setas) como funções entre estes conjuntos, embora, nos casos mais gerais de categorias, este paralelo não possa ser feito.
+Teoria das categorias pode ser entendida como um "jogo de setas", em que se abstrai o significado das construções.
+Ela fornece uma descrição abstrata de problemas de matemática, desta forma se constituindo em um jargão e um ambiente consistente e unificado para o estudo de diversas áreas da matemática. A capacidade de generalização, abstração e unificação de teorias é o grande mérito de teoria das categorias.
+Assim, ela fornece mecanismos para representar várias estruturas matemáticas, como por exemplo transformações naturais, produtos cartesianos, funções, topologias, etc.
+As aplicações de teoria das categorias estendem-se por áreas como álgebra, teoria da recursividade, semântica formal, etc.
+
+
+A única operação exigida em uma categoria é a composição. Composição em categorias é uma generalização da composição de funções de teoria dos conjuntos.
+Em teoria dos conjuntos, dadas duas funções  (tendo como domínio o conjunto  e como codomínio o conjunto ) e , definimos  como sendo a composição de  e , , desde que  para todo .
+Uma categoria consiste nos seguintes elementos:
+Diagramas servem para representar categorias. Se a composição de todos os caminhos entre dois objetos de um diagrama são iguais, diz-se que o diagrama comuta ou que ele é comutativo.
+Podemos expressar propriedades de teoria das categorias através de diagramas comutativos. Um exemplo é o diagrama ilustrado ao lado. Dados ,  e  que representa a propriedade associativa, .
+Dualidade é uma das noções mais poderosas de teoria das categorias. Ela permite herdar resultados da categoria original para a dual e vice-versa. Nesse caso dada uma definição em uma categoria, para obter o conceito dual basta inverter as setas.
+Seja uma categoria C e objetos  e  desta categoria.
+Uma seta  é dita monomorfismo (ou mono) se e somente se . Ou seja, uma seta é mono se ela pode ser cancelada a esquerda de uma composição.
+Em Set uma seta mono pode ser entendida como uma função injetora.
+Uma seta  é dita epimorfismo (ou epi) se e somente se . Ou seja, uma seta é epi se ela pode ser cancelada a direita de uma composição.
+Em Set uma seta epi é uma função sobrejetora.
+Finalmente, uma seta  é isomorfismo (ou iso) se e somente se existe  tal que  e .
+Toda seta iso é mono e epi, embora o contrário não seja necessariamente verdade. Por exemplo, na categoria formada por dois objetos  e , os morfismos identidade, e um único morfismo ,  é um monomorfismo e um epimorfismo, porém não é um isomorfismo.
+Em Set podemos pensar uma seta iso como sendo uma função bijetora.
+Dois objetos  e  de uma categoria são isomórficos, , se existe uma seta  que é iso.
+Isomorfismo estabelece, em certo grau de abstração, uma relação de "semelhança" ou "equivalência" entre objetos.
+Objeto inicial e objeto terminal são as construções mais simples em Teoria das Categorias.
+Seja C uma categoria. Um objeto  é inicial se e somente se para qualquer objeto  existe um único . O objeto inicial é uma noção universal, ou seja, definida pela existência e unicidade de morfismos.
+Um exemplo de objeto inicial em Set é o conjunto vazio, , pois existe uma única função total que tem como origem  e tem como destino qualquer outro conjunto, e esta é a função vazia (ou seja, aquela em que o gráfico da função é vazio).
+O objeto inicial é único, a não ser por isomorfismos.
+O objeto terminal, , é simplesmente a noção dual de objeto inicial. Significa que, dado um objeto  da categoria, existe um único .
+Em Set qualquer conjunto unitário (conjunto com um único elemento) é terminal. Isto ocorre pois, dado qualquer outro conjunto, só existe uma função total com origem neste conjunto e destino no conjunto unitário, que é a função constante (aquela em que os valores da função para todo o domínio são iguais).
+O conceito de limite incorpora a ideia de uma construção universal, ou seja, uma construção que tem um comportamento privilegiado ("ótimo") em relação a todas as outras que satisfazem determinada propriedade. O limite é dado pela existência de uma seta única entre todas estas construções e a construção que é considerada "ótima".
+Um dos exemplos mais simples de limite em teoria das categorias é o produto categorial. Ele é uma generalização do produto cartesiano. O produto categorial também é uma noção universal.
+Seja C uma categoria e  e  dois objetos da categoria C. O produto categorial de  e  é um objeto  e dois morfismos  e , tal que dado qualquer objeto  da categoria e para quaisquer morfismos  e  existe exatamente um  tal que o diagrama da figura ao lado comuta. Os morfismos  e  são chamados projeções.
+Podemos chamar o objeto  junto com as setas  e  de pré-produto.
+Naturalmente podemos definir o conceito dual ao produto categorial que é chamado de coproduto. Para isto basta inverter as setas do diagrama do produto.
+O produto categorial é um exemplo de limite, pois é dado pela existência de uma seta única (neste caso a seta ) entre qualquer outro pré-produto e ele.
+Outros exemplos da noção de limites em Teoria das Categorias são o equalizador, o produto fibrado, e o Cone.
+Functores são mapeamentos entre categorias que preservam estruturas. Eles podem ser entendidos como homomorfismos na categoria de todas as categorias pequenas (ou seja, a categoria que tem como objetos todas as categorias compostas por objetos que são conjuntos).
+Um functor (covariante)  da categoria C para a categoria D:
+tal que as seguintes propriedades valem:
+
+Conceitos e construções categoriais:
+Objeto | Morfismo | Categoria | Objeto inicial | Objeto terminal
+Monomorfismo | Epimorfismo | Isomorfismo | Limite | Colimite
+Produto categorial | Coproduto categorial | Equalizador | Coequalizador
+Produto fibrado | Soma amalgamada | Cone | Cocone | Functor
+Transformação natural | Objeto exponencial | Adjunção

@@ -1,0 +1,2 @@
+A Dinâmica do Plasma é a área geral que estuda a interação entre gases ionizados e campos eletromagnéticos que tem dependência temporal (Plasma).
+Em muitos dos problemas que essa área estuda, é impossível trabalhar com plasma de maneira essencialmente macroscópica. Dentre os conhecimentos mais utilizados, é necessário que se conheça sobre teoria cinética dos gases, onde os movimentos dos íons e elétrons devem ser estudados individualmente, suas interações com demais partículas podem então ser tratadas através da equação de Boltzmann.

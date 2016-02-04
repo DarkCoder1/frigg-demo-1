@@ -1,0 +1,6 @@
+Bjarne Stroustrup (Århus, 30 de dezembro de 1950) é um cientista da computação dinamarquês e professor catedrático da Universidade do Texas A&M. É conhecido como o pai da linguagem de programação C++.
+Stroustrup, nas suas próprias palavras, "inventou a C++, escreveu as suas definições iniciais e produziu a sua primeira implementação, (…) escolheu e formulou os critérios de projeção da linguagem C++, desenhou todas as suas facilidades principais e foi responsável pelo processo de propostas de extensão no comité de padrões de C++." Stroustrup também escreveu o que muitos consideram a obra padrão de introdução à linguagem, "A linguagem de programação C++", que se encontra na quarta edição. A obra possui revista para refletir a evolução da linguagem e o trabalho do comité de padrões de C++.
+Stroustrup é cand. scient. (o equivalente dinamarquês do grau de mestre) em matemática e ciência da computação (1975) pela Universidade de Aarhus, Dinamarca, e doutor em ciência da computação (1979) pela Universidade de Cambridge, Inglaterra. Ele desempenhou o cargo de diretor do Departamento de Investigação de Programação em Grande Escala dos Laboratórios Bell da AT&T, desde a sua criação até aos finais de 2002.
+
+
+

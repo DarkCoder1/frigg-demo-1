@@ -1,0 +1,36 @@
+
+Naturais 
+Inteiros 
+Racionais 
+Reais 
+Imaginários
+Complexos 
+Números hiper-reais
+Números hipercomplexos
+Quaterniões 
+Octoniões 
+Sedeniões 
+Complexos hiperbólicos 
+Quaterniões hiperbólicos
+Bicomplexos
+Biquaterniões
+Coquaterniões
+Tessarines
+Os números inteiros são constituídos dos números naturais,[1] incluindo o zero (0, 1, 2, 3, ...) e todos os números negativos simétricos aos números naturais não nulos (−1, −2, −3,−4 ...).[1] Dois números são simétricos se, e somente se, sua soma é zero.[2] Por vezes, no ensino pré-universitário, chamam-se a estes números inteiros relativos.
+O conjunto de todos os inteiros é representado por um Z em negrito (ou ainda um  em blackboard bold, ou ℤ, cujo código Unicode é U+2124), que vem do alemão Zahlen, que significa números, algarismos.
+Os inteiros (juntamente com a operação de adição) formam o menor grupo que contém o monoide aditivo dos números naturais. Como os números naturais, os inteiros formam um conjunto infinito contável.
+Os números inteiros podem ser simétricos, quando os números têm sinais opostos, ou pode existir também o valor absoluto de um número inteiro, que é a distância entre a origem e o número.
+
+
+Os resultados das operações de soma, subtração e multiplicação entre dois inteiros são inteiros.
+O fato de que todas as leis usuais da aritmética são válidas nos inteiros pode ser expresso matematicamente dizendo-se que (Z, +, *) é um anel comutativo com unidade.
+Os inteiros não formam um corpo, já que, por exemplo, não existe um inteiro x tal que 2x = 1. O menor corpo que contém os inteiros são os números racionais.
+Uma importante propriedade dos inteiros é a divisão com resto: dados dois inteiros a e b com b ≠ 0, podemos sempre achar inteiros q e r tais que a = b q + r e tal que 0 <= r < |b| (veja módulo ou valor absoluto). q é chamado o quociente e r, o resto da divisão de a por b. Os números q e r são unicamente determinados por a e b. Esta divisão torna possível o Algoritmo Euclidiano para calcular o máximo divisor comum, que também mostra que o máximo divisor comum entre dois inteiros pode ser escrito como a soma de múltiplos destes dois inteiros.
+Tudo isto pode ser resumido dizendo-se que Z é um domínio euclidiano. Isto implica que Z é um domínio de ideais principais e que todo número inteiro podem ser escrito como produto de números primos de forma única (desde que o 1 não seja considerado primo).
+Este é o teorema fundamental da aritmética.
+O ramo da matemática que estuda os inteiros é chamado de teoria dos números.
+Dois inteiros admitem relações binárias como =, > e <.
+A ordem de Z é dada por ... < −2 < −1 < 0 < 1 < 2 < ... e faz de Z uma ordenação total sem limite superior ou inferior. Chama-se de inteiro positivo os inteiros maiores que zero; o próprio zero não é considerado um positivo. A ordem é compatível com as operações algébricas no seguinte sentido:[2]
+Inteiro é frequentemente um tipo primitivo em linguagem de programação, normalmente com 1, 2, 4, ou 8 bytes de comprimento (8, 16, 32, ou 64 bits). Observe, porém, que um computador pode apenas representar um subconjunto dos inteiros com estes tipos, já que os inteiros são infinitos e uma quantidade de bits fixa limita a representação a um máximo de 2 à potência do número de bits ( para bytes,  para arquiteturas de 32 bits, etc). No entanto, o uso de técnicas de inteligência artificial permitem que computadores representem e raciocinem sobre o conjunto dos inteiros.
+os números negativos aparecem pela primeira vez num trabalho do matemático francês, Nicolas Chuquet, que viveu entre 1445 e 1488. A sua vida é pouco conhecida, mas sabe-se que viveu em Paris e Lion onde ganhou a sua vida como copista.
+O RSA é o mais conhecido dos métodos de criptografia de chave pública. Ele foi criado em 1978 por R. L. Rivest, A. Shamir e L. Adleman, que na época trabalhavam no MIT e é o mais usado em aplicações comerciais atualmente. A construção deste sistema é baseada nas propriedades da Teoria dos Números e suas principais características são: simplicidade, chave pública e extrema dificuldade em violar o código.

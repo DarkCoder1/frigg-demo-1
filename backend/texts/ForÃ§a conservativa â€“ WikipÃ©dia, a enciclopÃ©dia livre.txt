@@ -1,0 +1,45 @@
+Uma força é dita conservativa quando o seu trabalho é independente da trajetória. Em outras palavras, ao se mover, sob ação dessa força, uma partícula de um ponto A a um ponto B, o trabalho é independente da trajetória percorrida entre eles. Num sentido mais geral, uma força é conservativa se, e somente se, pode ser expressa como o gradiente de uma função escalar, chamada de energia potencial. O termo conservativa vem do fato de que, em se levando, por um caminho arbitrário, um objeto sujeito a essa força de um ponto A a um ponto B, e retornando então ao ponto A por alguma outra trajetória qualquer, não haverá perda da energia total - em qualquer caminho fechado, o trabalho dessa força será nulo. O trabalho de uma tal força entre dois pontos A e B quaisquer depende apenas do valor que a energia potencial associada assume em A e B. As forças conservativas mais familiares são a gravitacional, a elétrica e a elástica. [1]
+
+
+O teorema do trabalho e a energia potencial dá-se pela seguinte expressão:
+
+onde U(s) é uma primitiva da função Ft definida por:
+
+É habitual incluir um sinal negativo, que faz com que na equação de trabalho e energia potencial os sinais fiquem trocados em relação ao que se costuma fazer para calcular integrais definidos. A posição Sref é a posição de um ponto qualquer escolhido como referência. Para que a força seja realmente uma função da posição é necessário que sempre que a partícula se encontrar num ponto da sua trajetória, a força nesse ponto seja sempre igual.Uma força com essa propriedade é denominada força conservativa.
+A primitiva U(s) da força conservativa, definida pela equação acima, é designada por energia potencial. A escolha arbitrária do ponto de referência Sref não terá nenhuma consequência física, já que o que o trabalho será calculado a partir da diferença de energia potencial entre dois pontos.
+O trabalho da força resultante é igual ao aumento de energia cinética.
+A força resultante pode, em geral, incluir forças conservativas e não conservativas. O trabalho da força resultante pode ser calculado como o trabalho feito pela soma de todas as forças conservativas, mais o trabalho das forças não conservativas:
+(conservativas)(não conservativas)
+O trabalho das forças conservativas é igual à diminuição da energia potencial e o trabalho total é igual ao aumento da energia cinética. Assim, temos:
+ (não conservativas)
+em que U é a soma de todas as energias potenciais associadas a todas as forças conservativas e Ec é a energia cinética.
+Define-se a energia mecânica do sistema igual à soma das energias cinética e potencial:
+
+Em função da energia mecânica, a equação acima fica:
+ (não-conservativas)
+Denominado teorema do trabalho e a energia mecânica:O aumento da energia mecânica "Em", definida como a soma da energia cinética mais a energia potencial, é igual ao trabalho feito pelas forças não conservativas.
+Uma consequência desse resultado é a lei de conservação da energia mecânica: se não atuarem forças não conservativas, a energia mecânica do sistema permanecerá constante.[2]
+O gráfico da energia potencial associada a uma força conservativa é muito útil na análise do movimento. A figura a seguir mostra um exemplo; a curva representa a energia potencial total do sistema, em função da distância ao longo da trajetória, s.[2]
+Há duas propriedades importantes a salientar na análise dos gráficos de energia potencial. A primeira é que em qualquer ponto s, a componente tangencial da força associada à energia potencial é igual a menos a derivada da energia potencial:
+
+Já que a derivada de uma primitiva dá a função original. A segunda propriedade importante é que a partícula nunca poderá estar numa posição onde a energia mecânica seja  seja menor que a energia potencial, já que  é igual à energia cinética, que é sempre positiva ou nula. Aplicando essas propriedades ao exemplo no gráfico, vemos que nos intervalos - 2 < s < - 1 e 2 < s < 5 o valor da força tangencial é positivo, isto é aponta no sentido em que a posição s aumenta. [2]
+Nos intervalos - 1 < s < 2 e 5 < s < 6 o valor da força é negativo (aponta no sentido em que s diminui). Nos pontos s = - 1, s = 2 e s = 5 a força é nula. A esses pontos é dada a denominação de pontos de equilíbrio. A energia mecânica não pode ser menor que - 6:75. A reta horizontal que se mostra corresponde a uma energia mecânica igual a 2.25 unidades. Admitindo que não existam forças não conservativas, essa energia permanece constante. Com essa energia, a partícula só poderá estar nas regiões em que: 
+por exemplo, a partícula não poderia estar na posição s = 3. A partícula estará confinada a uma vizinhança do ponto -1 ou 5.
+Nos pontos em que a reta horizontal (energia mecânica da partícula) corta a curva da energia potencial, a energia cinética será nula e, portanto, a partícula estará em repouso; no entanto a partícula não permanece em repouso por muito tempo, porque a força nesses pontos não é nula [2] . Por exemplo, se num instante a partícula estiver na posição s = 5, deslocando-se no sentido em que s aumenta, deslocar-se-á até um ponto perto de s = 6 onde a partícula para; nesse ponto a força aponta no sentido negativo da distância, o que faz com que a partícula regresse para o ponto s = 5, mas agora com velocidade no sentido negativo da distância. A partícula aproximar-se-á do ponto s = 3:8, onde a sua velocidade será nula; nesse ponto, sendo a força no sentido positivo da distância, a partícula regressará à posição s = 5 e o ciclo será repetido novamente.
+O peso é uma força conservativa.[2]
+Usando um sistema de coordenadas em que o eixo do z é vertical e aponta para cima, o peso é:
+
+O trabalho realizado por essa força entre dois pontos A e B é:
+
+Em coordenadas cartesianas, o produto escalar entre a força e o deslocamento é:
+
+e, portanto o integral desde A até B será um integral em ordem à variável z, desde Za até Zb:
+
+Este resultado mostra que o trabalho depende apenas das alturas inicial e final e o resultado será o mesmo independentemente do percurso seguido entre esses dois pontos.[2] A energia potencial gravitacional, associada ao peso, é:
+
+A escolha da origem é arbitrária: as alturas podem ser medidas em relação a qualquer ponto, sem ter que ser em relação ao solo.
+Uma mola elástica esticada ou comprimida exerce uma força dirigida na direção e sentido que faz regressar a mola à sua forma normal.
+O módulo da força exercida pela mola é diretamente proporcional à elongação da mola. Se pendurarmos um peso , a mola é esticada até ficar numa posição em que a força elástica equilibra o peso. Duplicando esse peso duplica-se a elongação.
+A expressão matemática dessa relação entre a força elástica  e a elongação  é chamada lei de Hooke.[2] 
+em que  é a constante elástica da mola e a posição  é medida desde a posição em que não está a ser exercida nenhuma força sobre a mola.[2]
+A força elástica é uma força conservativa. Usando como ponto de referência o ponto  em que a mola tem o seu comprimento normal, a energia potencial elástica é:

@@ -1,0 +1,45 @@
+Impulsão ou empuxo é a força hidrostática resultante exercida por um fluido (líquido ou gás) em condições hidrostáticas sobre um corpo que nele esteja imerso. A impulsão existe graças à diferença de pressão hidrostática do corpo, visto que esta é proporcional à densidade (massa específica) do líquido, à aceleração da gravidade, e à altura de profundidade.
+
+
+É costume identificarmos os fluidos como substâncias que podem fluir (como os gases e os líquidos). Algumas substâncias, como o vidro, são classificadas como sólidas, pois nos tempos que costumamos observá-las, não notamos a sua fluidez. Quando um corpo está totalmente ou parcialmente imerso em um fluido em equilíbrio, ficará sob a ação de uma força que dependerá da porção do corpo que está imersa. Isto pode ser verificado se tentarmos submergir uma cortiça ou bola cheia de ar em recipiente com água.
+A força que faz a cortiça flutuar, parecendo que o corpo possui um peso menor do que o peso real é denominado de empuxo do fluido sobre o corpo. O princípio de Arquimedes quantifica o valor desta força:
+Um corpo total ou parcialmente imerso em um fluido sofre um empuxo que é igual ao peso do volume do fluido deslocado pelo corpo. Assim, um corpo imerso na água torna-se mais leve devido a uma força, exercida pelo líquido sobre o corpo, vertical e para cima, que alivia o peso do corpo. Essa força do líquido sobre o corpo, é denominada empuxo ou impulsão.
+Resumindo, quando mergulhamos um corpo em um líquido, o corpo desloca uma quantidade de líquido igual a seu volume, e o peso desse volume de líquido deslocado é subtraido do peso do corpo pela força denominada empuxo.
+Portanto, num corpo que se encontra imerso em um líquido em repouso, actuam duas forças, ambas com mesmo centro de ação:
+Isto quer dizer que, para o objeto flutuar, o peso do líquido deslocado pelo objeto tem de ser maior que o próprio peso do objeto.
+O módulo da impulsão, I, é igual ao módulo do peso do fluido deslocado pelo corpo. Assim,
+Em que:
+ρ é a densidade do fluido;
+V é o volume do fluido deslocado;
+g é a aceleração da gravidade (~9.8 m/s² na Terra);
+Para um corpo que flutua, a impulsão tem que superar o peso, isto é:
+I > P, ou seja
+Para que o corpo se mantenha suspenso no fluido, a impulsão tem que igualar o peso, isto é: Quando um objeto pesa mais que o volume do fluido por ele deslocado ele afunda até que o empuxo seja igual ao seu peso.
+P = I, ou seja
+Outra forma de definir a impulsão é a diferença entre o peso real e o peso aparente (I=Pr-Pa)
+Seja um líquido estático qualquer, com uma distribuição densidade de  , sob a ação de um campo gravitacional  .
+Se um corpo rígido de qualquer forma for mergulhado nesse líquido, a força que agirá sobre ele é a resultante das forças infinitesimais exercidas pela pressão do líquido em cada ponto da sua superfície. Essas forças são diretamente proporcionais à pressão e ao elemento de área correspondentes a determinado ponto da superfície, e são dirigidas para o interior do corpo, de modo que podemos escrever
+Onde  é um vetor diretamente proporcional àquele elemento de área da superfície, diretamente proporcional à pressão e na direção da normal à superfície naquele ponto, dirigido para fora do corpo. Integrando sobre toda a superfície do corpo, temos:
+A pressão em cada ponto deve obedecer a uma equação diferencial, a equação de Euler:
+Para um fluido estático, temos:
+Agora usemos a identidade vetorial:
+Para obter, da expressão da força,
+Agora, considerando que o campo gravitacional é uniforme, isto é,  , temos
+Mas identificamos essa integral com a massa M de água deslocada pelo corpo, ao ser submerso. Então, temos, finalmente:
+Que é a expressão desejada para o empuxo.
+Quando um corpo é composto de material menos denso que o fluido onde está imerso, pode encontrar uma posição de equilíbrio flutuando na superfície. Este é o caso dos icebergs que ficam estáveis flutuando na água quando a porção de volume imersa gera empuxo suficiente para sustentar seu peso. Ou seja, denotando por  o volume imerso do iceberg, , seu volume total e  a densidade do gelo, a condição de equilíbrio se torna:
+Resolvendo para , 
+Assim, obtemos que o volume imerso de um iceberg equivale a 92% de seu volume total, ficando apenas 8% visível fora d'água, dando origem à expressão.
+O Princípio de Arquimedes foi enunciado pela primeira vez pelo sábio grego Arquimedes, e pode ser enunciado como:
+Se denotarmos por:
+O princípio de Arquimedes se resume a:
+Como a força peso do corpo é dada pela produto da massa pela aceleração da gravidade . Podemos enunciar o seguinte critério:
+Quando um corpo mais denso que um líquido é totalmente imerso nesse líquido, observamos que o valor do seu peso, dentro desse líquido, é aparentemente menor que no ar. A diferença entre o valor do peso real e do peso aparente corresponde à impulsão exercida pelo líquido:
+Se a massa do corpo imerso for expressa como o produto de sua densidade média por seu volume V, então o critério de Arquimedes assume a seguinte forma:
+Conta Vitrúvio que o sábio grego Arquimedes o descobriu enquanto tomava banho, quando procurava responder a Hierão II, rei de Siracusa, se sua coroa era realmente de ouro puro.
+Hierão, assim que se tornou rei de Siracusa, mandou fazer uma coroa de ouro, para ofertar aos deuses imortais.[1] Para isso, contratou um homem e ofereceu-lhe uma grande quantidade de ouro; na data prevista, o homem trouxe-lhe a coroa executada na perfeição, que tinha o mesmo peso do ouro fornecido.[1]
+Porém, correram rumores de que parte do ouro havia sido subtraído, e substituído por prata.[2] Hierão ficou indignado com a fraude, e sem saber como o roubo poderia ser descoberto, passou o problema para Arquimedes.[2]
+Um dia, enquanto tomava banho na banheira, Arquimedes observou que, à medida que seu corpo mergulhava na banheira, a água transbordava, descobrindo o método para a solução do problema.[2] De tão contente que estava saiu da banheira e foi para a rua gritando a famosa expressão que, em grego quer dizer descobri, achei, encontrei: [2]
+Assim, pegou duas massas de ouro e prata, com o mesmo peso da coroa, e um vasilhame de água, cheio até a borda.[3] Mergulhou e retirou a massa de prata, completando em seguida o volume, medindo a quantidade de água necessária para encher o vasilhame.[3] Em seguida, fez o mesmo com o ouro, observando que precisava de menos água para encher desta vez.[4]
+Por fim, inseriu a coroa na água.[4] Esta derramou mais água do que o ouro e menos do que a prata.[4] Arquimedes pode então calcular quanta prata havia sido misturada, na coroa, ao ouro, e pode desvendar o mistério da coroa e desmascarar o vilão.[4]
+Para compreender, lembre-se que tanto a coroa, quanto o pedaço de ouro e quanto o pedaço de prata utilizados por Arquimedes tinham todos a mesma massa. Entretanto, como a densidade do ouro é maior do que a da prata, o pedaço de ouro ocupa um volume menor que o pedaço de prata de mesmo peso. Se o pedaço de ouro possui menor volume, então o mesmo deslocou um volume menor de água do que o pedaço de prata. A coroa, sendo feita de uma mistura de ouro e prata, possuía uma densidade média entre o ouro e a prata.

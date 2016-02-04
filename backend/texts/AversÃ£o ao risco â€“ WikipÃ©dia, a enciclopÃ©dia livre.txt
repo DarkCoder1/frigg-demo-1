@@ -1,0 +1,10 @@
+Aversão ao risco é um conceito em psicologia, economia e finanças, com base no comportamento humano (especialmente dos consumidores e investidores) quando expostos a incerteza.
+Aversão ao risco é a relutância de uma pessoa para aceitar um negócio com um retorno incerto, em vez de outro negócio com um retorno esperado mais certo, mas possivelmente menor. Por exemplo, um investidor avesso ao risco pode optar por colocar seu dinheiro numa conta bancária com uma taxa de juros baixa mas garantida, em vez de optar por ações que podem ter retornos elevados, mas também tem uma probabilidade de peder o seu valor.
+Fora dos campos mais matemáticos da economia e das finanças, as pessoas precisam fazer escolhas sobre como eles agir frente aos riscos do dia a dia. Alguns são preferem ser mais cautelosos, preferindo a minimizar riscos, mesmo quando o benefício potencial de uma escolha é grande.
+
+
+É dada a uma pessoa a escolha entre dois cenários, um com um retorno garantido e outro sem essa garantia. No cenário garantido, a pessoa receberá 50 . No cenário incerto, uma moeda é atirada ao ar para decidir se a pessoa recebe 100 ou nada. O retorno esperado para ambos os cenários é de 50, o que significa que para um indivíduo que seja insensível ao risco seria indiferente escolher o pagamento garantido ou o jogo de azar.
+Mas os indivíduos podem ter diferentes atitudes perante o risco. Um indivíduo é:
+O retorno médio de aposta, conhecido como valor esperado, é de 50. A quantidade que o indivíduo estaria disposto a aceitar em vez da aposta é chamada de certeza equivalente e a diferença entre a certeza equivalente e o valor esperado é chamado de prémio de risco.
+Seja uma função de utilidade de Bernoulli u(.) para dinheiro que seja duas vezes diferenciável. Então, o coeficiente de Arrow-Pratt de aversão absoluta ao risco no ponto x é definido como[1] :
+Quando um agente é neutro ao risco,  e portanto .

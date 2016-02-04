@@ -1,0 +1,19 @@
+Em biologia, chama-se ciclo celular um conjunto de processos que se passam numa célula viva entre duas divisões celulares. O ciclo celular consiste na intérfase e na fase mitótica, que inclui a mitose e a divisão celular (citocinese).[1]
+
+
+A vida de uma célula começa no momento em que a divisão celular que a originou acaba e termina quando ela mesma se divide ou morre (toda a actividade celular cessa).
+A interfase corresponde ao período entre o final de uma divisão celular e o início da outra. Geralmente a célula encontra-se nesta fase durante a maior parte da sua vida.
+Durante esta fase os cromossomas não são visíveis ao microscópio óptico. É um período de intensa atividade na célula, quando ocorre a duplicação do material genético.[1]
+A intérfase divide-se em três fases:
+As fases G e S possuem estas denominações em decorrência de abreviações do inglês - G para gap (intervalo) e S para synthesis (síntese).
+É denominada fase G0 quando uma célula permanece continuamente durante a intérfase interrompendo a divisão.É possível através de estímulos externos retornar a célula para seu ritmo normal.
+Como já foi dito a fase mitótica divide-se em duas fases: a Mitose (ou cariocinese) e a Citocinese.
+Nesta fase ocorre a divisão nuclear (nas células eucarióticas). É um processo contínuo, no entanto distinguem-se quatro fases:[1]
+Corresponde à divisão celular e, consequentemente, à individualização das duas células-filhas;[1] A citocinese difere conforme a célula for animal ou vegetal.
+Na célula animal a citocinese consiste no estrangulamento do citoplasma.
+No fim da mitose formam-se, na zona do plano equatorial, um anel contráctil de filamentos proteicos que, na citocinese, contraem-se e puxam a Membrana plasmática para dentro até que as duas células-filhas se separam. Assim podemos dizer que a citocinese animal e centripta porque ocorre de fora para dentro.
+Na célula vegetal a parede celular não permite o estrangulamento do citoplasma; em vez disso é formada na região equatorial uma nova parede celular. Para isso vesículas provenientes do complexo de Golgi alinham-se no plano equatorial e formam, fundindo-se, uma estrutura que é a membrana plasmática das células filhas. Mais tarde, por deposição de fibrilas de celulose forma-se nessa região a parede celular. As vesiculas golgianas contem elementos constituintes da parede celular, como pectinas . Esta citocinese e centrifuga, pois ocorre de dentro para fora, isto e, fundem-se primeiro as vesiculas goliganas interiores e depois as mais exteriores de uma forma progressiva.
+O ciclo celular pode parar em determinados pontos e só avança se determinadas condições se verificarem, tais como a presença de uma quantidade adequada de nutrientes ou quando a célula atinge determinadas dimensões. A regulação do ciclo celular é realizada por ciclinas e por quinases ciclino-dependentes.
+Certas células, como os neurônios, param de se dividir quando o animal atinge o estado adulto, mantendo-se durante o resto da vida do indivíduo na fase G0.
+Existem três momentos em que os mecanismos de regulação atuam:
+Alem disso, no final de G1, a célula entra em apoptose celular, caso sejam detectados erros no DNA impossíveis de reparar.

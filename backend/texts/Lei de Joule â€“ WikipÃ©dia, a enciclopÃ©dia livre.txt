@@ -1,0 +1,14 @@
+Lei de Joule (também conhecida como efeito Joule ou efeito térmico) é uma lei física que expressa a relação entre o calor gerado e a corrente elétrica que percorre um condutor em determinado tempo. Um resistor é um dispositivo que transforma a energia elétrica integralmente em calor.[1] O nome é devido a James Prescott Joule (1818-1889) que estudou o fenômeno em 1840 e, um ano mais tarde, publicada na Philosophical Magazine, pela Royal Society.[2]
+
+
+Ela pode ser expressa por:[1]
+onde:
+Se a corrente não for constante em relação ao tempo:
+Quando uma corrente elétrica atravessa um material condutor, há produção de calor. Essa produção de calor é devida ao trabalho realizado para transportar as cargas através do material em determinado tempo.
+A lei de Joule está relacionada com a definição de joule onde:
+Onde:
+A nível molecular o aquecimento acontece por causa da colisão dos elétrons com os átomos do condutor, em que o momento é transferido ao átomo, aumentando a sua energia cinética (ver calor).
+Podemos dizer, portanto, que, quando o elétron colide com os átomos, fazem com que os núcleos vibrem com maior intensidade. O grau de agitação molecular é chamado de temperatura, ou seja, quando os elétrons colidem, aumentam a energia cinética dos átomos, sua temperatura.
+Lei de Joule quando passa uma corrente elétrica num condutor, a energia elétrica é transformada em energia calorífera.
+Nos resistores elétricos pode-se calcular a potência dissipada utilizando a Lei de Joule:
+É, principalmente, por causa do efeito Joule que a energia elétrica é transportada em longas distâncias em tensões mais altas (geralmente 13.200 V) e também a tensão das zonas rurais é 220V e 440V e nas urbanas 220V e 380V. A maior tensão permite que a corrente seja menor (para uma mesma potência ,  ) e assim menos energia desperdiçada no efeito Joule (o outro motivo é o uso de cabos mais finos em secção reta com a economia do material condutor e estrutura de sustentação).

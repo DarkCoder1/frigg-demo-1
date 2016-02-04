@@ -1,0 +1,4 @@
+Altitude é a distância vertical medida entre um ponto da superfície terrestre e o nível médio do mar.[1]
+A altitude e a temperatura do local em que ela é medida normalmente são grandezas inversamente proporcionais, pois quando a altitude aumenta em 150m a temperatura ambiente diminui aproximadamente 1 grau Celsius. Por conta disto, via de regra a temperatura ambiente diminui aproximadamente 6,5 °C/Km, à medida que a altitude aumenta. A este valor de 5 °C/Km - que nada mais é que uma taxa de variação de 6,5 °C para cada 1000 m de distância vertical percorrida - dá-se o nome gradiente térmico.[2]
+
+

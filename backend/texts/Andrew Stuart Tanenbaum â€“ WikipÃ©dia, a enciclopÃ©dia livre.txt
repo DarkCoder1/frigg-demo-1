@@ -1,0 +1,9 @@
+Andrew Stuart "Andy" Tanenbaum[1] (White Plains, 16 de março de 1944) é o chefe do Departamento de sistemas de computação, na Universidade Vrije, Amsterdã nos Países Baixos. Ele é o autor do MINIX, um sistema operacional baseado no Unix com propósito educacional, e bastante conhecido por seus livros sobre ciência da computação.
+Nasceu na cidade de Nova Iorque e cresceu em White Plains no estado de Nova Iorque. Recebeu o título de bacharelado pelo MIT e o doutorado pela UC Berkeley em 1971. Atualmente ministra aulas sobre Organização de computadores e Sistemas operacionais, muito conhecido na área de Arquitetura de Computadores, tendo seus livros como base para diversos cursos da área.
+Ficou conhecido internacionalmente pelos seus livros de Ciência da computação, particularmente:
+Outras publicações:
+O núcleo Linux foi inspirado no MINIX(utilizava o sistema de arquivos e o bootloader do MINIX, porém, era uma implementação do zero). Tanenbaum ficou envolvido com as discussões do Usenet durante 1992 com Linus Torvalds, criador do Linux, sobre os méritos básicos de Torvalds usando núcleo monolítico em vez de micronúcleo que Tanenbaum achou que era o meio do futuro.
+Também implementou o sistema operacional distribuído Amoeba.
+
+
+Andrew Tanenbaum foi apresentador da série de documentários Beyond 2000 (Para além do ano 2000), onde eram apresentadas várias inovações tecnológicas.

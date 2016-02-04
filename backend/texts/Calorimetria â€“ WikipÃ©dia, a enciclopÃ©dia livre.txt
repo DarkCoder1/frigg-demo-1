@@ -1,0 +1,19 @@
+Em termodinâmica, calorimetria é um ramo da física que estuda as trocas de energia entre corpos ou sistemas quando essas trocas se dão na forma de calor.[1] Calor significa uma transferência de energia térmica de um sistema para outro, ou seja: podemos dizer que um corpo recebe calor, mas não que ele possui calor.
+A calorimetria é uma ramificação da termologia que analisa os problemas enfrentados na troca de calor em sistemas de temperaturas diversas no interior de recipientes isolados do meio externo ou não. Podemos exemplificar a situação, se dois corpos X e Y possuem temperaturas TA e TB, sendo TA > TB, forem colocados dentro de um recipiente termicamente isolado do meio externo, pode-se observar que após certo tempo, os corpos vão aprestar temperaturas iguais, TA=TB. Em um sistema termicamente isolado, a temperatura de equilíbrio entre os corpos em contato será sempre maior que a menor temperatura e sempre menor que a maior temperatura.[2] [3]
+
+
+Calor - Energia térmica que flui de um corpo para outro em virtude da diferença de temperatura entre eles. Pode ser adicionado ou removido de uma substância. É medido em calorias ou joules S.I.
+Calor sensível - É o calor absorvido ou cedido por um corpo que tem como consequência a variação da energia cinética de vibração, que, atua diretamente na temperatura do corpo em questão. O corpo que absorve ou distribui calor, mantém seu estado de agregação, variando sua temperatura.
+Calor latente - É o calor cedido ou absorvido por um corpo que tem como consequência a variação da energia potencial. O corpo que absorve ou distribui, mantém sua temperatura constante, porém passa por mudança de estado físico.
+Capacidade térmica (C) - É a razão entre a quantidade de calor e a variação de temperatura.[1] . A capacidade térmica de um sistema entre dois ou mais corpos, corresponde a soma dos calores individuais da capacidade térmica de cada corpo. 
+A unidade de capacidade térmica no S.I. é o J/K (joule por kelvin).
+Calor específico (c): É a capacidade específica de uma substância de mudar sua temperatura ao receber ou liberar calor para cada massa unitária que esta vier a se incluir. Isto quer dizer que a Capacidade Térmica de um corpo é dada pelo Calor Específico da substância que o compõe e sua massa. Quanto menor o calor específico de uma substância, menor será a quantidade de calor necessária para elevar a sua temperatura. O calor específico depende do estado de agregação do sistema, sendo maior no estado líquido do que no estado sólido.
+A unidade usual para determinar o calor específico é
+ e no S.I. é o J/K.kg
+
+Uma caloria (1 cal): é a quantidade de calor necessária para aquecer, sob pressão normal, 1,0 g de água de 14,5°C a 15,5°C.[4]
+(Quantidade de Calor Sensível)
+Ocorre mudança de temperatura nas substâncias.
+
+Ocorre mudança de estado físico nas substâncias.
+

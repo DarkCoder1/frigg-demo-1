@@ -1,0 +1,17 @@
+ 
+O peróxido de hidrogénio (português europeu) ou peróxido de hidrogênio (português brasileiro) que, em solução aquosa, é conhecido comercialmente como água oxigenada, é um líquido claro de fórmula química H2O2. Foi descrito a primeira vez por Louis Jacques Thénard, numa reacção de peróxido de bário com ácido nítrico.[1]
+Trata-se de um líquido viscoso e poderoso oxidante. É incolor à temperatura ambiente e apresenta característico sabor amargo. Quantidades pequenas de peróxido de hidrogénio gasoso ocorrem naturalmente no ar. O peróxido de hidrogénio é instável e quando perturbado, rapidamente se decompõe (através da enzima Catalase, presente em nosso corpo), de H2O2, em água (H2O) e oxigênio (O2) com libertação de calor. Deste modo, quando ele é transformado em água e oxigénio pela catalase, acaba por matar bactérias e vírus anaeróbicos (que não sobrevivem à presença de oxigénio), pois libera oxigénio puro, tendo a função de "Desinfectante Oxidante". Embora não seja inflamável, é poderoso agente oxidante que pode sofrer combustão espontânea em contacto com matéria orgânica ou alguns metais como o cobre ou o bronze.
+O peróxido de hidrogénio é encontrado em concentrações baixas (3-9%) em muitos produtos domésticos para uso medicinal e como clareador da roupa e do cabelo. Na indústria, o peróxido de hidrogénio é usado em concentrações mais elevadas para clarear tecidos, pasta de papel, e ainda como combustível para ajuste e correcção nas trajectórias e órbitas de satélites artificiais no espaço. Na área médica é usado como desinfectante ou agente esterilizante em autoclave de plasma. Na área química é usado como componente da espuma de borracha orgânica e outras substâncias químicas. Noutras áreas como na investigação é usado para medir a actividade de algumas enzimas como a catalase.
+O peróxido de hidrogénio actua ainda em diversos mecanismos de degradação de aminoácidos (em associação com amino-oxidases), por conta de seu poder oxidante elevado. Tal composto ainda pode actuar na fotossíntese (ciclo do glioxilato), e na síntese de glicose a partir de fontes que não contenham carboidratos (gliconeogénese).
+
+
+O peróxido de hidrogênio costumava ser produzido a partir da eletrólise aquosa do  a 50% em massa, produzindo o ácido peroxodissulfúrico e hidrogênio, segundo as semi-reações:
+
+
+O acido peroxodissulfúrico entra em equilíbrio químico com o ácido sulfúrico e o ácido peroxodissulfúrico segundo a reação:
+
+Por fim, o ácido peroxomonossulfúrico entra em equilíbrio químico com o ácido sulfúrico e o peróxido de hidrogênio:
+
+O peróxido de hidrogênio é produzido industrialmente a partir do equilíbrio entre antraquinol e antraquinona na presença de oxigênio e hidrogeitaria.
+Ao final dessa etapa o peróxido de hidrogênio é extraído pela água e sua concentração é feito por meio da destilação a pressão reduzida.
+Obs.: A água oxigenada vendida comercialmente é uma mistura de água e peróxido de hidrogénio, sendo que o peróxido de hidrogénio representa entre 3% e 9% desta mistura. Apesar de ser muitas vezes empregada dessa forma, "água oxigenada" não é sinonimo de "peróxido de hidrogênio".

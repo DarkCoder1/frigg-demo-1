@@ -1,0 +1,49 @@
+Em óptica, emissão estimulada é o processo pelo qual a matéria, quando perturbada por um fóton, pode perder energia resultando na criação de algum outro fóton. O fóton causador da perturbação não é destruído no processo, e o segundo fóton é criado com a mesma fase, freqüência, polarização, e direção do fóton original. A emissão estimulada é realmente um fenômeno da mecânica quântica mas ela pode ser entendida em termos de um campo eletromagnético clássico e uma mecânica quântica do átomo. O processo pode ser pensado como uma amplificação óptica, e ele forma a base do laser e maser.
+A interação dos Elétrons entre si e os campos eletromagnéticos constituem a base da maior parte de nosso entendimento de química e física. Os elétrons possuem energia que depende o quão longe eles estão em média do núcleo de um átomo. O Princípio de Exclusão de Pauli força alguns elétrons estarem mais longe do núcleo do que outros (que é porque todos os elétrons em um átomo não simplesmente ocupam o orbital 1s). Quando os elétrons absorvem energia da luz (fótons) ou calor (fônons), eles movem-se para mais longe do núcleo atômico, mas somente é permitido que eles absorvam energia que equivalha à diferença entre níveis de energia específicos.
+Quando um elétron é excitado, ele não ficará desta maneira para sempre. Em média existe um tempo de vida para alguns níveis de energia particulares depois que metade dos elétrons inicialmente neste estado terão decaído para um estado mais baixo. Quando tal decaimento ocorre, a diferença de energia entre o nível que o elétron estava e o novo nível que ele estará deve ser liberada como um fóton ou um fônon. Quando um elétron decai ao acaso depois de um certo intervalo de tempo,é dito ser devido a uma "emissão espontânea". A fase associada ao fóton que é emitido é aleatória e tem que estar de acordo com algumas ideias da mecânica quântica no que se refere ao estado interno do átomo. Se um grupo de elétrons estavam por alguma razão em um estado excitado e então eles relaxam, a radiação resultante seria muito limitada espectralmente (somente um comprimento de onda da luz estaria presente), mas os fótons individuais não estariam em fase entre eles. Isto é também chamado fluorescência.
+Outros fótons poderão afetar um estado do átomo. As variáveis da mecânica quântica mencionadas acima serão modificadas. Especificamente o átomo atuará como um pequeno dipólo elétrico que oscilará com o campo externo. Uma das conseqüências desta oscilação é que ela estimula os elétrons a decair para estados de energia mais baixos. Quando isto ocorre devido à presença de outros fótons, o fóton libertado está em fase com outros fótons e na mesma direção que os mesmos. Isto é conhecido como emissão estimulada.
+A emissão estimulada pode ser modelada matematicamente pela consideração de que um átomo que pode estar em dois estados de energia eletrônicos, o “estado fundamental” (1) e o “estado excitado” (2), com energias E1 e E2, respectivamente.
+Se o átomo está no estado excitado, ele pode decair para o estado fundamental pelo processo de emissão espontânea, liberando a diferença de energia entre os dois estados como um fóton. O fóton terá freqüência ν e energia hν, dada por
+onde h é constante de Planck.
+Alternativamente, se o estado excitado do átomo é perturbado pelo campo elétrico de um fóton com freqüência ν, ele pode libertar um “segundo” fóton da mesma freqüência, em fase com o primeiro fóton. O átomo decairá novamente para o estado fundamental. Este processo é conhecido como emissão estimulada.
+Em um grupo de átomos semelhantes, se o número de átomos no estado excitado é dado por “N”, a razão em que a emissão estimulada ocorre é dada por:
+onde B21 é uma constante de proporcionalidade para esta transição particular neste átomo particular (referência em coeficiente B de Einstein , e ρ(ν)é a densidade de radiação dos fótons de freqüência ν. A razão da emissão é desta forma proporcional ao número de átomos no estado excitado,”N”, e a densidade dos fótons perturbadores.
+O detalhe crítico da emissão estimulada é de que o fóton emitido é idêntico ao fóton estimulador em que ele tem a mesma freqüência, fase, polarização, e direção de propagação. Os dois fótons, como resultado, são totalmente coerentes. É esta propriedade que permite a amplificação óptica ocorrer.
+Embora mais diretamente relacionado à discussão de como o laser funciona, a emissão estimulada toca em alguns dos mais básicos conceitos em Física e a interação de luz e matéria. Ela é muito importante e é conhecimento chave para o entendimento específico da óptica e da Física em geral.
+
+
+Embora existam muitas formas de linhas possíveis, é comum para o modelo a função forma de linha espectral como uma distribuição de Lorentz:
+onde
+Este modelo é geralmente válido tanto quanto
+e
+A função forma da linha, apesar da forma que ela toma, deve satisfazer a condição de normalização de alguma distribuição de probabilidade:
+que a distribuição de Lorentz satisfaz.
+O valor máximo da forma de linha lorentziana ocorre no centro da linha:
+É também conveniente definir a função forma de linha normalizada:
+que é adimensional, e que tem um valor máximo, também no centro da linha, de:
+A emissão estimulada através da secção (em metros quadrados) é
+onde
+Sob certas condições, a emissão estimulada pode fornecer um mecanismo físico para a amplificação óptica . Uma fonte externa de energia estimula os átomos no estado fundamental para a transição para o estado excitado, criando o que é denominado inversão de população. Quando a luz de freqüência apropriada passa através do meio invertido, os fótons estimulam os átomo excitados a emitir fótons adicionais de mesma freqüência, fase e direção, resultando em uma amplificação da intensidade de entrada. A inversão de população, em unidades de átomos por metro cúbico, é:
+onde g1 e g2 são as degenerescências dos níveis de energia 1 e 2, respectivamente.
+A intensidade (em watts por metro quadrado) da emissão estimulada é governada pela seguinte equação diferencial:
+Agrupando os primeiro dois fatores, esta equação é simplificada como:
+onde
+é o coeficiente de ganho do pequeno sinal (em unidades de radianos por metro). Nós podemos resolver a equação diferencial usando separação de variáveis:
+Integrando, nós encontramos:
+ou
+onde
+A intensidade de saturação IS é definida como a intensidade de entrada em que o ganho do amplificador óptico cai para exatamente metade do ganho do sinal pequeno. Nós podemos considerar a intensidade de saturação como
+onde
+A forma geral da equação de ganho, que aplica apesar de tudo da intensidade de entrada, deriva da equação diferencial geral para a intensidade I como função da posição z no meio ganho:
+onde  é a intensidade de saturação. Para resolver, nós primeiro rearranjamos a equação em ordem para separar as variáveis, intensidade I e posição z:
+Integrando ambos os lados, nós obtemos
+ou
+O ganho G do amplificador é definido como a intensidade óptica I na posição z dividida pela intensidade de entrada:
+Substituindo esta definição na equação anterior , nós encontramos a equação de ganho geral:
+No caso especial onde o sinal de entrada é pequeno comparado à intensidade de saturação, em outras palavras,
+então a equação de ganho geral dá o ganho do sinal pequeno como
+ou
+que é idêntica à equação de ganho de sinal pequeno (ver acima).
+Para sinais de entrada grandes, onde
+o ganho aproxima-se da unidade
+e a equação de ganho geral aproxima-se de uma assintótica linear.

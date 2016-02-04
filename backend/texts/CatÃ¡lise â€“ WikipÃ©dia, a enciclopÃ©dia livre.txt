@@ -1,0 +1,13 @@
+Catálise,[nota 1] em química, é o aumento da velocidade de uma reação, devido à adição de uma substância (catalisador);[2] sendo assim, a catálise pode ser simplesmente definida como sendo a ação do catalisador.[3]
+Existem dois tipos de catálise:
+O processo no qual um dos próprios produtos da reação promove a catálise, é chamado de “autocatálise”.[2]
+Um exemplo comum de um processo catalítico, é quando a tromboplastina catalisa a reação de conversão de uma proteína sanguínea com íons de cálcio (transformando a protrombina em trombina). Após outros processos, forma-se o coágulo.[carece de fontes?]
+As substâncias que reduzem a ação dos catalisadores são chamadas inibidores catalíticos se são reversíveis, e venenos catalíticos se são irreversíveis. Os promotores ou ativadores são substâncias que aumentam a atividade catalítica, quando não são catalisadores.
+
+
+A que é provocada por íons hidrogênio ou por substância de natureza ácida. Pode ser realizada através de um solvente prótico (por exemplo ácido sulfúrico).
+A que é provocada por íons hidroxila ou por substância de natureza básica, como aminas.
+A que é provocada tanto por íons ácidos como também por íons básicos.
+A catálise homogênea diz respeito a processos nos quais um catalisador está em solução com pelo menos um dos reagentes. Ocorre quando a mistura catalisadores e reagentes é uma mistura homogênea.
+É um tipo de catálise onde reagentes, produtos e catalisadores encontram-se em fases diferentes. Normalmente o catalisador é sólido e os reagentes e produtos estão na forma líquida ou gasosa. Nesse caso, o catalisador fornece uma superfície onde os reagentes irão reagir mais facilmente, e com menor energia de ativação.
+Aquela que emprega catalisador capaz de retirar um reagente de uma fase, por exemplo aquosa e transferi-lo para outra fase, por exemplo orgânica (benzeno, etc), na qual sua reatividade se torna maior.

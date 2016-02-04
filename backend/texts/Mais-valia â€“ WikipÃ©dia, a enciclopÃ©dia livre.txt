@@ -1,0 +1,59 @@
+Sobre a Questão Judaica
+Grundrisse
+A Ideologia Alemã
+Teses sobre Feuerbach
+Consciência de classe
+Fetichismo da mercadoria
+Comunismo
+Hegemonia cultural
+Exploração · Natureza humana
+Ideologia · Proletariado
+Reificação · Socialismo
+Meios de produção
+Modo de produção
+Forças produtivas
+Mais-valia
+Trabalho excedente
+Valor Excedente
+Problema da transformação
+Produção capitalista
+Luta de classes
+Ditadura do proletariado
+Acumulação primitiva do capital
+Revolução proletária
+Internacionalismo proletário
+Materialismo dialético
+Marxismo analítico
+Autonomismo marxista
+Feminismo marxista
+Humanismo marxista
+Geografia marxista
+Marxismo estrutural
+Marxismo ocidental
+Marxismo libertário
+Marxismo clássico
+Karl Kautsky · Gueorgui Plekhanov
+Rosa Luxemburg
+Anton Pannekoek
+Vladimir Lenin · Leon Trotsky
+Georg Lukács · Guy Debord
+Antonio Gramsci · Karl Korsch
+Che Guevara · Escola de Frankfurt
+Jean-Paul Sartre · Ernst Bloch
+Mais-valia é o termo famosamente empregado por Karl Marx à diferença entre o valor final da mercadoria produzida e a soma do valor dos meios de produção e do valor do trabalho, que seria a base do lucro no sistema capitalista.[1]
+
+
+Ao analisar a gênese do lucro capitalista, Marx toma como ponto de partida as categorias da Escola Clássica Inglesa: já Adam Smith havia observado que o trabalho incorporado em uma mercadoria (o seu custo de produção em termos de salários), era inferior ao "trabalho comandado" (aquilo que a mercadoria podia, uma vez vendida, "comprar" em termos de horas de trabalho). Para Smith, esta discrepância é que explicava a existência do lucro, mas não suas causas. Smith considerava que o lucro estava associado à propriedade privada do capital, na medida em que a renda de um empresário dependia menos do seu trabalho como gerente do que do volume dos seus investimentos, mas tal não explicava a existência do lucro como um overhead sobre os custos de produção em termos de salários. Uma das saídas que Smith considera, é que lucro é proveniente da oferta e da procura. Ou seja, o lucro é criado pelo mercado. Distancia o lucro (riqueza) do processo de trabalho.
+Para David Ricardo tal se dava devido ao fato de o salário gravitar sempre em torno dos seus níveis "naturais" - isto é, de um mínimo de subsistência fisiológica, Caso, em função de uma escassez de mão-de-obra, o salário subisse além do nível natural, os operários se reproduziriam de tal forma que a oferta excessiva de trabalho deprimiria de novo os salários ao mesmo nível natural. Para Ricardo, o lucro acabava sendo simplesmente um "resíduo" - aquilo que sobrava como renda do empresário depois de pagos os salários de subsistência e as rendas da terra; como a teoria da renda da terra ricardiana propunha que a ocupação de terras sempre piores inflava os custos de reprodução da mão de obra, haveria uma tendência aos lucros serem comprimidos no longo prazo.
+Marx adotou tal teoria ricardiana nas suas obras de juventude, como o Manifesto Comunista; mais tarde, no entanto, verificou que os valores dos salários, variando de uma sociedade a outra, não se reduziam ao elemento biológico, mas pelo contrário incorporavam elementos sociais e culturais ("como poderia um operário francês subsistir sem seu vinho?" diz ele em O Capital). Ele também reparou que o lucro dependia, pelo menos em parte, da produtividade física do capital, o que fez com que buscasse sair das constatações simples de seus predecessores para elaborar uma teoria mais aprofundada das causas efetivamente sociais do lucro capitalista.
+É importante lembrar que, segundo o Marx maduro, o valor do trabalho não é uma grandeza concreta: o operário não vende sua "força" (caso contrário um operário fisiculturista deveria ser mais bem remunerado que um outro de físico normal que realizasse o mesmo trabalho) ou sua "habilidade". Pelo contrário, o progresso da mecanização garante um padrão uniforme de produtividade física dentro de cada ramo de atividade e para cada tipo de ocupação, igualando, até certo ponto, a habilidosos e obtusos. Como coloca Marx, se o valor em trabalho (e, portanto, o valor do salário como parcela do valor da mercadoria) correspondesse ao tempo concreto gasto na produção de cada mercadoria individual, seriam os trabalhadores menos habilidosos que produziriam as mercadorias mais valiosas, pois demorariam mais tempo para produzi-las.
+O valor do trabalho é abstrato, no sentido em que o valor padrão de um salário para uma determinada atividade (e para uma determinada duração da jornada de trabalho) é dado pelo Mercado, isto é, pela demanda agregada dos capitalistas. Para Marx, em princípio o salário capitalista é "justo": o capitalista não necessita explorar seus operários do seu salário de mercado para lucrar; o lucro tem uma causa concreta: ele tem por causa a propriedade privada do capital; mas supor que ele seja uma remuneração automática deste mesmo capital, uma vez investido, é, para Marx, "fetichismo", pois supõe que uma coisa possa gerar sua remuneração, que o capital produza lucros e/ou juros como uma laranjeira produz laranjas. Esta origem do lucro não está, na sociedade capitalista, numa espoliação direta, como a apropriação da pessoa como trabalhador escravo, ou a cobrança de uma renda feudal, mas na medida em que o próprio salário "justo" tem seu valor estabelecido de modo a remunerar os trabalhadores com um valor menor do que o valor total das mercadorias por eles produzidas durante a jornada de trabalho contratada; é o que Marx chama de "jornadas de trabalho simultâneas" (uma paga, a outra não).
+É certo, como dirá mais tarde a economia neoclássica, que a mais-valia necessitaria ser realizada pela venda lucrativa da mercadoria, e que esta venda dependerá das flutuações da demanda, e que nem sempre o excedente potencial resultante da exploração irá realizar-se aos níveis esperados; como dirá o economista inglês Alfred Marshall, o custo de produção e a demanda são duas lâminas de uma mesma "tesoura" entre as quais é determinado o preço da mercadoria. A teoria de Marx, no entanto, preocupa-se menos com o lucro capitalista enquanto tal e mais com a sua gênese social; ele se importa menos com o modo como o lucro é realizado e dividido do que com a maneira como é gerado. O lucro capitalista, para Marx, não é apenas um simples excedente; ele é o excedente como mediado por uma relação social historicamente específica.
+Karl Marx chamou a atenção para o fato de que os capitalistas, uma vez pago o salário de mercado pelo uso da força de trabalho, podem lançar mão de duas estratégias para ampliar sua taxa de lucro: estender a duração da jornada de trabalho mantendo o salário constante - o que ele chama de mais-valia absoluta; ou ampliar a produtividade física do trabalho pela via da mecanização - o que ele chama de mais-valia relativa. Em fazendo esta distinção, Marx rompe com a ideia ricardiana do lucro como "resíduo" e percebe a possibilidade de os capitalistas ampliarem autonomamente suas taxas de lucro sem dependerem dos custos de simples reprodução física da mão-de-obra. Produção de mais-valia relativa é um modo de incrementar a produção do excedente a ser apropriado pelo capitalista. Já a mais-valia absoluta consiste na intensificação do ritmo de trabalho, através de uma série de controles impostos aos operários, que incluem da mais severa vigilância a todos os seus atos na unidade produtiva até a cronometragem e determinação dos movimentos necessários à realização das suas tarefas. O capitalista obriga o trabalhador a trabalhar a um ritmo tal que, sem alterar a duração da jornada, produzem mais mercadorias e mais valor que sem esses controles.[2]
+O economista austríaco Eugen Ritter von Böhm-Bawerk contestou a doutrina da mais-valia no final do século XIX. Segundo Böhm-Bawerk, o valor da produção que não é destinado ao pagamento dos salários existe como consequência da manifestação das preferências temporais dos capitalistas em relação ao processo intertemporal de produção.
+Os produtos produzidos pelos trabalhadores só serão bens de consumo em certa quantidade de tempo. E como os salários são pagos antes do término do processo intertemporal de produção, muito do que é considerado lucro pela definição marxista deriva dos juros sobre os bens de consumo futuros (bens de capital). Isso ocorre porque, segundo Böhm-Bawerk, os juros existem devido aos seres humanos sempre preferirem ter um bem no presente do que ter esse mesmo bem no futuro. Os trabalhadores, que recebem os salários antes de que os bens de capital se transformem em bens de consumo, tem sua renda descontada por esse fator.
+Outros economistas austríacos desenvolveram, já no início do século XX, a teoria de que os lucros e prejuízos líquidos (resultado do desconto dos juros e os fatores de risco sobre o lucro bruto), são resultado do ajuste incessante dos empresários às mudanças constantes no mercado. E que os lucros líquidos, somente são, em geral, maiores que os prejuízos quando o sistema econômico está em expansão e acumulando bens de capital. Isso ocorre porque um aumento da produção gera um aumento dos faturamentos que geram os lucros. Como os lucros aumentam (e também a produtividade marginal da mão de obra) a demanda por mão de obra aumenta e assim os salários sobem.
+Diferentemente dos clássicos, para os austríacos os lucros líquidos sempre tendem a desaparecer ao longo do tempo porque os preços dos fatores de produção sobem com a aumento da demanda pelos mesmos que é justamente causada pelos lucros.
+Segundo os marxistas existe um problema, no entanto, nas críticas neoclássicas, que é o fato de, nesta escola, o juro ser tido como a remuneração natural do capital monetário, a qual é gerada pelo seu uso produtivo; daí, na crítica de Böhm Baverck, os trabalhadores, ao abrirem mão de pouparem seu salário, consentirem implicitamente no lucro capitalista. Para Marx, esta noção de que o juro seja uma remuneração "natural" do capital é uma característica daquilo que ele chama, nas suas Teorias de Mais-Valia, "economia vulgar": o juro não é uma categoria natural, e sim social; para Marx, os trabalhadores não podem "escolher" gastar seus salários "mais tarde" (o que já era proposto, com o nome de "teoria da abstinência" por um pós-ricardiano, Nassau William Senior, que Marx critica n'O Capital), pela simples razão de que necessitam deles para sobreviver materialmente; o lucro, por sua vez, depende de processos de produção concretos para existir: se eu coloco um capital de longo prazo para render juros com um prazo de carência de 15 anos, e neste ínterim o negócio em que investi falir, ficarei tão inadimplente quanto ficaria se fosse menos "abstinente".
+Para Marx, o juro é apenas e tão somente uma forma pela qual a mais-valia social geral – a soma das várias mais-valias particulares – circula ao nível microeconômico e é redistribuída entre os vários capitalistas - fundamentalmente, daqueles que realizam a produção industrial para os portadores do capital financeiro. Ao analisar o juro como uma variável autônoma, Marx de certa forma antecipa a teoria monetária de Keynes, que considerava que a igualdade entre poupança e investimento, longe de representar um equilíbrio entre oferta e procura de capitais, seria uma simples identidade contábil.
+Existe aí, portanto, entre o marxismo e a economia neoclássica, um vácuo conceitual não facilmente resolvível, especialmente quando se trata de autores da escola Austríaca, que, seguindo os princípios estritos do fundadores da escola neoclássica, o inglês William Stanley Jevons e o alemão naturalizado austríaco Menger, tentam explicar todos os fenômenos econômicos com base na ideia de utilidade marginal e não dão nenhum papel a quantidade de mão de obra na determinação do valor, contrariamente à escola neoclássica inglesa de Alfred Marshall , que, como já dito, busca uma síntese entre a Economia Clássica Inglesa, e o neoclassicismo jevoniano.

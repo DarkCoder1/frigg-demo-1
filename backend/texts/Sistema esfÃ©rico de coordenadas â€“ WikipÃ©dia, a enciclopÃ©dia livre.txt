@@ -1,0 +1,20 @@
+O Sistema esférico de coordenadas é um sistema de referenciamento que permite a localização de um ponto qualquer em um espaço de formato esférico através de um conjunto de três valores, chamados de coordenadas esféricas.[1]
+
+
+
+As coordenadas esféricas (r,Θ,Φ) são definidas por (convenção não norte-americana):
+
+As coordenadas são compostas pela tripla ordenada 
+O espaço pode ser visto como um conjunto de esferas concêntricas, onde o raio serve como delimitador máximo da superfície de cada esfera e os ângulos determinam a localização exata dos pontos sobre a superfície.
+A regra de transformação de coordenadas esféricas em retangulares pode ser descrita desta forma:
+Para encontrar as coordenadas esféricas a partir das suas correspondentes retangulares usamos as seguintes fórmulas:
+Falando em termos de coordenadas cartesianas, a convenção usada pelos matemáticos dos Estados Unidos é:
+A maioria dos físicos, engenheiros e matemáticos não norteamericanos intercalam os símbolos θ e φ, sendo:
+Esta é a convenção que se segue neste artigo (quando nos referirmos às coordenadas esféricas). No sistema internacional, os grau de variação das três coordenadas são:
+A coordenada radial é sempre positiva.
+No cálculo integral, podemos usar o sistema de coordenadas esféricas para fazer uma mudança de variáveis, alterando do sistema de coordenadas cartesianas  para . Neste caso há que inserir no integral o Jacobiano (determinante da matriz Jacobiana) da transformação, que neste caso dá .
+Então:
+A ordem de integração  pode ser alterada conforme for mais conveniente.
+Caso se queira achar apenas o volume  então o integral fica apenas:
+Neste sistema de coordenadas torna-se fácil por exemplo calcular o volume de uma esfera de raio . Podemos constatar que o ângulo , e que . Já o raio  é varrido no intervalo .
+que coincide com a fórmula para o volume da esfera.

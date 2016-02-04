@@ -1,0 +1,8 @@
+A Investigação Operacional (IO) ou Pesquisa operacional (PO), é um ramo interdisciplinar da matemática aplicada que faz uso de modelos matemáticos, estatísticos e de algoritmos na ajuda à tomada de decisão. É usada sobretudo para analisar sistemas complexos do mundo real, tipicamente com o objetivo de melhorar ou otimizar a performance.
+
+
+
+A investigação operacional nasceu no teatro de operações durante a II Guerra Mundial, quando os Aliados se viram confrontados com problemas (de natureza logística e de tática e estratégia militar) de grande dimensão e complexidade. Foram criados grupos multidisciplinares de cientistas em que se incluíam matemáticos, físicos e engenheiros, a par de outros oriundos das ciências sociais para apoiar os comandos operacionais na resolução desses problemas. Aplicaram o método científico aos problemas que lhes foram sendo colocados e criaram modelos matemáticos, apoiados em dados e factos, que lhes permitissem perceber os problemas em estudo e ensaiar e avaliar o resultado hipotético de estratégias ou decisões alternativas.
+Com o fim do conflito e sucesso obtido, os grupos de cientistas transferiram a nova metodologia na abordagem de problemas para as empresas, confrontadas com problemas decisionais de grande complexidade derivados do crescimento económico que se seguiu. Com a evolução observada na informática criaram-se condições de concretização algorítmica e velocidade de processamento adaptados à imaginação dos profissionais da investigação operacional, e a micro-informática permitiu relacionar directamente os sistemas de informação com os decisores.
+
+A resolução de um problema, pelo método da Investigação Operacional, segue as seguintes fases[1] :

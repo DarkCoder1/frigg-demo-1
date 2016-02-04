@@ -1,0 +1,12 @@
+Uma reação de transposição é uma ampla classe de reações químicas onde a estrutura de carbono de uma molécula é rearranjado (de onde também são chamadas de reações de rearranjo ou comumente de rearranjos simplesmente) para dar um isômero estrutural da molécula original.[1] Frequentemente um substituinte move-se de um átomo para outro na mesma molécula. No exemplo abaixo o substituinte R move-se do átomo de carbono C¹ para o C².
+Rearranjos intermoleculares também existem.
+Um rearranjo não é bem representado por simples e discretas transferências de elétrons (representados por setas curvas em textos de química orgânicas). O atual mecanismo de grupos alquila em movimento, como no rearranjo de Wagner-Meerwein, provavelmente envolve transferência do grupo alquila em movimento fluidamente ao lonfo de uma ligação. Em reações pericíclicas, a explanação por interações orbitais dão uma melhor imagem que simples transferências discretas de elétrons. É, não obstante, possível de extrair as setas curvas para uma seqüência de transferências discretas de elétron que dão o mesmo resultado que uma reação de rearranjo, embora estas não sejam necessariamente realísticas.
+Algumas reações de rearranjo importantes:
+Exemplos são o rearranjo de Wagner-Meerwein:
+
+o rearranjo de Beckmann:
+
+e o rearranjo de Claisen:
+
+
+(em inglês)

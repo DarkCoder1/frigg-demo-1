@@ -1,0 +1,31 @@
+Uma progressão geométrica é uma sequência numérica em que cada termo, a partir do segundo, é igual ao produto do termo anterior por uma constante, chamada de razão da progressão geométrica.[1] A razão é indicada geralmente pela letra  (inicial da palavra "quociente").
+Alguns exemplos de progressão geométrica:
+
+
+Costuma-se denotar por  o n-ésimo termo de uma progressão geométrica. Assim, a progressão fica totalmente definida pelo valor de seu termo inicial  e sua razão q.
+A sucessão dos termos é obtida por recursão:
+É fácil demonstrar por indução matemática que
+De modo geral, o n-ésimo termo pode ser calculado a partir do m-ésimo termo simplesmente por:
+A soma dos termos de uma P.G., a partir do primeiro, é definida por
+Caso  a soma pode ser descrita pela seguinte fórmula:
+Essa fórmula pode ser explicada dessa maneira:
+Multiplica-se pela razão 
+Subtrai-se a primeira da segunda, cancelando-se os termos repetidos:
+o que é equivalente (através de fatoração por fator comum) a
+Divide-se ambos os termos por  e o resultado segue.
+A soma dos termos de uma progressão geométrica situados no intervalo fechado de  até  é calculada pela seguinte fórmula:
+A soma dos infinitos termos de uma P.G. é chamada série geométrica e está bem definida quando  Sua soma é:
+Se  e  então sua soma é mais infinito e se  e  sua soma é menos infinito.
+Obs.: Esta tabela não esgota todos os casos. Ver o caso  por exemplo.  pode ser um número complexo. O tratamento destas séries pode ser visto no artigo sobre séries divergentes.
+O produto dos termos de uma progressão geométrica, a partir do primeiro, é dada por
+e também pode ser determinado sem o conhecimento da razão:
+sendo similar à forma do somatório de uma progressão aritmética.
+Uma progressão geométrica constante é toda P.G em que todos os termos são iguais, sendo que para isso sua razão  deve ser igual a 1.
+Exemplos de progressões geométricas constantes :
+Uma progressão geométrica crescente é toda P.G em que a razão  é superior a 1 e seu primeiro termo  é superior a 0 ou quando sua razão  está entre 0 e 1 e seu primeiro termo  é inferior a 0. Obedecendo assim a ordem:  e  ou  e .
+Exemplos de progressões geométricas crescentes:
+Uma progressão geométrica decrescente é toda P.G em que a razão  é superior a 1 e seu primeiro termo  é inferior a 0 ou quando sua razão  está entre 0 e 1 e seu primeiro termo  é superior a 0. Obedecendo assim a ordem:  e  ou  e .
+Exemplos de progressões geométricas decrescentes:
+Uma progressão geométrica oscilante é toda P.G em que a razão  é um número negativo, fazendo com que a sequência numérica intercale entre números positivos e negativos. Sendo assim, obedece a ordem: .
+Exemplos de progressões geométricas oscilantes:
+Abaixo temo uma tabela ao qual o termo  e o termo , e assim sucessivamente em progressão geométrica.

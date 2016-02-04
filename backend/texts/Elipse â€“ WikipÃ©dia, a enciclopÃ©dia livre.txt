@@ -1,0 +1,44 @@
+Em geometria, uma elipse é um tipo de secção cônica: se uma superfície cônica é cortada com um plano que não passe pela base e que não intersecte as duas folhas do cone, a intersecção entre o cone e o plano é uma elipse. Para uma prova elementar disto, veja esferas de Dandelin.
+Em alguns contextos, pode-se considerar o círculo e o segmento de reta como casos especiais de elipses; no caso do círculo, o plano que corta o cone é paralelo à sua base.
+A elipse tem dois focos, que no caso do círculo são sobrepostos. O segmento de reta que passa pelos dois focos chama-se eixo maior, e o segmento de reta que passa pelo ponto médio do eixo maior e é perpendicular a ele chama-se eixo menor. Fixando o comprimento do eixo maior e diminuindo o comprimento do eixo menor, obtêm-se elipses cada vez mais próximas de um segmento de reta. A elipse é também a intersecção de uma superfície cilíndrica com um plano que a corta numa curva fechada.
+As medidas da elipse são dadas pela metade dos eixos maior e menor sendo chamadas, respetivamente, de semieixo maior () e semieixo menor ().
+
+
+Algebricamente, uma elipse é a curva no plano cartesiano definida por uma equação da forma
+tal que
+onde () é o centro da elipse, e  e  são os semieixos da elipse.
+Outras equações úteis:
+1) Centro na Origem:
+a) Eixo maior paralelo ao eixo : 
+b) Eixo maior paralelo ao eixo : 
+2) Centro como um vértice, geralmente apresentado como :
+a) Eixo maior paralelo ao eixo : 
+b) Eixo maior paralelo ao eixo : 
+Em coordenadas polares, existem duas formas principais de se descrever a elipse:
+a) Com origem no centro da elipse: 
+b) Com origem em um dos focos:  sendo e a excentricidade.
+Essa forma é muito conveniente para aplicações em mecânica celeste, neste caso o ângulo  é chamado de anomalia verdadeira e é representado pela letra grega  (nu ou ni)
+
+A elipse é o conjunto dos pontos  do plano tais que a soma das distâncias de  a dois pontos fixos  (focos) é constante. O teorema de Dandelin mostra que esta caracterização da elipse é equivalente à definição como secção cónica.
+Ou seja, se , então a elipse é o conjunto dos pontos  tais que  em que  (no caso especial do círculo, os pontos  coincidem então  , com  sendo o raio do círculo).
+A excentricidade da elipse é definida por .
+Tem-se  (de novo,  apenas no caso da circunferência, o caso  corresponderia ao segmento de reta, mas normalmente  corresponde a uma parábola). Se  for o semi-eixo maior e  o semi-eixo menor da elipse, então pelo teorema de Pitágoras vem
+Em geodésia e cartografia, é usado o conceito de achatamento (para se referir ao elipsoide de referência), definido por . Como este valor é sempre muito pequeno, ele costuma ser apresentado por seu inverso. Por exemplo, o achatamento do WGS 1984 é 
+Utilizando as marcações indicadas na elipse da Fig. 2, temos:
+O centro da elipse é ponto , onde há o cruzamento dos eixos da Fig. 2 (o ponto  não está indicado). Os focos da elipse encontram-se nos pontos:
+
+Temos, pelo Teorema de Pitágoras aplicado ao triângulo retângulo  (ou ao , ou ainda ao ), que:
+Este resultado decorre da definição da elipse: a soma das distâncias de qualquer ponto  sobre a elipse até os focos é sempre  (ver animação na Fig. 3). Em símbolos:
+Então, utilizando seguimentos de retas iguais, temos:
+o símbolo matemático "" significa "implica".
+A área de uma elipse com semieixo maior  e semieixo menor  é igual a  (semieixo significa metade do eixo). Se a excentricidade da elipse é nula, os semieixos são iguais , ficamos então com um círculo de raio . Neste caso, a fórmula da área resulta na expressão mais conhecida para a área de um círculo: .
+A elipse tem a propriedade de que a bissectriz do ângulo formado pelos dois focos e por um ponto qualquer da elipse (como vértice) é perpendicular à tangente à elipse nesse ponto.
+Como consequência, qualquer raio luminoso ou onda sonora, que parta de um dos focos, será reflectido pela elipse na direcção do outro foco.
+Segundo esta propriedade, numa mesa de bilhar elíptica, qualquer choque entre duas bolas, acontecido num foco, será refletido e fará bater em uma terceira bola estacionada no outro foco.
+Num plano de três dimensões, esse é o princípio da sala de sussurro que existe em museus e exposições: duas pessoas estacionadas nos focos de um elipsoide podem conversar entre si em voz baixa e mesmo assim serem ouvidas por uma pessoa estacionada no outro foco. No Capitólio dos Estados Unidos há uma sala elíptica onde a propriedade refletora da elipse teria sido usada pelo presidente John Quincy Adams para escutar conversas que decorriam do outro lado da sala.
+Outro fato curioso sobre as elipses é que, trabalhando com sua excentricidade (), podemos obter tanto circunferências (casos de excentricidade nula e, portanto, com distância focal igual a zero) quanto segmentos de reta (casos de excentricidade igual a , ou seja, a distância focal coincide com o tamanho do eixo maior).
+O acompanhamento por telescópio do reflexo da intensa luminosidade de uma supernova nos gases e poeira que se encontram sobre o elipsoide, cujos focos são a supernova e a Terra, tem permitido compreender melhor a estrutura do meio interestelar.[1]
+A primeira lei de Kepler afirma que a órbita dos planetas em redor do Sol é elíptica, estando o Sol num dos focos. Dos seis elementos orbitais necessários para descrever completamente a órbita do planeta dois são os parâmetros que definem a elipse.
+
+
+

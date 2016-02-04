@@ -1,0 +1,35 @@
+Resistividade eléctrica (também resistência eléctrica específica) é uma medida da oposição de um material ao fluxo de corrente eléctrica. Quanto mais baixa for a resistividade mais facilmente o material permite a passagem de uma carga eléctrica. Sua unidade no SI é o ohm metro (Ωm).
+
+
+A resistência eléctrica R de um dispositivo está relacionada com a resistividade ρ de um material por:
+
+em que:
+ρ é a resistividade eléctrica (em ohm metros, Ωm);
+R é a resistência eléctrica de um espécime uniforme do material(em ohms, Ω);
+ é o comprimento do espécime (medido em metros);
+A é a área da seção do espécime (em metros quadrados, m²).
+É importante salientar que essa relação não é geral e vale apenas para materiais uniformes e isotrópicos, com seções transversais também uniformes. Felizmente, os fios condutores normalmente utilizados apresentam estas duas características.
+A resistividade elétrica pode ainda ser definida como
+
+onde
+E é a magnitude do campo eléctrico (em volts por metro, V/m);
+J é a magnitude da densidade de corrente (em amperes por metro quadrado, A/m²).
+Finalmente, a resistividade pode também ser definida como sendo o inverso da condutividade eléctrica σ, do material, ou
+
+Uma vez que é dependente da temperatura a resistência específica geralmente é apresentada para temperatura de 20 ºC. No caso dos metais aumenta à medida que aumenta a temperatura enquanto que nos semicondutores diminui à medida que a temperatura aumenta.
+A resistência de um condutor ôhmico é devida às colisões entre as cargas de condução e os átomos ou iões. As cargas de condução são aceleradas pela força eletrostática, mas devido às colisões acabam por atingir uma velocidade média constante.
+A resistência é determinada pela relação que existir entre a velocidade média atingida e a diferença de potencial (por unidade de comprimento) que produz o movimento.
+Os fatores que determinam o valor da resistência são: a natureza do material, o tamanho do condutor e a temperatura.
+Para estudar a influência do tamanho do condutor, consideremos dois cilindros idênticos, de comprimento L e área transversal A, cada um com resistência R, ligados em série ou em paralelo.
+No primeiro caso, é como se tivéssemos um único cilindro de comprimento 2L, se a corrente for I , a diferença de potencial será RI + RI, nomeadamente, a resistência do sistema é 2R. Assim, duplicando o comprimento duplica-se a resistência: a resistência é diretamente proporcional ao comprimento do condutor.
+No segundo caso, é como se tivéssemos um único condutor de comprimento L e área transversal 2A. Nesse caso, se a diferença de potencial em cada um dos cilindros for  , a corrente em cada cilindro será  e a corrente total será , que corresponde à corrente num sistema com resistência R=2. Assim, duplicando a área transversal, a resistência diminui a metade: a resistência é inversamente proporcional à área da seção transversal.
+Assim, a resistência de um condutor com comprimento L e área transversal A é:
+
+onde a constante de proporcionalidade,,Nos condutores ohmicos, a resistência aumenta com a temperatura, em forma quase linear(ver gráfico abaixo), quando a temperatura não estiver perto do zero absoluto (- 273ºC).[1]
+A expressão empírica para a resistência de um condutor , em função da temperatura é:
+
+onde  é a resistência 20ºC  é o coeficiente de temperatura e T é a temperatura em graus centígrados. O coeficiente de temperatura é o mesmo para todos os condutores feitos do mesmo material; cada material tem um coeficiente de temperatura próprio que é medido experimentalmente.
+Observe que o declive da reta na figura acima é o produto  consequentemente, a pesar de o declive ser quase constante, o valor da constante  depende da temperatura.[1]
+O melhor condutor elétrico conhecido (a temperatura ambiente) é a prata. Este metal, no entanto, é excessivamente caro para o uso em larga escala. O cobre vem em segundo lugar na lista dos melhores condutores, sendo amplamente usado na confeção de fios e cabos condutores. Logo após o cobre, encontramos o ouro que, embora não seja tão bom condutor como os anteriores, devido à sua alta estabilidade química (metal nobre) praticamente não oxida e resiste a ataques de diversos agentes químicos, sendo assim empregado para banhar contatos elétricos. O alumínio, em quarto lugar, é três vezes mais leve que o cobre, característica vantajosa para a instalação de cabos em linhas de longa distância. Abaixo apresentam-se alguns materiais e respectivas resistividades em Ωm :
+Para se calcular a resistência de um determinado material a partir de sua resistividade ou resistência específica utiliza-se a equação:
+Resistência (Ω) = resistividade (Ωm) x comprimento (m) / (Área da secção transversal (m²)

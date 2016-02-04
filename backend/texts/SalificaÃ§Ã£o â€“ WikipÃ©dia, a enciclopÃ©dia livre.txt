@@ -1,0 +1,7 @@
+A salificação ou reação de neutralização é o nome que se dá a toda reação química que ocorre na mistura de um ácido com uma base. A reação de neutralização é a reação entre um ácido e uma base dando origem a sal e água.
+É importante destacar que essas reações químicas só acontecem em meio aquoso, pois é preciso primeiro acontecer a ionização dos compostos.
+Pode ser subdividida em:
+
+
+Para ocorrer a neutralização parcial de um ácido, ele não pode ser um monoácido, pois como vimos acima, todos os monoácidos são neutralizados totalmente, em qualquer reação de salificação. Assim, somente os diácidos, triácidos e tetrácidos podem fazer neutralização parcial:
+Para ocorrer a neutralização parcial de uma base, ela não pode ser uma monobase, pois todas as monobases produzem somente 1 OH-.Sendo assim é muito complicado.

@@ -1,0 +1,51 @@
+
+Engenharia Informática é o nome mais comum pelo qual são conhecidos, em Portugal, os cursos superiores focados em Informática (ciência da computação) que incluem também algumas cadeiras obrigatórias ditas "de bases de engenharia" (como matemáticas e físicas). É a área de engenharia que se ocupa dos temas relacionados com TI (Tecnologias de Informação) e SI (Sistemas de Informação).
+Outra designação habitual é Engenharia Informática e de Computadores ou Engenharia de Computação (no Brasil).
+É uma área de Engenharia representada na Ordem dos Engenheiros pelo Colégio de Informática.
+A primeira Licenciatura (pré-bolonha) em Engenharia Informática criada em Portugal surgiu em 1975 na Universidade Nova de Lisboa.
+José Delgado Domingos professor do IST foi um dos membros da comissão instaladora da Universidade Nova e um dos impulsionadores do novo curso. Segundo ele a licenciatura “levantou quase de imediato muitas reacções e obstruções no meio académico e profissional. No meio académico era esperável, e vinha dos puristas que a entendiam como um ramo da matemática, ou dos electrotécnicos, que a entendiam como um ramo da electrónica. Do meio profissional a reacção era eminentemente corporativa porque a maioria dos dirigentes do sector, não sendo licenciados, sentia o seu poder e o seu prestígio ameaçados pelo aparecimento de licenciados na sua área.”
+Nos últimos 20 anos houve um aumento da oferta académica na área de Engenharia de Informática e de Computadores. Este facto possibilitou às empresas um ajustamento adequado de recursos humanos nesta área o que é fundamental para incrementar o nível de qualidade dos projectos de Tecnologias de Informação (TI).
+
+
+A Engenharia Informática é composta por várias áreas e funções tais como:
+Vários exemplos dos produtos criados e geridos pela Engenharia Informática:
+A informática é uma indústria composta por milhares de empresas espalhadas pelo mundo. Estas criam os seus próprios produtos informáticos ou prestam serviços sobre produtos informáticos de empresas existentes.
+Exemplos:
+Microsoft, Oracle, Google, Apple, SAP, Outsystems, Primavera, etc.
+A prestação de serviços pode ser realizada nas áreas de implementação de produto, formação, consultadoria, etc.
+Exemplos:
+Microsoft, Oracle, SAP, Accenture, HP, Capgemini, Agap2, Novabase, Link, Rumos, Galileu, KPMG, etc.
+Os cursos superiores de informática permitem obter os níveis académicos normais pós-bolonha:
+O plano curricular de uma licenciatura bolonha em Engenharia Informática e Computadores pode normalmente ser consultado nos respectivos sites dos estabelecimentos superiores como no caso do Instituto Superior Técnico de Lisboa[1] .
+Para o caso de planos curriculares de mestrados bolonha em Engenharia Informática temos como exemplo os apresentados nos sites dos estabelecimentos superiores:
+Os cursos acreditados pelo Colégio de Engenharia Informática da Ordem dos Engenheiros são os seguintes (grau de mestrado bolonha ou licenciatura pré-bolonha):[4]
+Aveiro
+Coimbra
+Évora
+Lisboa
+Madeira
+Minho
+Porto
+Os Engenheiros Informáticos estão acreditados na Ordem dos Engenheiros (OE) no colégio de Engenharia Informática. No site da OE é possível validar a acreditação de determinado Engenheiro no colégio de Informática (ou noutro qualquer colégio) [5] .
+De acordo com a legislação portuguesa, quem não esteja acreditado na OE no colégio de informática não pode usufruir do título de Engenheiro Informático nem da respectiva carteira profissional.
+A Ordem dos Engenheiros Técnicos[6] , certifica um conjunto de cursos de Engenharia Informática (grau de licenciatura pós-bolonha ou bacharelato pré-bolonha)[7] .
+No site da OET é possível validar a acreditação de determinado Engenheiro Técnico na especialidade de Informática (ou noutra qualquer especialidade)[8] .
+Reino Unido:
+Alemanha:
+Estados Unidos:
+Japão:
+Nos dias correntes é difícil encontrar empresas, independentemente da sua dimensão, que não façam uso das tecnologias de informação, ou seja, da informática.
+Nas estruturas orgânicas das empresas existem departamentos de TI com nomes tais como:
+Por sua vez estes departamentos poderão estar organizados em subestruturas representativas das várias especialidades da Informática tais como:
+O número de subestruturas é variável e está normalmente associado à dimensão da empresa.
+Há vários anos atrás a liderança dos departamentos de TI era muitas vezes realizada por colaboradores com perfis diversos normalmente de outras áreas de Engenharia diferentes da Informática tais como:
+Ou áreas tão diversas como:
+No entanto esta situação tem evoluído devido a um conjunto de factores relacionados com as TI já que estas são:
+Devido aos pontos anteriores, as funções de liderança de TI nas empresas tem progressivamente vindo a ser ocupadas por colaboradores formados em Engenharia Informática.
+Em Portugal nos últimos anos, o sector de informática tem estado em contra ciclo em relação à crise de emprego existente noutros sectores. Este facto tem levado a uma forte procura de emprego nesta área por parte de profissionais de outras áreas. A informática é vista como um refúgio de emprego o que é natural devido à crise existente.
+Infelizmente esta situação origina consequências indesejáveis para as empresas:
+Muitos profissionais fora da área usam as redes sociais (facebook, linkedin) como veículo promotor de habilitações académicas que não correspondem à realidade. Omissões nas suas habilitações ou mesmo habilitações fraudulentas não são incomuns.
+Nesta promoção pessoal são usadas algumas técnicas:
+A inexistência de perfis em redes sociais (linkedin, facebook, etc.) é uma técnica também utilizada por alguns profissionais. Evitam assim o escrutínio público sobre as suas reais habilitações académicas. Evitam também a exposição das omissões indicadas anteriormente (o que é uma fragilidade). Não criar perfis em redes sociais é pois outra forma de eliminação de pistas sobre a formação base do profissional quando esta não está relacionada com a informática.
+Para corrigir e evitar as situações anteriores é fundamental a existência nas empresas de departamentos de recursos humanos competentes que:
+Os portais das ordens profissionais são um instrumento fundamental e de acesso público no que diz respeito à verificação de autenticidade das habilitações apresentadas pelos profissionais (de engenharia informática ou de qualquer outra engenharia).

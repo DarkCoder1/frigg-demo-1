@@ -1,0 +1,7 @@
+O Produto Nacional Bruto (PNB) é uma expressão monetária dos bens e serviços produzidos por fatores de produção nacional, independentemente do território econômico.
+A metodologia utilizada pelo Banco Mundial para medir o PNB dos países é baseada no método de conversão monetária Atlas, que atenua as flutuações cambiais ao utilizar uma média dos últimos 3 anos.
+O Produto Interno Bruto (PIB) difere do Produto Nacional Bruto (PNB) basicamente pela Renda Líquida Enviada ao (ou Recebida do) Exterior (RLEE ou RLRE): seus efeitos são desconsiderados nos cálculos do PIB, e considerados nos cálculos do PNB. Em geral, os países desenvolvidos possuem um PNB maior que o PIB, ao contrário que acontece com países em desenvolvimento. Esta renda (RLEE/RLRE) representa a diferença entre recursos enviados ao exterior (pagamento de fatores de produção internacionais alocados no país) e os recursos recebidos do exterior a partir de fatores de produção que, sendo do país considerado, encontram-se em atividade em outros países.
+As fórmulas para o cálculo do PNB a partir do PIB são as seguintes:
+onde:
+A primeira fórmula é utilizada quando o país em estudo aufere RLRE e a segunda quando aufere RLEE.
+Também é correta a seguinte fórmula, além de ser mais didática:

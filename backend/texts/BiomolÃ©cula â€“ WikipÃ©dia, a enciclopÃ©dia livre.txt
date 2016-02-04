@@ -1,0 +1,10 @@
+Biomoléculas são compostos químicos sintetizados por seres vivos, e que participam da estrutura e do funcionamento da matéria viva. São, na sua maioria, compostos orgânicos, cujas massas são formadas em 97,5% de C, H, O e N (Carbono, Hidrogênio, Oxigênio e Azoto) (Nitrogênio). Ou seja, são as vitaminas, Carboidratos, Lipídios, Proteínas etc.O elemento principal é o carbono pois é capaz de formar quatro ligações.
+Em percentagem do peso seco da célula temos: Carbono 50 a 60%; Oxigênio 25 a 30%; Nitrogênio 08 a 10%; Hidrogênio 03 a 05 %
+Muitas biomoléculas são assimétricas, ou seja, possuem centros quirais, átomos de carbono com quatro ligantes diferentes.
+Água: principal biomolécula, responsável por 70% do peso total de uma célula. As Macromoléculas: são biomoléculas de alto peso molecular, muito grandes e quase sempre de estrutura química e espacial muito complexas.
+A água além de ser o principal constituinte da célula, desempenha um papel fundamental na definição de suas estruturas e funções; É o fator primário de definição das complexas estruturas espaciais das macromoléculas;
+Muitas vezes a estrutura ou a função de uma biomolécula depende de suas características de afinidade com a água, a saber: moléculas hidrofílicas, hidrofóbicas anfipáticas. A água é o meio ideal para a maioria das reações bioquímicas. São sempre formadas a partir de "unidades fundamentais", moléculas menores e muito mais simples que funcionam como matéria prima para a construção das macromoléculas;
+As proteínas: Constituem a maior fração da matéria viva; são as macromoléculas mais complexas; possuem inúmeras funções na célula;
+Os ácidos nucléicos: São as maiores macromoléculas da célula; são os responsáveis pelo armazenamento e transmissão da informação genética;
+Os carboidratos: são os principais combustíveis celulares; possuem também função estrutural e participam dos processos de reconhecimento celular;
+Os lipídios: Formam nossa principal fonte de armazenamento de energia assim como desempenham importante função na estrutura das membranas biológicas; são biomoléculas hidrofóbicas.

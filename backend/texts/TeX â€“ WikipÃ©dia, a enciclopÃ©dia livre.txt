@@ -1,0 +1,6 @@
+TeX, escrito também como TeX, é um sistema de tipografia criado por Donald Knuth. É popular no meio acadêmico, principalmente entre os físicos, matemáticos e cientistas da computação, devido a sua capacidade de produzir fórmulas e símbolos matemáticos de uma forma elegante.Substituiu quase completamente troff, outra comum aplicação Unix.[1]
+TeX é pronunciado "tec" (como em técnologia). TeX vem da palavra grega τέχνη (téchne, arte), que originou, por exemplo, a palavra técnica.
+Normalmente não se usa TeX diretamente, mas sim por meio de um conjunto de macros construído sobre ele chamada LaTeX.
+
+
+O TeX foi criado no final da década de 70 por Donald Knuth, na Stanford University. É um programa desenvolvido para a escrita de texto cientifico e fórmulas matemáticas. Knuth começou a desenvolver este sistema em 1977 para tentar explorar as potencialidades dos sistemas de impressão digital, principalmente motivado para evitar que os seus artigos sofressem alterações de forma que a integridade dos mesmos não ficasse corrompida como ele via nos seus livros e artigos.[2] [3]

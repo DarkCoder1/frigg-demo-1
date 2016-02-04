@@ -1,0 +1,13 @@
+Ácidos graxos (português brasileiro) ou ácidos gordos (português europeu) são ácidos monocarboxílicos de cadeia normal que apresentam o grupo carboxila (–COOH) ligado a uma longa cadeia alquílica, saturada ou insaturada. Como nas células vivas dos animais e vegetais os ácidos graxos são produzidos a partir da combinação de acetilcoenzima A, a estrutura destas moléculas contém números pares de átomos de carbono. Mas existem também ácidos graxos ímpares, apesar de mais raros. Naturalmente a maioria ocorrida de ácidos gordos têm uma cadeia de um números pares de átomos de carbono, de 4 a 28.[1]
+
+
+As cadeias dos ácidos saturados são flexíveis e distendidas podendo associar-se extensamente uma com a outra através de interação hidrofóbica.
+Se existir um WikiProjeto mais adequado, por favor corrija esta predefinição. Este artigo está para revisão desde junho de 2008.
+A maioria dos ácidos graxos tem um nome usual associado a sua origem e/ou função. Na lista a seguir encontram-se tanto o nome usual quanto o oficial.
+Existem várias formas de descrever onde (e como) as ligações duplas se encontram na molécula. Uma forma concisa mas ambígua é Cn:m, em que n é o número de carbonos, e m é o número de ligações duplas. Outras formas:
+As vias para a síntese do lipídio são endergônicas(quando é necessário a adição de uma energia a partir de uma fonte externa, a absorvendo) e de caráter redutor, pois utiliza o NADH, um transportador de elétrons reduzidos, como fonte redutora. A síntese de ácido graxo (em mamíferos) ocorre no fígado. Cabe lembrar que a síntese de ácido graxo e a sua oxidações ocorrem em "compartimentos" diferentes; a síntese de ácido graxo ocorre no citosol. Primeiramente, o ácido graxo sintase precisa conter malonil e acetil que são provenientes respectivamente do malonil-CoA e acetil-CoA. Então carregados com os grupos, são iniciadas as reações que dão origem a cadeira de ácido graxo com as seguintes etapas: Condensação, Redução, Desidratação e Redução de dupla ligação.
+Condensação: Onde ocorre a formação de acetoacetil-ACP a partir do malonil e acetil. Logo em seguida, ocorre a transferência de 2 carbonos de malonil para o acetil onde há formação de ceto-acil-ACP.
+Redução: Redução de acetoacetil e formação de D-ß-hidroxibutiril-ACP. Nessa etapa é utilizado NADPH.
+Desidratação: Eliminação de H2O do D-ß-hidroxibutiril-ACP e liberação de ''transΔ²butenoil-ACP''
+Redução de dupla ligação: A dupla ligação de transΔ²butenoil-ACP é reduzida e ocorre formação de 4 átomos de carbono saturados.
+Assim o ciclo segue, tendo no final, a sua cadeia aumentada em 2 átomos de carbono e volta para o início, onde o malonil é ligado ao grupo -SH vazio da fosfopantoteína da ACP. Quando a cadeia atingir 16C é finalizada.

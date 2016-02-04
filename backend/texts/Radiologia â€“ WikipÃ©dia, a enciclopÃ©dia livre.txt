@@ -1,0 +1,70 @@
+Radiologia é a parte da ciência que estuda a visualização de ossos, órgãos ou estruturas através do uso de radiações (sonoras, eletromagnéticas ou corpusculares), gerando desta maneira uma imagem. Nas últimas décadas foram acrescentados novos métodos de imagem como a tomografia computadorizada, a mamografia, a ultrassonografia e a ressonância magnética nuclear. Esses novos equipamentos e muitos outros avanços vieram a contribuir para tornar essa área ainda mais interessante.
+
+
+Ao final do século 19, mais precisamente ao cair da noite de uma sexta-feira, 8 de novembro de 1895, o Prof. Wilhelm Conrad Röntgen, no laboratório na Baviera, sul da Alemanha, descobriu os raios X.
+Observando a fluorescência emanada de uma placa de papelão recoberta com platinocianeto de bário, na sala escura, este professor, aos cinquenta anos de idade, investigador brilhante, perfeccionista e astuto, fez uma das mais importantes descobertas científicas da humanidade.
+Voltando a Wurzburg em 1888, após ter lecionado física em Estrasburgo, matemática em Hohenhein, física em Giessem, sentia-se realizado, pois esta mesma Universidade que agora o convidava para a direção do Instituto de Física, havia lhe negado a livre docência 16 anos antes.
+As descargas elétricas em tubos de gás eram o grande tema das pesquisas da época e reservou, no novo prédio do Instituto que dirigia, duas salas ao fundo do grande saguão de entrada, com janelas dando para os jardins, para suas experiências neste campo. Para lá foram levados, em outubro de 1888, uma bobina de Rumkorff, uma bomba vácuo, tubos Hittorff-Crookes, tubos Lenard, enfim, o equipamento necessário para este tipo de pesquisa.
+A passagem da corrente de alta tensão através dos tubos Hittorff-Crokes causava uma luminescência muito intensa no interior do tubo e como pretendia testar a fluorescência do platinocianeto de bário que era muito fraca, cobriu cuidadosamente o tubo com papelão preto de tal maneira que a luminosidade do tubo não impedisse a visualização de outros fenômenos. Ao escurecer a sala para verificar se o tubo estava bem impermeável à luz e ligando a bobina de Rumkorff que fornecia a alta tensão para o tubo, notou uma tênue fluorescência sobre a bancada a quase um metro de distância. Como o tubo estava altamente recoberto com papel preto aquela luz não podia ser devida a reflexos e sim, que a placa de substância fluorescente emitia luz porque estava sendo atingida por algum tipo desconhecido de radiação, que originando-se no interior do tubo atravessava o invólucro opaco à luz e causava aquela fluorescência. Raios catódicos que atravessavam uma finíssima lâmina de alumínio nos tubos Lenard também produziam já se sabia, fluorescência no écran de platinocianeto de bário, porém apenas a alguns centímetros do tubo e jamais àquela distância agora notada.
+Fascinado por esta observação passou todo o fim de semana trancado no laboratório onde comia e dormia, e no qual, em experimentos com o material que dispunha à mão, investigou a capacidade destes raios de penetrar em corpos opacos à luz interpondo entre o tubo e a placa praticamente o que pudesse encontrar.
+Sabendo que os raios catódicos sensibilizavam filmes fotográficos, investigou para saber se estes raios, que ele agora descobria, também tinham esta propriedade. Pedaços de diferentes metais, livros, pesos de balança, sua espingarda de caça, foram um a um radiografados então.
+Havendo notando que enquanto segurava os objetos entre o tubo e écran de platinocianeto de bário tinha visto a imagem dos ossos de sua mão, Rontgen decidiu investigar sobre este assunto para isto convenceu D. Bertha, sua esposa, a colocar a mão sobre um filme fotográfico em chassi de papel e ligou o tubo durante 15 minutos. O filme revelado mostrou claramente a imagem dos ossos e uma nova era na ciência estava inaugurada.
+Ciente da importância de sua descoberta, que ele chamou de raios X por não saber realmente do que es tratava, sendo X a incógnita da matemática, Prof. Röntgen passou os últimos dias de dezembro a redigir o artigo que submeteu ao Secretário da Sociedade Físico-Médica de Wurzburg, solicitando sua publicação no SITZUNGSBERICHTE da Sociedade, embora não tivesse o trabalho sido apresentado em uma das reuniões da Sociedade. Assim foi feito e no exemplar de dezembro de 1895 daquela revista saiu publicado o "EINE NEURE ART VON STRAHLEN" (sobre uma nova espécie de raios).
+Nele, o autor descreve minuciosamente suas experiências e observações e relata que:
+Por este trabalho recebeu em 1901 o primeiro Prêmio Nobel de Física.
+Mais de vinte e cinco anos se passaram antes que novas características destes raios fossem descobertas.
+Após a comunicação nos meios científicos, centenas de trabalhos foram publicados apenas no primeiro ano após a descoberta, mesmo porque os laboratórios de física da época estavam equipados para produzi-los.
+Cerca de 20 dias após a comunicação de Röntgen, Dr. Otto Walkhoff, de Braunschweig, Alemanha, fez a primeira radiografia dental. Esta foi conseguida usando uma placa de vidro com emulsão fotográfica, envolvida em papel preto e lençol de borracha. A radiografia foi tomada de sua própria boca com um tempo de exposição de 25 minutos.
+Como o próprio nome já indica, são a propagação de energia sob a forma de corpúsculos ou partículas. Em outras palavras: possuem massa.
+Sua energia depende desta massa e da velocidade de propagação podendo ser expressada pela formula:
+
+Onde: E = energia; m = massa; v = velocidade
+portanto, a energia de uma radiação corpuscular é diretamente proporcional à sua massa, aumentando quando esta for maior e também quadruplicando quando se dobra a velocidade ou aumentando de nove vezes quando se triplica a velocidade.
+Entre estas radiações corpusculares e de maior interesse para nós, estão as partículas sub-atômicas, como elétrons, prótons, partículas alfa (núcleos de hélio).
+De particular interesse para a radiologia são os elétrons, partículas sub-atômicas de carga elétrica negativa, e que são chamados de raios catódicos quando acelerados no interior dos tubos de raios X ou raios beta quando são emitidos por núcleos de elementos radioativos. Os raios, que partindo do cátodo (catódicos) atravessam o tubo indo chocar-se com o vidro do lado oposto, ali produzindo os raios que Röntgen chamou de raios X, eram feixes de elétrons em movimento, acelerados pela bobina de Rumkorff.
+Este outro tipo de propagação de energia através da matéria ou espaço difere fundamentalmente do anterior, porque neste, a energia se transmite através de uma combinação de um campo elétrico e um campo magnético que variam em função do tempo e do espaço. Não há, portanto, participação de massa de corpúsculo, sendo em última análise a transferência de energia de um ponto a outro, sem nenhum meio que contenha massa.
+Transmite-se sob forma de ondas com picos máximos e mínimos, e esta oscilação é representada pela frequência em ciclos que traduzem o número de vezes por segundo em que variamos campo elétrico e magnético que a acompanham. A frequência é expressa em Hertz (ciclos p/seg).
+Sua energia é calculada diferentemente daquela das radiações corpusculares pelo simples fato de que as radiações eletromagnéticas não possuem massa.
+A formula para cálculo de sua energia é:
+
+Onde: E = energia, h = constante de Plank (6.6256 x 10 −27 erg/seg), f = frequência.
+Sendo h uma constante é fácil compreender-se que a energia das radiações eletromagnéticas é diretamente proporcional à sua frequência.
+Um ciclo completo da oscilação é chamado de comprimento de onda e este é inversamente proporcional à frequência, sendo, portanto menor quando aquela aumenta, ou maior, quando a frequência diminui.
+A radiologia está dividida em especialidades, tais como:
+A imagem é produzida pelos raios X passando através de um objeto e interagindo com a emulsão do filme, o que resulta em um escurecimento deste. A extensão do escurecimento depende do número de raios X que atinge o filme, que, entre outros fatores, depende da densidade do objeto.
+A imagem final pode ser descrita com uma imagem bidimensional composta de preto, de branco e de uma variedade de tons de cinza sobrepostos, sendo, algumas vezes, conhecida como gráficos de imagens. Entender a natureza de um gráfico de imagens e interpretar a informação nele contida requer o conhecimento de:
+A quantidade do feixe que é barrado(atenuado) por um objeto determina a densidade radiográfica das imagens:
+A densidade radiográfica final de qualquer objeto é consequentemente afetada pelo(a):
+A forma, a densidade dos tecidos do paciente, principalmente dos tecidos duros, também afetam a imagem radiográfica. Dessa forma, quando se observam imagens bidimensionais, a anatomia tridimensional responsável pela imagem deve ser considerada. Um sólido conhecimento anatômico é obviamente um pré-requisito para a interpretação radiográfica.
+As principais limitações da análise de imagens bidimensionais de objetos tridimensionais são:
+A qualidade da imagem e a quantidade de detalhes em uma radiografia dependem de diversos fatores, incluindo:
+Ar: área mais escura da radiografia (ex: pulmão)
+Gordura: área pouquíssimo mais clara que o ar e facilmente confundida com a densidade água
+Líquido (água)/Músculo: área mais clara que a densidade gordura (ex: fígado)
+Osso: é a área esbranquiçada da radiografia (ex: costelas)
+Metal: é a densidade mais esbranquiçada da radiografia, mais que a densidade osso (ex: corpos estranhos)
+Fratura de ossos longos
+É definida como solução de continuidade da córtex óssea, resultado de um trauma, ossos debilitados, ou moléstias (neoplasias). A maioria das fraturas são facilmente reconhecidas nas radiografias, e normalmente ocorre a separação dos fragmentos fraturados. A linha de fratura aparece como uma área de radiolucência (densidade ar) entre os fragmentos.
+Determinar o tipo de fratura e dano aos tecidos moles e articulações, demonstrar a posição e a relação entre os fragmentos permitindo optar pelo melhor tratamento, precisão da redução, progresso da consolidação.
+Aberta: comunicação entre a fratura e o meio externo
+Fechada: não há comunicação com o meio externo
+Incompleta: atinge apenas uma córtex do osso
+Completa: com apenas uma linha de fratura
+Dupla: com duas linhas de fraturas
+Cominutiva: com três ou mais linhas de fratura
+Epifisárias: classificação de Salter Harris
+Os raios X são produzidos quando elétrons negativos (alta velocidade) bombardeiam um anteparo e são freados subitamente ao repouso. Isso acontece dentro de um pequeno envoltório de vidro a vácuo chamado de ampola de raios X.
+A produção de raios X pode ser resumida com a seguinte sequência de eventos:
+Os elétrons em alta velocidade que bombardeiam o anteparo produzem dois principais tipos de colisões com o átomo de tungstênio:
+As duas colisões que produzem raios X resultam na produção de dois tipos diferentes de espectro de raios X:
+Os fótons de raios X emitidos pela rápida desaceleração dos elétrons que passam perto do núcleo do tungstênio são alguma vezes referidos como radiação Bremsstrahlung ou de freamento. A quantidade de desaceleração e o grau de deflexão determinam a quantidade de energia perdida pelo elétron. Uma grande faixa ou espectro de fótons de energia é produzida e é denominada espectro contínuo.
+Seguindo a ionização ou excitação dos átomos de tungstênio pelo bombardeio de elétrons, os elétrons orbitais do tungstênio se rearranjam para retornar o átomo ao estado neutro ou fundamental. Isso envolve "pulos" de elétrons de um nível energético (camada) a outro, e resulta na emissão de fótons de raios X com energias específicas. Como relatado anteriormente, os níveis de energia ou camadas são específicas para qualquer átomo em particular. Os fótons de raios X emitidos do anteparo são portanto descritos como átomos de tungstênio característicos e formam o espectro característico ou linear. Os fótons lineares são denominados K e L, dependendo da camada da qual eles foram emitidos.
+Todos são compostos por três partes principais:
+Principais componentes do cabeçote são:
+Os principais componentes são:
+Um seletor de tempo de exposição, que pode ser:
+Geralmente filme radiográfico - necessário para detectar os raios X.
+Existem diversos aparelhos produtores de Radiação X para o uso na Odontologia. São similares aos médicos mas com propriedades diferentes, como a impossibilidade de mudança da quilovoltagem, cabendo ao fabricante fixar um valor para cada modelo. Em geral, o aparelho mais comum presente na maioria das clínicas odontológicas é o de radiografia periapical fixos ou móveis, podendo realizar diversos exames, mas restrito a exames intra-orais, tais como radiografias periapicais, interproximais e oclusais. Exames extra-orais devem ser realizados utilizando o equipamento de Radiografia Panorâmica. Este, presente apenas em Centros especializados em radiologia Odontológica devido ao seu grande tamanho e alto custo, realiza o exame de radiografia panorâmica. O mesmo aparelho quando equipado, pode realizar também radiografias de perfil, antero-posterior, e póstero-anterior.
+O equipamento deve ser:
+
+← menor comprimento de onda       maior comprimento de onda →

@@ -1,0 +1,8 @@
+Na Matemática e na Geometria, um círculo ou disco é o conjunto dos pontos internos de uma circunferência. Por vezes, também se chama círculo ao conjunto de pontos cuja distância ao centro é menor ou igual a um dado valor (ao qual chamamos raio). A área A de um círculo pode ser expressa matematicamente por:
+onde r é o raio da circunferência e  (Pi) uma constante.
+
+
+Considere-se uma sucessão de polígonos regulares inscritos na circunferência. A área de cada um desses polígonos é dada por S = p.a , onde p é o semi-perímetro do polígono e a é o seu apótema. À medida que o número de lados do polígono aumenta, p converge para a metade do comprimento da circunferência (πR) e a converge para o raio (R). Assim S converge para πR.R=πR2. Por outro lado, à medida que o número de lados do polígono cresce, a sua área converge para a área do círculo. Conclui-se assim que a área do círculo é πR2.[1]
+Seja f uma semi-circunferência tal que:
+Para calcular a área de um círculo, basta que calculemos a área abaixo do gráfico de uma semi-circunferência e dobremo-la. Portanto, basta calcular a integral definida:
+uma circunferência em 

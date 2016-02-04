@@ -1,0 +1,3 @@
+ªEquilíbrio dinâmico, em física, é o estado de um corpo que se encontra em movimento retilíneo uniforme. Nesta situação, a resultante de todas as forças que atuam sobre este corpo será igual a zero.
+Em geral, para calcular a força resultante usa-se a Segunda lei de Newton, que é , em que:
+Quando temos ângulos em que o cálculo da resultante não é fácil, devemos decompor a força em seus componentes segundo os eixos definidos (usualmente Fx e Fy).

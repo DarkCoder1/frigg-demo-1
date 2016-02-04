@@ -1,0 +1,13 @@
+Quando se fala em fórmula estrutural, refere-se à disposição dos átomos para formar uma substância. Logo, assim como é necessário manter uma mesma proporção no número de átomos para formar uma substância idêntica a outra (por exemplo, o caso da água normal e da água oxigenada, em que ambas são formadas pelos mesmos elementos, mas são diferentes pois no caso da água oxigenada há um átomo a mais de oxigénio) é necessário que os átomos (mesmo sendo iguais) sejam arranjados numa forma específica no espaço. Diferenças na disposição dos átomos de carbono são o que diferenciam o diamante da grafite, por exemplo.
+A fórmula estrutural de uma substância é, portanto, a forma como átomos se ligam entre si como quando eles se ligam em formato de cristal (sal, diamante, etc...) ou quando eles têm ligação dupla ( O=O ), ou ainda uma ligação simples ( O-O )
+
+
+Apresenta todos os átomos do composto e suas ligações.
+
+Não ocupa tanto espaço quanto a completa, e apresenta cada carbono e os átomos ligados a eles.
+Propanona (dimetilcetona ou acetona) (CH3CH2CHO) Propanal (propaldeído) (H3C-CH2C-CO-CH3)
+Apresenta linhas, nos quais os carbonos e os hidrogênios ligados a eles ficam subentendidos. Cada extremidade da linha é um carbono com seus hidrogênios, se houver. Os heteroátomos são representados, assim como grupos funcionais, quando necessários. 
+Na fórmula estrutural eletrônica ou de Lewis, representam-se os elétrons da camada de valência, deixando claras as ligações existentes.
+Ligação covalente
+Ligação covalente dativa
+Ligação iônica

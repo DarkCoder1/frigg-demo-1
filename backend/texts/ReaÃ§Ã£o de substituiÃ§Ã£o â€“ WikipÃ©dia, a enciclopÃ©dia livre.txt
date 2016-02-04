@@ -1,0 +1,6 @@
+Substituintes são todos os grupos ou espécies químicas ligadas a cadeias de hidrocarbonetos, onde exercem através de atividade sacadora ou doadora de elétrons influenciando assim na conformação estrutural e ou atividade desenvolvida pela molécula que esteja ligado.
+Numa reação de substituição, um grupo funcional numa molécula é substituído por outro.
+Em química orgânica, as reações de substituição são de grande importância. O conhecimento pormenorizado dos vários tipos de substituição possíveis permite prever o resultado de uma reação química, assim como escolher a temperatura e o solvente correctos para a sua ocorrência.
+Essas reações podem ocorrer de diversas maneiras, mas os tipos mais comuns são halogenação, sulfonação, nitração, alquilação e a acilação.
+Este tipo de reações de substituição ocorrem quando o reagente é um nucleófilo, o que significa, um átomo ou moléculas com elétrons livres.
+As substituições nucleofílicas podem ser produzidas por dois mecanismos iguais:

@@ -1,0 +1,4 @@
+O método dos elementos finitos (MEF ou FEM em inglês) é uma forma de resolução numérica de um sistema de equações diferenciais parciais.
+O método encontra aplicações em diversos campos:
+
+Este artigo sobre matemática é mínimo. Você pode ajudar a Wikipédia expandindo-o.

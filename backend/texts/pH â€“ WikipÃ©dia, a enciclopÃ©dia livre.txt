@@ -1,0 +1,33 @@
+Se existir um WikiProjeto mais adequado, por favor corrija esta predefinição.
+pH é símbolo para uma medida físico-química potencial hidrogeniônico (português brasileiro) ou potencial de hidrogénio (português europeu), que indica a acidez, neutralidade ou alcalinidade de uma solução aquosa.
+O termo pH foi introduzido, em 1909, pelo bioquímico dinamarquês Søren Peter Lauritz Sørensen (1868-1939) com o objetivo de facilitar seus trabalhos no controle de qualidade de cervejas (à época trabalhava no Laboratório Carlsberg, da cervejaria homônima). O "p" vem do alemão potenz, que significa poder de concentração, e o "H" é para o íon de hidrogênio (H+). Soluções com um pH menor do que 7 são ácidas, igual a 7 neutras e maior do que 7 alcalinas ou básicas.
+Às vezes é referido do latim pondus hydrogenii.
+Matematicamente, o "p" equivale ao simétrico do logaritmo (cologaritmo) de base 10 da atividade dos íons a que se refere. Para íons H+:
+Sendo que  representa a actividade em mol dm−3.
+Em soluções diluídas (abaixo de 0,1 mol dm−3), os valores da atividade se aproximam dos valores da concentração, permitindo que a equação anterior seja escrita como abaixo:
+
+
+O pH pode ser determinado usando um medidor de pH (também conhecido como pHmetro) que consiste em um eletrodo acoplado a um potenciômetro. O medidor de pH é um milivoltímetro com uma escala que converte o valor de potencial do eletrodo em unidades de pH. Este tipo de elétrodo é conhecido como eletrodo de vidro, que na verdade, é um eletrodo do tipo "íon seletivo".
+O pH pode ser determinado indiretamente pela adição de um indicador de pH na solução em análise. A cor do indicador varia conforme o pH da solução. Indicadores comuns são a fenolftaleína, o alaranjado de metila e o azul de bromotimol.
+Outro indicador de pH muito usado em laboratórios é o chamado papel de tornassol (papel de filtro impregnado com tornassol). Este indicador apresenta uma ampla faixa de viragem, servindo para indicar se uma solução é nitidamente ácida (quando ele fica vermelho) ou nitidamente básica (quando ele fica azul).
+Obs.: Embora o valor do pH compreenda uma faixa de 0 a 14 unidades, estes não são os limites para o pH. São possíveis valores de pH acima e abaixo desta faixa, como, por exemplo, uma solução que fornece pH = -1,00, apresenta matematicamente -log [H+] = -1,00, ou seja, [H+] = 10 mol L−1. Este é um valor de concentração facilmente obtido em uma solução concentrada de um ácido forte, como o HCl.
+Do mesmo modo pode-se definir o pOH em relação à concentração de íons OH-. A partir da constante de dissociação da água que tem o valor de 10−14 à temperatura de 298 K (25 °C), pode-se determinar a relação entre pOH e pH. Assim, pela definição de Kw (produto iônico da água) tem-se a relação entre as duas atividades:
+Ao aplicar logaritmos, obtém-se a relação entre pH e pOH:
+O valor de pH de uma solução pode ser estimado se for conhecida a concentração em íons H+. Apresentam-se em seguida vários exemplos:
+Esta é uma solução de um ácido forte, por isso, o HCl presente estará completamente ionizado. Como a concentração é de apenas 0,1 mol L−1, ele está suficientemente diluído para que os valores de sua atividade sejam próximos ao de sua concentração. Sendo assim, pode-se obter o pH pela expressão abaixo:
+[H+] = 0,1 mol L−1
+Então: pH = -log[0,1] = 1.
+
+Esta é uma solução de uma base forte, sendo assim, o NaOH presente está completamente dissociado. Como sua concentração é de apenas 0,1 mol L−1, ele está suficientemente diluído para que seu valor de atividade seja próximo ao da concentração. Sendo assim:
+[OH-] = 0,1 mol L−1 Então: pOH = -log[0,1] = 1.
+Pela relação entre pH e pOH, tem-se:
+pH + pOH = 14
+pH = 14-1 = 13
+Esta é uma solução de um ácido fraco, que por sua vez, não está completamente ionizado. Por isso deve-se determinar primeiro a concentração de H+.
+Para ácidos fracos deve-se considerar a constante de dissociação do ácido (Ka):
+A constante de dissociação do ácido fórmico tem o valor de Ka = 1,6 × 10−4. Assim, considerando que [A-] é igual a x, [HA] há-de ser a parte que não se dissociou, ou seja 0,1-x. Se desprezarmos a ionização da água, concluímos que a única fonte de H+ é o ácido, assim [H+] = [A-]. Substituindo as variáveis obtém-se:
+A solução é:
+[H+] = x = 3,9 × 10−3.
+Através da definição de pH, obtém-se:
+pH = -log[3,9 × 10−3] = 2,4
+Há vários tipos de erros que podem ocorrer nas medidas do pH ocasionados por diversos fatores, entre eles, destacam-se:

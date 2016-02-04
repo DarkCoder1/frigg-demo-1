@@ -1,0 +1,4 @@
+John William Mauchly (Cincinnati, 30 de agosto de 1907 — Ambler, 8 de janeiro de 1980) foi um físico estadunidense.
+Junto com John Presper Eckert e engenheiros da Universidade da Pensilvânia, em parceria com o Governo Federal dos Estados Unidos, construíram o primeiro computador eletrônico, conhecido como ENIAC (Electronic Numerical Integrator And Computer).
+As ideias de John von Neumann - que são utilizadas até hoje - fizeram com que os computadores pudessem ser programados através de programas, rotinas de manipulação de dados que se utilizam de instruções próprias do computador.
+O ENIAC tinhas as seguintes características:

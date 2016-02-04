@@ -1,0 +1,92 @@
+Mecânica hamiltoniana é uma reformulação da mecânica clássica que foi elaborada em 1833 pelo matemático irlandês William Rowan Hamilton. Originou-se da mecânica lagrangiana, outra reformulação da mecânica clássica, introduzida por Joseph Louis Lagrange em 1788. Ela pode entretanto ser formulada sem recorrer a mecânica lagrangiana, usando espaços simpléticos. Veja a seção sobre esta formulação matemática para isto. O método hamiltoniano difere do lagrangiano em que ao invés de expressar confinamentos diferenciais de segunda ordem sobre um espaço coordenado n-dimensional, ela expressa confinamentos de primeira ordem sobre um espaço de fases 2n-dimensional.[1].
+Como com a mecânica lagrangiana, as equações de Hamilton fornecem uma maneira nova e equivalente de olhar mecanismos clássicos. Geralmente, estas equações não fornecem uma maneira mais conveniente de resolver um problema particular. Entretanto, fornecem introspecções mais profundas na estrutura geral de mecanismos clássicos e em sua conexão aos mecânicos quânticos como compreendidos através dos mecânicos hamiltonianos, assim como suas conexões a outras áreas da ciência.
+
+
+Para um sistema fechado a soma da energia cinética e potencial no sistema é representado por um conjunto de equações diferenciais conhecido como as equações de Hamilton para este sistema. Hamiltonianos podem ser usados para descrever tais sistemas simples como uma bola quicando, um pêndulo ou uma mola oscilante na qual as mudanças de energia de cinética para potendial e vice versa alternam-se no tempo. Hamiltonianos podem também ser empregados para modelar a energia de outros sistemas dinâmicos mais complexos tais como órbitas planetárias e na mecânica quântica.[1]
+As equações de Hamilton são geralmente escritas como segue:
+
+
+Nas equações acima, o ponto acentuando denota a derivada ordinária com respeito ao tempo das equações p = p(t) (chamada momento generalizado) e q = q(t) (chamado coordenadas generalizadas), tomando valores em algum espaço vetorial, e  =  é o assim chamado Hamiltoniana, ou função ou (valoração escalar) Hamiltoniano. Então, num pequena nota mais explicitamente, pode-se escrever
+
+
+e especifica o domínio de valores nos quais o parâmetro t ("tempo") varia.
+Para uma derivação mas detalhadas destas equações da mecânica lagrangeana, ver abaixo.
+A mais simples interpretação das equações de Hamilton é como segue, aplicando-as a um sistema unidimensional consistindo de uma partícula de massa m e exibindo conservação de energia:
+O Hamiltoniano  representa a energia do sistema, a qual é a soma de energia cinética e potencial, tradicionalmente notado T & V, respectivamente. Aqui q é a coordenada x e p é o momento, mv. Então
+
+Note que T é a função de p apenas, enquanto V é a função de somente de x (ou q).
+Agora a derivada no tempo do momento p iguala-se a força Newtoniana, e então aqui a primeira equação de Hamilton significa que a força sobre a partícula iguala-se a taxa na qual ele perde energia potencial com relação a alterações em x, sua localização. (Força iguala-se ao gradiente negativo da energia potencial.)
+A derivada no tempo de q significa a velocidade: a segunda equação de Hamilton aqui significa que a velocidade da partícula iguala-se a derivada de sua energia cinética com relação ao seu momento. (Para a derivada com relação a p de p²/2m iguala p/m = mv/m = v.)
+Dado o lagrangiano em termos de coordenadas generalizadas  e velocidades generalizadas  e tempo:
+Os momentos são calculados pela diferenciação da semilagrangiano com respeito às velocidades (generalizadas):
+
+As velocidades  são expressas em termos de momentos , invertendo as expressões na etapa anterior.
+O Hamiltoniano é calculado utilizando a definição usual de  como a transformação de Legendre de : 
+Em seguida, as velocidades são substituídas para utilizar os resultados anteriores.
+as equações de Hamilton podem ser obtidas olhando como o diferencial total do Lagrangiano depende do tempo; as posições generalizadas  e velocidades generalizadas [2]
+
+Agora ,os momentos generalizados são definidos como
+
+Se este é substituído no diferencial total dos Lagrangeanos, obtém-se
+
+Nós podemos rescrever como:
+
+e reorganizar novamente para obter
+
+O termo do lado esquerdo é apenas o Hamiltoniano que definimos antes, então nós temos que
+
+Da mesma forma que o diferencial total  com relação ao tempo do Lagrangiano  independentemente das derivações acima do diferencial total  do Hamiltoniano  é igual a:
+
+Resulta das duas equações independentes anteriores que seus lados direitos são iguais entre si.
+Portanto, obtemos a equação
+
+Uma vez que este cálculo foi feito *(Off-shell e On-shell), podemos associar termos correspondentes de ambos os lados desta equação para produzir: [nota 1]
+
+As equações de Lagrange On-shell, nos dizem que
+
+Reorganizando obtemos:
+
+Assim, as equações de Hamilton não mutáveis on-shell se definem por:
+
+Primeiro escreve-se o Lagrangiano L = T – V. Expressa-se T e V como se estave-se usando-se equação de Lagrange.
+Calcula-se o momento por diferenciação do Lagrangiano com relação à velocidade.
+Expressa-se as velocidades em termos do momento por inversão das expressões na etapa (2).
+Calcula-se o Hamiltoniano usando a definição usual, . Substitui-se pelas velocidades usando os resultados na etapa (3).
+Aplica-se as equações de Hamilton.
+Começando com a mecânica de Lagrange, as equações de movimento são baseados em coordenadas generalizadas
+
+e combinando com velocidades generalizadas
+
+Nós escrevemos o lagrangiano como
+
+com as variáveis ​​subscritas entendidas como representação de todas variáveis N ​​desse tipo. A Mecânica Hamiltoniana visa substituir as variáveis ​​velocidades generalizadas com variáveis ​​impulso generalizadas, também conhecida como momentos conjugados. Ao fazer isso, é possível lidar com certos sistemas, tais como os aspectos da mecânica quântica, que seriam ainda mais complicados.
+Para cada velocidade generalizada, existe um correspondente momento conjugado, definido como:
+
+Nas coordenadas cartesianas, os momentos generalizados são precisamente os momentos lineares físicos. Em coordenadas polares circulares, o impulso generalizado correspondente à velocidade angular é o momento angular físico. Para uma escolha arbitrária de coordenadas generalizadas, pode não ser possível obter uma interpretação intuitiva dos momentos conjugados.
+Uma coisa que não é muito evidente nesta formulação dependente de coordenadas é que diferentes coordenadas generalizadas são realmente nada mais do que manchas de coordenadas diferentes na mesma variedade simplética (ver formalismo matemático, abaixo).
+O Hamiltoniano é a Transformada de Legendre do Lagrangiano:
+
+Se as equações de transformação definem as coordenadas generalizadas sendo independentes de T, e o Lagrangianos é uma soma de produtos de funções (nas coordenadas generalizadas) sendo homogéneas a fim de 0, 1 ou 2, em seguida, pode ser mostrado que H é igual a energia total E = T + V.
+Cada um dos lados na definição de  produz um diferencial:
+
+Substituindo a definição prévia dos momentos conjugados nesta equação e coeficientes correspondentes, obtemos as equações de movimento da mecânica hamiltoniana, conhecidas como as equações canônicas de Hamilton:
+
+As Equações de Hamilton consistem de equação diferenciais de primeira ordem , enquanto as equações de Lagrange consistem de equações de ordem n. No entanto, as equações de Hamilton não costumam reduzir a dificuldade de encontrar soluções explícitas. Elas ainda oferecem algumas vantagens, uma vez que os resultados teóricos importantes podem ser obtidos por coordenadas e momentos variáveis e ​​independentes com funções quase simétricas.
+As Equações de Hamilton tem outra vantagem sobre as equações de Lagrange: se um sistema tem uma simetria, de tal modo que uma coordenada não ocorre na de Lagrange, o impulso correspondente é conservado, de tal modo que coordenadas podem ser ignoradas nas outras equações do conjunto.[3]
+As abordagens de Lagrange e de Hamilton fornecem as bases para resultados mais profundos na teoria da mecânica clássica, e para as formulações da mecânica quântica.
+A função H é conhecida como a função de Hamilton ou a função de energia. A topologia simplética é então chamado de espaço de fase. O Hamiltoniano induz um campo vetorial especial na variedade simplética, conhecido como o campo vetorial Hamiltoniano.
+Dada uma função f
+
+Se tivermos uma distribuição probabilística, ρ, então (uma vez que a velocidade espacial de fase () tem divergência zero, e probabilidade é conservada) o seu derivado convectivo pode ser mostrado sendo igual a zero e por isso
+
+Isso é chamado de Teorema de Liouville. Cada função suave G sobre a topologia simplética gera uma família a um só parâmetro de simplectomorfismos e se {G, H} = 0, então G é uma força conservativa e os simplectomorfismos são transformações de simetria.
+Uma boa ilustração da mecânica hamiltoniana é dada pelo Hamiltoniano de uma partícula carregada em um campo eletromagnético. Em coordenadas cartesianas (i.e. ), o Lagrangiano de uma partícula clássica não relativística em um campo eletromagnético é (em Unidades SI):
+
+em que e é a carga eléctrica das partículas (não necessariamente a carga do electrão),  é o potencial escalar eléctrico , e  são os componentes do vetor potencial magnético (que podem ser modificados através de uma fixação de gauge). Isto é chamado de acoplamento mínimo.
+O momento generalizado é dado por:
+
+Rearranjando, as velocidades expressas em termos de momentos, temos:
+
+Se substituirmos a definição dos momentos e as definições das velocidades em termos de momentos, na definição do Hamiltoniano dado acima, e, em seguida, simplificando e reorganizando, temos:
+
+Esta equação é usada com freqüência na mecânica quântica.

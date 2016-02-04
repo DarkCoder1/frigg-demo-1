@@ -1,0 +1,27 @@
+
+Formulação matemática
+· Incerteza
+Exclusão · Dualidade
+Decoerência · Teorema de Ehrenfest · Tunelamento
+
+A experiência da dupla fenda ou experiência de Thomas Young é fundamental para a determinação da natureza quântica da física atômica.
+Quando se tenta utilizar a eletrodinâmica e a mecânica clássica para explicar os fenômenos atômicos, os resultados a que chegamos se encontram em franca contradição com a experiência prática.
+
+
+O que se vê com mais clareza é a contradição a que se chega ao aplicar a eletrodinâmica ordinária ao modelo de átomo em que os elétrons se movem em torno do núcleo seguindo órbitas clássicas.
+Neste movimento, como em qualquer movimento acelerado das cargas, os elétrons deveriam irradiar continuamente ondas eletromagnéticas. Ao irradiar, os elétrons perderiam sua energia o que deveria conduzir no final a sua queda no núcleo atômico. Para tal, o átomo deveria ser obrigatoriamente instável.
+A profunda contradição entre a teoria e a prática experimental atesta a construção de uma teoria aplicável aos fenômenos atômicos. Os fenômenos que ocorrem com partículas de massa muito pequena e em regiões muito pequenas do espaço, exige um caminho especial onde as leis e as idéias clássicas fundamentais devem ser reordenadas.
+O ponto de partida para esclarecer esta troca de mentalidade para a dedução das leis que regem a física atômica, foi o fenômeno observado e chamado de difração de elétrons.
+Na verdade, este fenômeno foi descoberto depois de criada a teoria da mecânica quântica.
+Se fizermos passar um feixe homogêneo de elétrons através de um prisma, o que se observa é uma figura constituída de máximos e mínimos de intensidade variável que se sucedem entre si, análoga à figura que se obtêm na difração das ondas eletromagnéticas.
+O comportamento das partículas materiais, os elétrons, apresentam a peculiaridade comportamental dos processos ondulatórios.
+A profundidade com que este fenômeno contradiz as idéias ordinárias sobre o movimento, se revela com particular evidência quando imaginamos o experimento que constitui uma idealização da difração eletrônica por um cristal.
+Para verificarmos a validade da natureza quântica da física atômica, existe uma experiência bastante simples de ser realizada cujos resultados foram no mínimo intrigantes quando realizados pela primeira vez.
+Esta experiência é a conhecida como dupla fenda.
+A experiência da dupla fenda consiste em deixar que a luz visível se difracte através de duas fendas, produzindo bandas num écran. As bandas formadas, ou padrões de interferência, mostram regiões claras e escuras que correspondem aos locais onde as ondas luminosas interferiram entre si construtivamente e destrutivamente.
+No caso da realização da experiência da dupla fenda com um feixe eletrônico, imaginemos uma tela opaca aos elétrons, e nela fazemos duas pequenas fendas. Observando o passar do feixe de elétrons por uma destas fendas, com a outra fechada, obtemos numa tela plana (ou écran) colocada atrás da fenda uma certa figura de distribuição das intensidades; da mesma maneira obtemos outra figura semelhante à primeira abrindo a segunda fenda e fechando a primeira.
+Mas, observando a imagem que se faz dos elétrons passando pelas duas fendas abertas ao mesmo tempo, baseando-nos nas idéias ordinárias, deveríamos observar uma figura consistente onde houvesse a simples superposição dos feixes complementares. Ou seja, a soma natural dos dois feixes que se projetariam na tela, uma vez que cada elétron partícula material movendo-se em sua trajetória fixa e bem delineada passa pela fenda sem exercer influência alguma sobre os outros elétrons que passam pela outra fenda.
+O fenômeno da difração eletrônica mostra que na realidade obtemos uma figura de difração que ocorre em virtude da interferência e não se reduz de modo algum à simples soma das figuras produzidas por cada uma das fendas separadamente.
+Isso pode ser explicado simplesmente se for observado que em pontos mais distantes do lado direito da figura as ondas provenientes do "slit" direito chegam primeiro do que as ondas do "slit" esquerdo ocasionando um atraso no comprimento de onda original(que estavam exatamente sobrepostos no ponto central entre os "slits") gerando uma destruição ou construção da luz.
+Está claro que é impossível fazer coincidir este resultado com a idéia de movimento dos elétrons por uma trajetória. Pois a interferência que aparece é devido à somatória ora construtiva, ora destrutiva que indica diferenças de fase, isto é, neste caso, se há diferença de fase, então temos a natureza ondulatória dos elétrons que devem ser encarados, em analogia, como onda eletromagnética que se propaga pelo espaço e não como partícula material com movimento balístico, isto é disparada..
+A experiência da dupla fenda prova inequivocamente a chamada mecânica quântica, ou ondulatória, que deve basear-se em noções essencialmente diferentes da mecânica clássica. Pois na quântica não existe o conceito de trajetória da partícula. Esta circunstância constitui o conteúdo do chamado princípio da incerteza, ou princípio da indeterminação, que é um dos fundamentais da mecânica quântica e foi proposto em 1927 por Werner Heisenberg.

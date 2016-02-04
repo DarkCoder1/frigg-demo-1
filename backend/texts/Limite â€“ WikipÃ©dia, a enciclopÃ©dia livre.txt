@@ -1,0 +1,84 @@
+Conceitos
+Regras de derivação
+Definições
+Integração por
+Testes de convergência
+Definições
+Em matemática, o conceito de limite é usado para descrever o comportamento de uma função à medida que o seu argumento se aproxima de um determinado valor, assim como o comportamento de uma sequência de números reais, à medida que o índice (da sequência) vai crescendo, i.e. tende para infinito. Os limites são usados no cálculo diferencial e em outros ramos da análise matemática para definir derivadas e a continuidade de funções.
+
+
+Seja  uma sequência de números reais. A expressão:
+
+significa que, quanto maior o valor i, mais próximo de L serão os termos da sequência. Neste caso, dizemos que o limite da sequência é L.
+A forma usual de escrever isso, em termos matemáticos, deve ser interpretada como um desafio. O desafiante propõe quão perto de L os termos da sequência devem chegar, e o desafiado deve mostrar que, a partir de um certo valor de i, os termos realmente estão perto de L.
+Ou seja, qualquer que seja o intervalo em torno de L (dado pelo desafiante), por exemplo, o intervalo aberto , o desafiado deve exibir um número natural  tal que .
+Formalmente, o que foi dito acima se expressa assim[1] :
+.
+Suponhamos que f(x) é uma função real e que c é um número real. A expressão:
+
+significa que f(x) se aproxima tanto de L quanto quisermos, quando se toma x suficientemente próximo de c[2] [3] . Quando tal acontece dizemos que "o limite de f(x), à medida que x se aproxima de c, é L". Note-se que esta afirmação pode ser verdadeira mesmo quando , ou quando a função  nem sequer está definida em . Vejamos dois exemplos que ajudam a ilustrar estes dois pontos importantíssimos.
+Consideremos  à medida que x se aproxima de 2. Neste caso, f(x) está definido em 2 e é igual ao seu limite: 0.4, vejamos:
+À medida que x aproxima-se de 2, f(x) aproxima-se de 0.4 e consequentemente temos a igualdade .
+Sempre que se verifique a igualdade , diz-se que f é contínua em x = c. A igualdade não é válida para todas as funções. Vejamos uma função onde tal não acontece
+
+O limite de g(x) à medida que x se aproxima de 2 é 0.4 (tal como em f(x)), mas  e consequentemente g não é contínua em x = 2.
+Consideremos agora o caso onde f(x) não está definida em x = c.
+
+Apesar de f(x) não estar definida em x = 1, o limite de f(x), quando x se aproxima de 1, existe e é igual a 2:[4]
+Ora x pode ser tomado tão próximo de 1 quanto quisermos, sem no entanto ser 1, pelo que o limite de  é 2.[3]
+Sejam  um intervalo de números reais,  e  uma função real definida em . Escrevemos
+quando para qualquer que seja  existe um  tal que para todo , satisfazendo , vale [1] . Ou, usando a notação simbólica:
+A noção de limite é fundamental no início do estudo de cálculo diferencial. O conceito de limite pode ser aprendido de forma intuitiva, pelo menos parcialmente.
+Quando falamos do processo limite, falamos de uma incógnita que "tende" a ser um determinado número, ou seja, no limite, esta incógnita nunca vai ser o número, mas vai se aproximar muito, de tal maneira que não se consiga estabelecer uma distância que vai separar o número da incógnita. Em poucas palavras, um limite é um número para o qual y = f(x) difere arbitrariamente muito pouco quando o valor de x difere de x0 arbitrariamente muito pouco também.
+Por exemplo, imaginemos a função:  e imaginando  (Definida nos reais). Sabemos, lógico, que esta função nos dá o gráfico de uma reta, que não passa pela origem, pois se substituirmos:  que nos dá: , ou seja, no ponto onde x=0 (origem), o y (f(x)) é diferente de zero. Mas usando valores que se aproximem de 1, por exemplo:
+Se x=0,98 então: y=f(x)=2,96
+Se x=0,998 então: y=f(x)=2,996
+Se x=0,9998 então: y=f(x)=2,9996
+Se x=0,99999 então: y=f(x)=2,99998
+Ou seja, à medida que x "tende" a ser 1, o y "tende" a ser 3. Então no processo limite, quando tende a ser um número, esta variável aproxima-se tanto do número, de tal forma que podemos escrever como no seguinte exemplo:
+Exemplo 1.1: Sendo uma função f definida por:  nos Reais, calcular o limite da função  quando . Temos então, neste caso, a função descrita no enunciado e queremos saber o limite desta função quando o "x" tende a ser 1: Ou seja, para a resolução fazemos:
+Então, no limite é como se pudéssemos substituir o valor de x para resolvermos o problema. Na verdade, não estamos substituindo o valor, porque para o cálculo não importa o que acontece no ponto x, mas sim o que acontece em torno deste ponto. Por isso, quando falamos que um número "tende" a ser n, por exemplo, o número nunca vai ser n, mas se aproxima muito do número n. Enfim, como foi dito anteriormente, a definição de limite é tão e somente intuitiva. Vai de analisar a função que está ocorrendo apenas. Agora, o exercício do Exemplo 1.1 mostra que x se aproxima de 1 pela esquerda, ou seja:
+Porém, temos também uma outra forma de se aproximar do número 3, na função  descrita nos exemplo acima, por exemplo: Se x=2, y=f(x)=5 ; Se x=1,8 então: y=f(x)=4,6 ; Se x=1,2 temos que: y=f(x)=3,4 ; Se x=1,111 então: y=f(x)=3,222 Podemos perceber então, que x está tendendo a 1 pela direita agora, e não mais pela esquerda como foi mostrado no exemplo anterior. Então para resolvermos problemas que envolvem cálculo, devemos saber como a função que está em jogo se comporta.
+A noção de limite, conquanto seja a mesma para todos os tipos de funções numéricas, nem sempre é fácil de se calcular. Muitas vezes é mesmo difícil de se afirmar que o limite exista ou não. A função distância entre os objectos da função, na definição formal anteriormente apresentada para uma variável, dada por , não pode ser utilizada. Neste contexto, surge a necessidade de uma função distância. Nesse caso, a definição de limite é a seguinte[5] :
+Seja  uma função do tipo:
+
+
+Em que  é um vector com  coordenadas e  um número real. Se  for um vector com  coordenadas, então:
+
+Em que  é a função distância.
+Uma função do tipo:
+
+
+pode ter evidentemente um limite, mas aqui há uma diferença fundamental.
+Sobre a reta real, só existe verdadeiramente um grau de liberdade, ou seja, só se pode ir para a direita (no sentido de maiores números reais) ou para a esquerda (no sentido de menores números reais).
+Com uma função de duas variáveis (só para ficar no caso mais simples) tem-se dois graus de liberdade. Consequentemente, pode-se ter infinitos caminhos entre dois pontos, o que na verdade influencia o valor do limite.
+Ora, para que exista um valor de limite, é necessário que ele seja independente do caminho tomado para que o(s) valor(es) da(s) variável(eis) independentes sejam alcançados. Isso é verdade no caso unidimensional, quando os dois limites laterais coincidem. Caso contrário, o limite não existe.
+De forma semelhante, quando se tem uma função bidimensional como:
+
+
+o limite pode ser testado através de vários caminhos.
+Suponha que se queira verificar o seguinte limite L desta função:
+
+Pode-se aproximar-se do valor (0,0) através das seguintes possibilidades (de entre uma infinidade delas):
+
+Nesse caso o limite L é zero.
+
+Nesse caso, o limite L é também zero.
+Poder-se-ia ficar enumerando todas as possibilidades, mas seria ocioso. No caso dessa função, o limite nesse ponto é sempre zero, conforme demonstraremos.
+Vamos, então, provar que
+
+Ou seja, provar que
+ 
+Vamos procurar escrever  em função de .
+ (I)
+ (II), usando (I)
+Se escolhermos , então, por (II), , o que prova o nosso limite.
+Um exemplo de uma função que não apresenta valor de limite em (0,0) é a função:
+
+
+que pode ser provado fazendo-se a aproximação do ponto (0,0) através das parametrizações dadas pelas equações paramétricas:
+
+
+a função toma a forma
+
+Vê-se, então, que o valor do limite depende do ângulo α pelo qual a reta de parametrização permite que se aproxime do ponto (0,0). Dessa forma, o limite não existe nesse ponto para essa função.

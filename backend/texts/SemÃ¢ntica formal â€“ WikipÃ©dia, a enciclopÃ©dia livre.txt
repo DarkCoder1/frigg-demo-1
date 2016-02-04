@@ -1,0 +1,14 @@
+Semântica formal é a área de estudo de ciência da computação que se preocupa em especificar o significado (ou comportamento) de programas de computador e partes de hardware.
+A semântica é complementar à sintaxe de programas de computador, que se preocupa em descrever as estruturas de uma linguagem de programação.
+A necessidade de uma semântica formal (matemática) para linguagens de programação justifica-se, pois:
+
+
+Existem três principais abordagens para desenvolver a especificação da semântica:
+A abordagem operacional, por sua vez, possui duas versões:
+Existem também abordagens de semântica formal baseadas em redes de Petri e lógica temporal.
+Finalmente, ainda existem abordagens baseadas em teoria das categorias, comumente chamadas pelo nome comum de semântica categorial. Neste caso, as funções semânticas são definidas usando-se noções categoriais de morfismos e composicionalidade. Esta abordagem tira proveito da expressividade de teoria das categorias, e está relacionada com a abordagem denotacional.
+A definição da semântica de linguagens faz uso de funções semânticas que se aplicam sobre as estruturas da linguagem e lhes dão significado. Neste tipo de definição usam-se estados que definem os valores das variáveis em um determinado momento.
+Um exemplo de função semântica é dado por:
+
+onde:  define um estado em que a variável x vale 10 e a variável y vale 5.
+A função  é um exemplo simples de função semântica usada para avaliação de expressões aritméticas. A sequência acima significa que a expressão  será avaliada no estado  como sendo a soma da avaliação das subexpressões  e  neste mesmo estado.

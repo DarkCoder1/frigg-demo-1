@@ -1,0 +1,13 @@
+
+A termoquímica, também chamada de termodinâmica química, é o ramo da química que estuda o calor (energia) envolvido, seja absorvido, seja produzido, nas reações químicas e quaisquer transformações físicas, tais como a fusão e a ebulição, baseando-se em princípios da termodinâmica. A termoquímica, genericamente, é relacionada com a troca de energia acompanhando transformações, tais como misturas, transições de fases, reações químicas, e incluindo cálculos de grandezas tais como a capacidade térmica, o calor de combustão, o calor de formação, a entalpia e a energia livre.
+
+
+A termoquímica apoia-se sobre duas generalizações. Estabelecida em termos modernos, eles são os seguintes:[1]
+[Entalpia dos produtos] < [Entalpia dos reagentes] ΔH < 0
+reagentes absorvem calor para formar os produtos mais energéticos.
+2 H2 + O2 ↔2 H2O
+A reação que tem como produto H2O é exotérmica, pois libera calor. Já o contrário é endotérmica, porque necessita de calor para ter seus produtos.
+A energia de ativação é a menor quantidade de energia necessária que deve ser fornecida aos reagentes para a formação do complexo ativado e para a ocorrência da reação.
+Campos de estudo da química
+Química analítica | Química inorgânica | Química orgânica | Físico-química | Bioquímica | Química ambiental |
+Química nuclear | Sonoquímica | Termoquímica | Eletroquímica | Fotoquímica | Química dos Polímeros

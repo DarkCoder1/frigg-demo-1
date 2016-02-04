@@ -1,0 +1,27 @@
+Se existir um WikiProjeto mais adequado, por favor corrija esta predefinição. Este artigo está para revisão desde novembro de 2012.
+Número de Oxidação (Nox) indica o número de elétrons que um átomo ou (íon) perde ou ganha para adquirir estabilidade química. Quando o átomo (ou íon) perde elétrons, seu Nox aumenta, quando ganha elétrons, seu Nox diminui.
+A soma dos Nox de todos os átomos de uma molécula é sempre igual a zero.
+Substâncias simples apresentam Nox igual a 0;
+Íons simples apresentam Nox igual a sua carga;
+A soma dos Nox de um íon composto ou complexo é igual a sua carga.
+O Nox serve para representar quantos elétrons ele irá ganhar ou perder para que todos os átomos fiquem emparelhados na distribuição eletrônica.
+
+
+Alguns elementos possuem um Nox fixo quando encontrados isoladamente na natureza. São eles:
+Exemplos:
+NaH - Nox do H: -1
+CaH2 - Nox do H: -1
+CH4 - Nox do H: +1
+H2O - Nox do H: +1
+NH3 - Nox do H: +1
+Exceção quando na forma de: Peróxidos: -1 - (O-O) íon peróxido: -2.
+Superóxidos:-½ - (O-O-O-O) íon superóxido: -2.
+Fluoreto: +2 - OF2, pois o flúor é o único elemento mais eletronegativo que o oxigênio.
+Exemplos:
+H2S - Nox do S: -2
+H2SO4 - Nox do S: +6
+H2SO3 - Nox do S: +4
+SO2 - Nox do S: +4
+Não confundir Nox com Valência (química), que é a quantidade de elétrons que um átomo necessita ganhar ou perder para alcançar a estabilidade, segundo a "Regra do octeto". Às vezes o Nox é numericamente igual à valência do elemento.
+Oxidação resulta em perda de elétrons. O Nox aumenta.
+Redução resulta em ganho de elétrons. O Nox diminui.

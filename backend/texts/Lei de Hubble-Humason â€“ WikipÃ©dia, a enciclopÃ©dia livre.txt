@@ -1,0 +1,29 @@
+A Lei de Hubble é um fenómeno que foi sugerido por Edwin Powell Hubble e pelo seu colega Milton L. Humason quando se dedicavam ao estudo das galáxias. Ao recolher e calcular distâncias, localizações e distribuições das galáxias no espaço, através da análise dos seus movimentos, notaram que existia uma relação entre as distâncias e as suas velocidades de afastamento. Muitos dos estudos quantitativos sobre a origem do Universo nasceram das ideias de Hubble aliadas às equações de Einstein. Esta descoberta levou mais tarde à dedução do Big-Bang, que provavelmente marca o início do atual universo.
+
+
+Hubble dedicou muitos anos ao estudo das galáxias, que na altura se julgava serem nebulosas da Via Láctea. Beneficiando do facto de poder utilizar o então maior telescópio do mundo, o telescópio Hooker, e também da teoria de Sitter, proposta por Weyl e Silberstein, Hubble verificou, em 1929, que quase todas as nebulosas tinham um desvio para o vermelho e que as suas velocidades radiais eram proporcionais à sua distância. Georges Lemaître também chegou a esta conclusão em 1927, através dos resultados de Slipher sobre as galáxias espirais.[1] Como naquela época o modelo cosmológico envolvia um universo estático, estas observações foram contra a previsão teórica.
+Quando uma fonte luminosa se afasta de um corpo (observador), o comprimento de onda da fonte, visto pelo observador, aumenta (desvio para o vermelho ou “redshift”) e diminui quando a fonte se aproxima (desvio para o azul ou “blueshift”).[2] O Efeito de Doppler relativista é definido matematicamente por:[3] [4]
+Onde:
+-  é a velocidade do corpo;
+-  a velocidade da luz no vácuo;
+-  é o comprimento de onda emitido;
+-  é o comprimento de onda observado;
+Hubble não só verificou que a maioria das galáxias tinha um desvio para o vermelho, mas também que este desvio era tanto maior quanto maior a distância entre as galáxias. Chegou mesmo a construir um gráfico com os resultados de 46 galáxias, mostrando uma relação linear entre distância e desvio para o vermelho. No entanto, as incertezas eram muito grandes, pelo que os resultados não foram considerados conclusivos no imediato. Daqui, surgiu então aquela que é hoje conhecida como a Lei de Hubble:
+Onde:
+-  é a velocidade em ;
+-  é a distância em Megaparsecs ();
+-  tem o nome de parâmetro de Hubble e vem em unidades de .
+O primeiro valor que Hubble estimou para este parâmetro, considerado inicialmente uma constante, foi 500 km s-1 Mpc-1. Este valor tinha uma grande incerteza associada, e foi-se alterando à medida que novos dados iam sendo utilizados. Ainda hoje o seu valor não reúne consenso, por se alterar na ordem das unidades cada vez que se obtêm novos dados, mas pensa-se que esteja próximo de 67,15[5] [6] [7] km s-1 Mpc-1. Note-se que a velocidade considerada nesta equação é a velocidade radial das galáxias, e não a sua velocidade total.
+Hubble baseou os seus resultados no desvio para o vermelho (redshift). A velocidade radial pode ser obtida a partir do redshift, através da equação prevista pela Relatividade Restrita:
+Onde:
+-  é a velocidade radial;
+-  a velocidade da luz no vácuo;
+-  é o “redshift”, calculado a partir de:
+
+Onde:
+-  é o comprimento de onda observado (de uma onda electromagnética);
+-  é o comprimento de onda emitido.
+Após a acumulação de vários dados, através dos diferentes estudos já referidos, concluímos que o valor do parâmetro de Hubble é muito menor do que o valor indicado pelo próprio Hubble em 1926. Na verdade, existiam diversos factores associados às observações de Hubble que ajudam a explicar esta diferença: Hubble estudou as galáxias a menos de 2 Mpc, onde está também o Grupo Local. Como estas galáxias, a uma escala cosmológica, ainda estão próximas, existem efeitos gravíticos não desprezáveis que afectam os seus movimentos, sendo necessário ter em conta o termo de velocidade peculiar das galáxias.
+Outro factor foi Hubble ter imposto um limite do número de estrelas azuis nas galáxias mais distantes (regiões HII), o que depois resultou em erros nas respectivas distâncias, fazendo com que as distâncias às galáxias usadas por Hubble fossem mais pequenas do que as verdadeiras, o que depois, com a velocidade radial associada, fez com que o parâmetro tivesse um valor muito maior do que o actual. Este erro até foi referido no tempo de Hubble, dado que o valor 500 km s-1Mpc-1 atribuía ao universo uma idade de cerca de 2 mil milhões de anos, quando já se sabia que a Terra existia há mais tempo do que isso.
+Ainda outro factor que também alterou os resultados foi o facto da luz, que viaja entre a estrela e o observador, passa por nuvens de gás e poeiras e também pela nossa atmosfera, conferindo um tom mais avermelhado ao brilho das estrelas. Este problema, conhecido como extinção interestelar, foi apenas resolvido nas décadas de 30-40.
+Por fim, em alguns casos, aquilo que Hubble pensava ser apenas uma estrela, era na verdade um aglomerado, não tendo luminosidade constante, o que também acabou por alterar os resultados.

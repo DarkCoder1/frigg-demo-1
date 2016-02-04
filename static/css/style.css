@@ -1,0 +1,98 @@
+html, body{
+	background-color: whitesmoke;
+	height: 100%;
+	width: 100%;
+	margin-top: 0;
+}
+
+#ans{
+    width: 39%;
+    height: 35%;
+    overflow-y: scroll;
+    position: fixed;
+    float: left;
+}
+	
+#frigg{
+	width: 75%;
+	height: 75%;
+}
+	
+#main-img{
+	float: left;
+	width: 50%;
+}
+	
+#rightside{
+    float: right;
+    width: 50%;
+    font-family: Vollkorn-Regular;
+    margin-top: 0px;
+    padding-top:0px;
+}
+	
+header{
+	background-image: url(sky.jpg);
+	margin-bottom: 10px;
+}
+	
+#logo{
+    width: 10%;
+	display: block;
+    margin: 0 auto;
+    clear: right;
+}
+	
+#id_question{
+    border: 1px solid aqua;
+	border-radius: 5px;
+    font-size: 14px;
+    padding-left: 5px;
+	font-family: Vollkorn-Regular;
+}
+	
+footer{
+    background-color: cornflowerblue;
+	height: 15%;
+	width: 80%;
+	float: left;
+    position: absolute;
+	bottom: 0;
+}
+
+footer p{
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: white;
+    text-align: center;
+    
+}
+
+footer span{
+    bottom: 0;
+    width: 100%;
+    height: 10px;
+    background-color: rgb(80,129,217);
+}
+	
+#all{
+    height:100%;
+	width: 80%;
+	display: block;
+    margin: 0 auto;
+    clear: right;
+	background-color: white;
+}
+
+@font-face{
+    font-family: Vollkorn-Regular;
+    src: url(Vollkorn-Regular.ttf);
+}
+
+#intro p{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#feedback-input{ color: aqua;}

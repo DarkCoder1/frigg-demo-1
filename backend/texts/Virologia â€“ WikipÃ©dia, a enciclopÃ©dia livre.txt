@@ -1,0 +1,19 @@
+Virologia é o estudo dos vírus e suas propriedades. Essencialmente, os vírus são “ácido nucleico envolvido por um pacote proteico”, inertes no ambiente extracelular, somente sendo capazes de reproduzir-se dentro da célula hospedeira, por isso são frequentemente classificados como "parasitas intracelulares obrigatórios".
+Dentre os tópicos inerentes ao campo da virologia, incluem-se:
+A definição do que venha a ser um vírus passa também pelo debate do que é ou não vida. Um vírus é totalmente inerte fora da sua célula hospedeira, chegando inclusive a formar cristais, como um mineral. Além disso, depende 100% da maquinaria celular para seu metabolismo, sendo ALTAMENTE específicos para o tipo celular para o qual atuam.
+Em essencia, um vírus é um ácido nucleico cercado por proteínas que o protegem (o capsídeo). O conjunto capsídeo + ac. nucleico = nucleocapsídeo.
+Outras estruturas compõem o vírus, como as espículas - estruturas glicoproteicas que ajudam na fixação do vírus a célula hospedeira - e o tegumento - proteínas da matriz (celular?), ficam no espaço entre o capsídeo e o envelope e ajudam a manter a estrutura viral.
+O capsídeo tem como unidades estruturais os capsômeros, aglomerados polipeptídeos. Pela economia genética que os vírus têm (pouco material genético), poucas proteínas realmente entrarão no arranjo dessa estrutura de revestimento. Do ponto de vista de simetria, temos que os vírus podem se apresentar como helicoidais, cúbicos ou complexos.
+Os vírus com capsídeo cúbico (como os adenovírus) são em sua maioria icosaédricos (20 lados)- cada lado um triângulo equilátero. Podem ou não estar associados a um invólucro lipídico. A formação do capsídeo nestes vírus é, de certa forma, independente da formação do material genético, tanto é que podem ser encontradas cápsulas vazias - sem DNA ou RNA.
+As partículas virais do tipo helicoidal tem esse aspecto porque os capsômeros estão intrinsicamente ligados ao material genético, seguindo o seu formato - uma hélice.
+Em geral, os vírus só apresentam um tipo de material genético - DNA ou RNA (a exceção dos citomegalovírus que tem DNA e um RNAm), que podem ser duplos ou simples, linear ou circular, segmentado ou não. O tipo e o peso deste material genético é o principal critério para classificar os vírus em suas diversas famílias.
+Os vírus podem ser classificados como vírus que contêm DNA ou vírus que contêm RNA.
+Vírus de DNA: Parvovírus, Papovírus, Adenovírus, Herpesvírus, Poxvírus, Hepadnavírus.
+Vírus de RNA: Picornavírus, Calicivírus, Reovírus, Arbovírus, Togavírus, Flavivírus, Arenavírus, Coronavírus, Retrovírus, Bunyavírus, Ortomixovírus, Paramixovírus, Rabdovírus, viroides e outros.
+
+Outros conceitos:
+
+Campos de estudo da biologia
+Anatomia | Astrobiologia | Biofísica | Biogeografia | Biologia celular | Biologia do desenvolvimento | Biologia humana | Biologia marinha |
+Biologia molecular | Bioquímica | Biotecnologia | Botânica | Ecologia | Embriologia | Engenharia biológica | Etologia | Evolução | Ficologia | Fisiologia | Fitossociologia |
+Genética | Histologia | Imunologia | Limnologia | Micologia | Microbiologia | Ontogenia | Paleontologia | Protistologia | Sociobiologia | Taxonomia | Virologia | Zoologia

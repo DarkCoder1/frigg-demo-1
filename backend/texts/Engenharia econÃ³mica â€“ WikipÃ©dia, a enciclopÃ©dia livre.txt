@@ -1,0 +1,59 @@
+Engenharia económica (português europeu) ou engenharia econômica (português brasileiro) é a tradução de engineering economy. Economia da engenharia é uma tradução alternativa de engineering economy, no Brasil. De acordo com o Institute of Industrial Engineers (IIE), a engenharia económica é definida como a aplicação da análise e síntese económica ou matemática às decisões de engenharia ou um corpo de conhecimentos e técnicas envolvidas na avaliação do valor de mercadorias e serviços relativamente ao custo e nos métodos de estimar os dados.[1]
+Entre os livros pioneiros de engenharia económica são de referir: The Economic Theory of Railway Location de A. M. Wellington (1877) e Principles of Engineering Economy de Eugene L. Grant (1930) que, no prefácio, se refere a um corpo de princípios que governam os aspectos económicos das decisões de engenharia, tal como acontece com as características físicas.». O grande desenvolvimento da engenharia económica ocorreu na segunda metade do século XX. The Engineering Economist é a única revista científica dedicada à disciplina de engenharia económica.
+Nos problemas de engenharia económica considera-se que todos os pagamentos ou séries de pagamentos futuros que reembolsem uma quantia presente com juros são equivalentes entre si, podendo esses valores ser calculados por fórmulas adequadas, que se podem representar por factores. É, assim, possível comparar alternativas de investimento com diferentes séries prospectivas de receitas e despesas utilizando os métodos do valor anual equivalente, valor presente, taxa de rendimento e/ou análise benefício-custo. Estes métodos, quando utilizados correctamente, permitem chegar a conclusões idênticas.
+
+
+Engenharia económica (ou econômica, no Brasil) é a tradução de engineering economy, à semelhança do que acontece com engenharia física (engineering physics).
+Cinco autores foram pioneiros com a publicação, no Brasil, de um livro com esse título: Geraldo Hess, José Luiz Marques, Luiz Carlos Rocha Paes e Abelardo Puccini, Alexandro's Evangelista. O livro Engenharia Econômica é publicado em Belo Horizonte, MG, Brasil, pela Editora Fórum, em 1969. Deste livro foi feita, pelo menos, uma 21.ª edição, desta vez no Rio de Janeiro, pela Bertrand Brasil, em 1992.
+Em Portugal, a engenharia económica aparece em 1984, como disciplina afim de uma das especialidades de doutoramento, do ramo Engenharia Industrial, a conferir pela Universidade Nova de Lisboa, através da Faculdade de Ciências e Tecnologia.[2] A disciplina semestral Engenharia Económica é oferecida, pela primeira vez, no ano lectivo de 1984/85, na mesma faculdade, no âmbito do curso de licenciatura em Engenharia de Produção Industrial. O docente é Virgílio Azuíl Páscoa Machado, professor associado de engenharia industrial, dessa faculdade.
+Economia da engenharia é uma tradução alternativa de engineering economics, no Brasil.[3] Em Portugal, economia da engenharia foi, por exemplo, uma das disciplinas do grupo de Engenharia Industrial, da estrutura orgânica do quadro de professores catedráticos e associados da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa de 1984[4] a 1993,[5] data em que essa designação foi substituída por engenharia económica.
+O primeiro livro de engenharia económica foi The Economic Theory of Railway Location de A. M. Wellington, publicado em 1877.[6] Em 1930, Eugene L. Grant publica Principles of Engineering Economy, um marco na história da engenharia económica. Com base na matemática financeira, Grant desenvolveu um ponto de vista económico na engenharia e, como escreveu no prefácio, «este ponto de vista implica perceber que há um corpo definido de princípios que governam os aspectos económicos de uma decisão de engenharia, tal como acontece com os aspectos físicos.»[7]
+O desenvolvimento da engenharia económica ao longo de quase um século e meio, tal como o desenvolvimento de qualquer área de conhecimento, em geral, foi incorporando conceitos de outras disciplinas. Este processo de desenvolvimento e assimilação ocorreu muito rapidamente a partir da segunda metade do século XX.
+The Engineering Economist é uma revista científica publicada, conjuntamente, pelas divisões de engenharia económica do Institute of Industrial Engineers (IIE) e da American Society of Engineering Education (ASEE). A revista trimestral é a única publicação dedicada à disciplina de engenharia económica, tanto no sector privado como no público.
+Para além de artigos, a revista publica estudos de casos, resultados de inquéritos, revisões de livros e programas para computador, assim como comentários dos leitores, que representam a investigação, prática e ensino mais actual de problemas relacionados com a análise de investimentos de capital. Os artigos versam assuntos tais como: estimativa e contabilidade de custos, custo e orçamentação de capital, avaliação de projectos, análise de substituição de equipamentos, projecto económico, modelos económicos de decisão, educação, análise de políticas públicas (governamentais), investigação e desenvolvimento.
+The Engineering Economist é, actualmente, resumido / indexado pelos seguintes serviços: Business Periodical Index, Wilson Web, CSA-Mechanical and Transportation Engineering Abstracts, Civil Engineering Abstracts, Compendex e Scopus. Entre os seus leitores contam-se profissionais de engenharia, gestores de engenharia e financeiros, docentes e investigadores de engenharia.
+Em Junho de 1955, na capa no primeiro número do The Engineering Economist, escrevia o seu, então, editor, Arthur Lesser Júnior: O progresso da engenharia económica tem sido prejudicado por não existir um meio adequado e apropriado onde as matérias pertinentes possam ser apresentadas e discutidas.[8]
+As recomendações do relatório final de uma Comissão Ad-hoc para o Estudo da Normalização da Simbologia de Engenharia Económica, presidida por Gearld A. Fleisher, publicado em 1967, foi adoptado pelo, entretanto, designado American National Standards Institute (ANSI) e The Engineering Economist publicou, em separata, o Manual of Standard Notation for Engineering Economy Parameters and Interest Factors, editado por John R. Canada. Em 1972, era publicada a Terminologia de Engenharia Económica, preparada por John Mihalasky,[9] que copresidia a sub-comissão ANSI Z94, com Gearld A. Fleisher.
+Os factores económicos são uma consideração estratégica na maior parte das actividades de engenharia. Um engenheiro criativo procura vencer as limitações físicas e inicia, propõe e assume a responsabilidade pelo sucesso de projectos envolvendo factores humanos e económicos. A aceitação generalizada, entre os engenheiros, da responsabilidade de verificarem se as propostas de engenharia são sólidas, tanto do ponto de vista técnico, como económico, e de analisarem as propostas em termos de valor e custos, contribui para o aumento da confiança na profissão de engenharia.[10]
+Os fundamentos da engenharia económica são um conjunto de princípios ou conceitos que formam uma base sólida para o desenvolvimento, estudo e aplicação da disciplina.[6]
+Outros autores definem princípios com algumas diferenças. Nos sete princípios definidos por DeGarmo et al.,[7] não são considerados os princípios 6 e 11, de Grant et al.,[6] enunciados acima. Os primeiros cinco princípios de DeGarmo et al. têm a seguinte relação com os princípios de Grant et al.:
+Os outros dois princípios, sugeridos por DeGarmo et al.[7] são:
+Nos problemas de engenharia económica é necessário reconhecer o valor do dinheiro no tempo: uma unidade monetária (UM) numa data não é directamente comparável com a mesma unidade monetária numa outra data. Daí a relevância da cronologia dos fluxos monetários em engenharia económica.
+O juro pode ser definido como o dinheiro pago pelo uso de dinheiro emprestado. De um modo geral, o juro é a retribuição que se pode obter pelo investimento produtivo do capital.
+A taxa de juro é o resultado da divisão do juro a cobrar ou pagar no fim de um período de tempo, usualmente um ano ou menos, e o dinheiro devido no princípio desse período. Se 8 UM de juro são pagas anualmente numa dívida de 100 UM, a taxa de juro é de 8 / 100 = 0,08 ou, mais correntemente, 8 % por ou ao ano.
+Generalizando, se a quantia P for investida, num instante de tempo, à taxa de juro i %, o valor monetário (F) no final de n períodos de tempo é dado por[1]
+F = P (1 + i) n
+e a taxa de juro, por
+i = (F / P) 1 / n - 1
+Da relação entre F e P podem ser deduzidas as relações entre F e uma quantia A investida no final de cada um de n períodos de tempo e entre A e P, assim como as relações inversas.
+É também possível deduzir a relação entre A e uma série de valores monetários, no final de cada período, crescendo (ou decrescendo) uniformemente, de período para período, de um valor G.
+A expressão
+(1 + i) n
+Pode ser representada por
+(F / P, i %, n)
+e as restantes, incluindo as inversas, por
+(F / A, i %, n)
+(A / P, i %, n)
+(P / F, i %, n)
+(A / F, i %, n)
+(P / A, i %, n)
+(A / G, i %, n)
+Para além das relações inversas entre os factores:
+1 / (F / P, i %, n) = (P / F, i %, n)
+1 / (F / A, i %, n) = (A / F, i %, n)
+1 / (A / P, i %, n) = (P / A, i %, n)
+existem as seguintes relações simples entre factores:
+(F / A, i %, n) = 1+ (F / P, i %, 1) + (F / P, i %, 2) + … + (F / P, i %, n - 1)
+(P / A, i %, n) = (P / F, i %, 1) + (P / F, i %, 2) + … + (P / F, i %, n)
+(A / P, i %, n) = (A / F, i %, n) + i
+e pode-se obter um outro factor:
+(P / G, i %, n) = (A / G, i %, n) (P / A, i %, n)
+Até à vulgarização das calculadoras electrónicas programáveis ou pré-programadas, usavam-se tabelas com os valores dos factores acima para efectuar os cálculos de engenharia económica que, geralmente, envolviam a realização de interpolações lineares. As calculadoras e muitos programas de computador permitem efectuar os cálculos com um número de casas decimais geralmente superior ao número de algarismos significativos.
+Os principais métodos de análise utilizados pela engenharia económica para tomar decisões entre alternativas de investimento são:
+ 
+Como se pode ver pelos exemplos que se seguem, o ensino de engenharia económica é feito no âmbito das actividades dos departamentos e faculdades de engenharia. Os estudos mais recentes, mostram que o ensino e os livros de texto de engenharia económica se têm modificado substancialmente, ao longo do tempo, com uma diminuição nos cálculos repetitivos e o correspondente aumento na atenção dada a actividades de projecto e/ou tomada de decisão. Estas alterações têm sido facilitadas, como acontece noutras disciplinas, pela generalização do uso de meios de cálculo automático.[11]
+Ensino universitário:
+Formação contínua:
+Programas de pós-graduação:
+Investigação:
+Análise de custos, Automação, Embalagem, Engenharia económica, Ergonomia, Estudo do trabalho, Fiabilidade e Manutenção, Gestão de armazéns, Gestão de clientes, Gestão de desperdícios e rejeitados, Gestão de devoluções, Gestão de existências, Gestão de instalações, Gestão de projectos, Gestão de recursos humanos, Gestão de sobressalentes, Gestão do aprovisionamento, Higiene e segurança ocupacional, Investigação operacional, Localização, Logística inversa, Logística, Melhoria do produto, Metrologia, Modelos económicos de decisão, Movimentação de materiais, Normalização, Planeamento e projecto de instalações, Processos de produção, Processos estocásticos, Qualidade, Sistemas de distribuição, Sistemas de informação, Sistemas de produção, Técnicas de previsão, Teoria das organizações.

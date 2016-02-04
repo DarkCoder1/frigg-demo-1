@@ -1,0 +1,27 @@
+Formulação matemática
+· Incerteza
+Exclusão · Dualidade
+Decoerência · Teorema de Ehrenfest · Tunelamento
+Na física a Representação de Heisenberg, desenvolvida pelo físico Werner Heisenberg, é a formulação da mecânica quântica onde os operadores (observáveis) são dependentes do tempo e o estado quântico são independentes do tempo. Isto demonstra o contraste com a Representação de Schrödinger na qual os operadores são constantes e o estado quântico se desenvolve no tempo. Estas duas representações apenas se diferem pela mudança na dependência do tempo. Formalmente falando a Representação de Heisenberg é a formulação da mecânica matricial numa base arbitrária, onde o Hamiltoniano não é necessariamente diagonal.
+
+
+Na Representação de Heisenberg da mecânica quântica o estado quântico, , não se modifica com o tempo, e um observador A satisfaz a equação
+onde H é o hamiltoniano e [·,·] é o comutador de A e H. Em certo sentido, a Representação de Heisenberg é mais natural e fundamental que a Representação de Schrödinger, especialmente para a teoria da relatividade geral e restrita.
+A similaridade da Representação de Heisenberg com a física clássica é facilmente identificada ao trocar o comutador da equação acima pelos Parênteses de Poisson, então a equação de Heisenberg se tornará uma equação da mecânica hamiltoniana.
+Suponha que nós tenhamos um observador A (que é um operador autoadjunto). O valor esperado de A para um dado estado  é dado por:
+ou se nós escrevermos a seguinte Equação de Schrödinger
+(onde H é o hamiltoniano independente do tempo e ħ é a Constante de Planck dividida por 2·π) nós teremos
+e então nós definiremos
+Agora obteremos
+(diferenciando de acordo com a regra do produto)
+(a última passagem é válida já que  comuta com H.) Nós agora estamos à esquerda da Equação de Heisenberg do movimento
+(onde [X, Y] é o comutador dos dois operadores e definidos como [X, Y] := XY − YX).
+Agora, se nós fizermos uso do operador de igualdade
+Nós veremos que para um observador independente do tempo A, nós obteremos:
+Devido ao relacionamento entre os Parênteses de Poisson e os comutadores, esta relação também obedece à mecânica clássica.
+O relacionamento do comutador é bastante diferente à Representação de Schrödinger por causa da dependência do tempo dos operadores. Por exemplo, considere os operadores  e . A evolução no tempo destes operadores depende do hamiltoniano deste sistema. Para um oscilador harmônico de uma dimensão
+A evolução da posição e do operador do momento é dada por:
+Pela diferenciação de ambas equações e solucionando com as devidas condições iniciais
+nos leva a:
+Agora nós estamos prontos para diretamente comutar a relação do comutador:
+Perceba que para , simplesmente obteremos a já conhecida relação de comutação canônica.

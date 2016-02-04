@@ -1,0 +1,54 @@
+Resistência elétrica é a capacidade de um corpo qualquer se opor à passagem de corrente elétrica mesmo quando existe uma diferença de potencial aplicada. Seu cálculo é dado pela Primeira Lei de Ohm, e, segundo o Sistema Internacional de Unidades (SI), é medida em ohms.[1]
+Quando uma corrente elétrica é estabelecida em um condutor metálico, um número muito elevado de elétrons livres passa a se deslocar nesse condutor. Nesse movimento, os elétrons colidem entre si e também contra os átomos que constituem o metal. Portanto, os elétrons encontram uma certa dificuldade para se deslocar, isto é, existe uma resistência à passagem da corrente no condutor.
+Os fatores que influenciam na resistência de um dado condutor são:
+Esses fatores que influenciam a resistência de um condutor podem ser resumidos pela Segunda Lei de Ohm
+Essa relação vale apenas para materiais uniformes e isotrópicos, com seções transversais também uniformes.
+
+
+Um condutor metálico, ao ser percorrido por uma corrente elétrica, se aquece. Num ferro de passar roupa, num secador de cabelos ou numa estufa elétrica, o calor é produzido pela corrente que atravessa um fio metálico. Esse fenômeno, chamado efeito Joule, deve-se aos choques dos elétrons contra os átomos do condutor. Em decorrência desses choques dos elétrons contra os átomos do retículo cristalino, a energia cinética média de oscilação de todos os átomos aumenta. Isso se manifesta como um aumento da temperatura do condutor. O efeito Joule é a transformação de energia elétrica em energia térmica.
+A característica tensão-corrente de um sistema de várias resistência tem sempre o mesmo aspecto que a caraterística de uma única resistência; nomeadamente, é uma reta que passa pela origem. O declive dessa reta é a resistência equivalente. Podemos usar algumas regras simples para calcular a resistência equivalente, quando as resistências estiverem ligadas em série ou em paralelo.
+Duas resistências estarão ligadas em série, , quando uma estiver a seguir à outra, sem nenhum outro elemento de circuito no meio, como se mostra na figura ao lado:
+Num sistema de duas resistências ligadas em série, a corrente é a mesma nas duas resistências. A diferença de potencial no sistema é a soma das diferenças de potencial em cada resistência[2] :
+
+Assim, o sistema é equivalente a uma única resistência  com valor igual à soma das duas resistências.
+
+Diz-se que duas resistências estão ligadas em paralelo , se os dois terminais de cada uma das resistências estiverem ligados entre os mesmos pontos, como mostra a figura a seguir:
+Num sistema de duas resistências ligadas em paralelo, a diferença de potencial é a mesma nas duas resistências. A corrente no sistema é a soma das correntes em cada resistência[2] :
+
+Assim, o sistema é equivalente a uma única resistência  que verifica a equação:
+
+Em alguns sistemas com várias resistências é possível simplificar o sistema substituindo sucessivamente as resistências que se encontrarem em série ou em paralelo por uma resistência equivalente, até obter uma única resistência equivalente.[2]
+No sistema internacional de unidades, a unidade usada para medir a resistência é o ohm, designado pela letra grega omega maiúscula, Uma resistência de 1 ohm é uma resistência em que uma tensão de 1 volt produz uma corrente de 1 ampere:
+
+Usando a lei de Ohm, a potência dissipada por efeito Joule numa resistência  pode ser escrita em função do valor da resistência:
+
+Assim, a especificação da potência de um dispositivo elétrico tem implícito um valor da diferença de potencial (tensão) que deverá ser usado para o seu correto funcionamento. Quanto maior for essa potencia nominal, menor será a resistência do dispositivo.
+Caso os valores dos resistores sejam iguais, a resistência equivalente é igual ao valor de uma das resistências dividido pelo número de resistores utilizados
+
+onde N = Número de resistores, em outras palavras,
+A Resistência Equivalente com dois resistores de valores diferentes pode ser definido da seguinte forma:
+
+Para mais de dois resistores associados em paralelo deve-se aplicar a seguinte equação:
+
+A potência elétrica que dissipa um elemento de um circuito, por exemplo, uma lâmpada, é igual ao produto da diferença de potencial e a corrente no elemento: .
+Duas lâmpadas diferentes podem ter diferentes valores da potência, com o mesmo valor da tensão.
+Por exemplo, existem lâmpadas pequenas de 12 V com potências de 1 W e de 2 W; isso indica que para o mesmo valor da diferença de potencial, a corrente na lâmpada de 2 W é o dobro do que a corrente na lâmpada de 1 W.[2]
+Cada elemento de circuito tem uma curva caraterística que mostra os valores resultantes da corrente,  , para diferentes valores da diferença de potencial,  A figura ao lado mostra algumas dessas curvas caraterísticas, para três elementos de circuito diferentes.
+Em alguns condutores (o caso (a) na figura acima), designados de ohmicos, a curva caraterística é uma reta que passa pela origem. Essa relação linear entre  e  expressa-se matemáticamente com a Lei de Ohm:
+
+Onde R é uma constante resistência, que corresponde ao declíve da caraterística tensão-corrente. Um condutor ohmico designa-se simplesmente de resistência. A figura ao lado mostra o diagrama usado para representar nos circuitos uma resistência.[2]
+Nos materiais não ohmicos o declíve não é constante, o que indica que a resistência é diferente para diferentes valores da diferença de potencial.[2]
+Uma pilha ou bateria fornece energia eletrostática, devido às reações químicas entre os elétrodos e o eletrólito, mas também dissipa alguma energia em calor, devido à passagem de cargas pelos elétrodos e pelo eletrólito.
+Assim, a caraterística da bateria é a soma da função constante  mais a caraterística de uma resistência r.[2]
+A ordenada na origem é o valor da fem, e o declive é a resistência interna da pilha. Assim, o diagrama de circuito correspondente deverá incluir uma fem ligada em série com uma resistência (ver figura ao lado).
+A barra mais fina e mais comprida, na representação gráfica da fem, representa o elétrodo positivo, e a barra mais curta e grossa o elétrodo negativo.[2]
+No lado em que I é negativa no gráfico, quer dizer que a corrente entra na bateria pelo elétrodo negativo e sai pelo elétrodo positivo. Esse é o modo normal de funcionamento das baterias; nessas condições a bateria funciona como gerador, as cargas de condução ganham energia potencial na passagem pela bateria. A bateria fornece potência elétrica; parte dessa potência fornecida pelas reações químicas é dissipada em calor dentro da própria bateria.
+No lado em que I é positiva no gráfico , a corrente entra na bateria pelo elétrodo positivo e sai pelo elétrodo negativo. As cargas perdem energia potencial durante a sua passagem pela bateria. Assim, deverá existir outra bateria externa que fornece energia às cargas de condução e que mantem a diferença de potencial entre os elétrodos por cima do valor da fem. Diz-se que a bateria está a funcionar como receptor.
+É costume representar a corrente na bateria em valor absoluto. Assim, os dois modos de funcionamento da bateria aparecerão no mesmo quadrante da caraterística tensão-corrente. Nos dois ramos, o valor absoluto do declive é igual à resistência interna r.
+No modo de gerador, a diferença de potencial entre os elétrodos é:
+
+o sentido da corrente implica que as cargas de condução ganham energia na passagem pela fem, mas dissipam alguma dessa energia na resistência interna. A potência total fornecida
+pela bateria é a potencia fornecida pela fem  , menos a potência dissipada na resistência interna .
+No modo de receptor, a diferença de potencial entre os elétrodos é:
+
+neste caso, as cargas de condução perdem energia na fem e na resistência interna. A potência total dissipada na bateria será a soma da potência dissipada na fem  , mais a potência dissipada na resistência interna . A parte da potência dissipada devida à fem, poderá ser usada para inverter as reações químicas entre os elétrodos e o eletrólito, se a bateria for recarregável; caso contrário, essa potência também é dissipada em calor.

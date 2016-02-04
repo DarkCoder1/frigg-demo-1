@@ -1,0 +1,11 @@
+Discriminação de preços é a prática de cobrar preços diferentes pelo mesmo produto.[1]
+Para que a discriminação de preços seja eficaz, é necessário que a empresa seja capaz de identificar os diferentes consumidores, e de lhes cobrar preços diferentes e os consumidores não tenham a possibilidade de fazer arbitragem (os consumidores aos quais o produto é vendido a um preço mais baixo não o podem vender aos outros). A pratica de discirminação de preços se assemelha um pouco ao Dumping.
+A discriminação de preços pode ser dividida em três graus de acordo com a capacidade de cada uma das partes (consumidores e produtores) de estabelecer preços diferenciados.
+
+
+A discriminação de preços de 1° grau (ou perfeita) consiste na venda de cada unidade de produto ao preço máximo que o consumidor está disposto a pagar por essa unidade (o seu preço de reserva).[2]
+Com este tipo de discriminação é transacionada a mesma quantidade que em concorrência perfeita (correspondente à igualdade entre preço e custo marginal), mas o excedente do consumidor passa a ser zero.
+Num monopólio com discriminação de preços de 1° grau:
+A discriminação de preços de 3° grau consiste em cobrar preços diferentes a grupos diferentes de consumidores.
+Identificando grupos de consumidores com elasticidades preço da procura diferentes, a empresa procurará cobrar-lhes preços diferentes (preços mais elevados aos consumidores com procura menos elástica).[4]
+O caso mais frequente é o de um monopolista que vende em dois mercados separados. O seu objetivo, como sempre, é o de maximizar o seu lucro.[3]

@@ -1,0 +1,34 @@
+Kenneth Thompson (Nova Orleães, 4 de fevereiro de 1943) é um cientista da computação, conhecido pela sua influência no sistema operacional UNIX.
+Bachelor e master, ambos em engenharia electrotécnica, na UC Berkeley. Em 1969, enquanto trabalhava nos laboratórios Bell, Thompson e Dennis Ritchie foram os principais criadores do sistema operacional UNIX. Thompson também criou a linguagem de programação B, uma precursora da linguagem C de Dennis Ritchie, uma das linguagens de programação mais utilizadas. Mais tarde, enquanto se encontrava ao serviço dos laboratórios Bell, ele e Rob Pike foram os principais criadores do sistema operacional Plan 9. Durante o seu trabalho, ele também criou a codificação de caracteres UTF-8 para uso no sistema operacional Plan 9. Ele também escreveu programas para a enumeração completa de finalizações de xadrez, para todas as finalizações de 4, 5 e 6 peças. Recorrendo a esse programa, um programa de jogo de xadrez tem a capacidade de jogar perfeitamente ao atingir-se uma das situações pré-definidas. Thompson e Ritchie receberam conjuntamente o Prémio Turing em 1983 "pelo seu desenvolvimento de teoria de sistemas operacionais genéricos e especialmente pela sua implementação do sistema operacional UNIX". Thompson reformou-se dos laboratórios Bell em 1 de dezembro de 2000.
+
+1966: Alan Perlis • 1967: Maurice Vincent Wilkes • 1968: Richard Hamming • 1969: Marvin Minsky • 1970: James Hardy Wilkinson • 1971: John McCarthy • 1972: Edsger Dijkstra • 1973: Charles Bachman • 1974: Donald Knuth • 1975: Allen Newell e Herbert Simon • 1976: Michael Rabin e Dana Scott • 1977: John Backus • 1978: Robert Floyd • 1979: Kenneth Iverson • 1980: Charles Antony Richard Hoare • 1981: Edgar Frank Codd • 1982: Stephen Cook • 1983: Ken Thompson e Dennis Ritchie • 1984: Niklaus Wirth • 1985: Richard Karp • 1986: John Hopcroft e Robert Tarjan • 1987: John Cocke • 1988: Ivan Sutherland • 1989: William Kahan • 1990: Fernando Corbató • 1991: Robin Milner • 1992: Butler Lampson • 1993: Juris Hartmanis e Richard Stearns • 1994: Edward Feigenbaum e Raj Reddy • 1995: Manuel Blum • 1996: Amir Pnueli • 1997: Douglas Engelbart • 1998: James Gray • 1999: Fred Brooks • 2000: Andrew Chi-Chih Yao • 2001: Ole-Johan Dahl e Kristen Nygaard • 2002: Ronald Rivest, Adi Shamir e Leonard Adleman • 2003: Alan Kay • 2004: Vint Cerf e Robert Kahn • 2005: Peter Naur • 2006: Frances Allen • 2007: Edmund Clarke, Ernest Allen Emerson e Joseph Sifakis • 2008: Barbara Liskov • 2009: Charles Thacker • 2010: Leslie Valiant • 2011: Judea Pearl • 2012: Silvio Micali e Shafrira Goldwasser • 2013: Leslie Lamport
+1988: Richard Hamming · 1989: Irving Stoy Reed · 1990: Dennis Ritchie / Ken Thompson · 1991: Elwyn Berlekamp · 1992: Lotfali Askar-Zadeh · 1993: Jorma Rissanen · 1994: Gottfried Ungerboeck · 1995: Jacob Ziv · 1996: Mark Pinsker · 1997: Thomas M. Cover · 1998: David Clark · 1999: David A. Huffman · 2000: Solomon Wolf Golomb · 2001: Alexander G. Fraser · 2002: Peter Elias · 2003: Claude Berrou / Alain Glavieux · 2004: Jack Keil Wolf · 2005: Neil Sloane · 2006: Vladimir Levenshtein · 2007: Abraham Lempel · 2008: Sergio Verdú · 2009: Peter Franaszek · 2010: Whitfield Diffie / Martin Hellman / Ralph Merkle
+Bell Labs · Fred Brooks, Erich Bloch e Bob Overton Evans · Steve Jobs e Steve Wozniak · Marvin M. Johnson · Ralph Landau · John T. Parsons e Frank L. Stulen · Harold Rosen e Allen E. Puckett · Joseph F. Sutter
+Bernard Marshall Gordon · Reynold B. Johnson · Frank Piasecki
+Robert Noyce
+Arnold Orville Beckman · Edwin Land · David Packard
+Herbert Boyer e Stanley Norman Cohen · Helen T. Edwards, Richard A. Lundy, J. Ritchie Orr e Alvin Tollestrup
+John Atanasoff · Marvin Camras · Jack Kilby · Gordon Moore
+Grace Hopper
+Bill Gates
+Ken Olsen
+Irwin Mark Jacobs
+Alejandro Zaffaroni
+Stephanie Kwolek
+Vint Cerf e Robert Kahn · Ray Dolby
+Ken Thompson e Dennis Ritchie
+Robert Taylor
+Douglas Engelbart · Dean Kamen
+Arun Netravali
+Carl Donald Keith e John J. Mooney · Nick Holonyak
+Jan Achenbach · Watts Humphrey · Robert Metcalfe · Rodney Bagley · Irwin Lachman
+Ralph Baer · Roger Easton, Sr.
+Ronald J. Eby, Maya Koster, Dace Viceps Madore e Velupillai Puvanesarajah · Dean L. Sicking · Alfred Yi Cho
+Leslie A. Geddes · Paul G. Kaminski · Herwig Kogelnik · Charles M. Vest · James Edward Maceo West
+Paul Baran · Roscoe Brady · David N. Cutler · Armand Feigenbaum · Adam Heller · Carlton Grant Willson
+Forrest Bird · Esther Sans Takeuchi · John Warnock e Charles Geschke
+Harry Coover · Helen Murray Free · Steven Sasson · Federico Faggin, Marcian Hoff e Stanley Mazor
+Rakesh Agrawal · B. Jayant Baliga · Charles Donald Bateman · Yvonne Brill · Michael Francis Tompsett
+Frances Arnold · Arthur Rosenfeld · George Robert Carruthers · Robert Langer · Gholam A. Peyman · Samuel Emil Blum · Rangaswamy Srinivasan · James Wynne · BBN Technologies
+Charles Bachman · Edith Marie Flanigen · Thomas Fogarty · Eli Harari · Arthur Levinson · Cherry Murray  · Mary Shaw · Douglas Lowy, John T. Schiller
+1985: John Robinson Pierce e Ephraim Katzir 1986: David Turnbull e Willem Johan Kolff 1987: Henry Beachell, Gurdev S. Khush e Theodore Harold Maiman 1988: Georges Vendryes, Donald Henderson, Isao Arita e Frank Fenner; Luc Montagnier e Robert Gallo 1989: Frank Sherwood Rowland; Elias James Corey 1990: Marvin Minsky; William Jason Morgan, Dan Peter McKenzie e Xavier Le Pichon 1991: Jacques-Louis Lions; John Julian Wild 1992: Gerhard Ertl; Ernest John Christopher Polge 1993: Frank Press; Kary Mullis 1994: William Hayward Pickering; Arvid Carlsson 1995: Nick Holonyak; Edward Fred Knipling 1996: Charles Kao; Masao Ito 1997: Takashi Sugimura e Bruce Ames; Joseph Engelberger e Hiroyuki Yoshikawa 1998: Leo Esaki; Jozef Schell e Marc Van Montagu 1999: William Wesley Peterson; Jack Leonard Strominger e Don Craig Wiley 2000: Ian McHarg; Kimishige Ishizaka 2001: John Bannister Goodenough; Timothy Richard Parsons 2002: Tim Berners-Lee; Anne McLaren e Andrzej Tarkowski 2003: Benoît Mandelbrot e James Yorke; Seiji Ogawa 2004: Kenichi Honda e Akira Fujishima; Keith Sainsbury; John Lawton 2005: Makoto Nagao; Masatoshi Takeichi e Erkki Ruoslahti 2006: John Houghton; Akira Endo 2007: Albert Fert e Peter Grünberg; Peter Shaw Ashton 2008: Vint Cerf e Robert Kahn; Victor Almon McKusick 2009: Dennis Meadows; David Kuhl 2010: hun’ichi Iwasaki; Peter Vitousek 2011: Ken Thompson e Dennis Ritchie; Tadamitsu Kishimoto e Toshio Hirano

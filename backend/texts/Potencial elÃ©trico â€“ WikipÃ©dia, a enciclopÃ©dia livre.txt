@@ -1,0 +1,93 @@
+
+Potencial elétrico é a capacidade que um corpo energizado tem de realizar trabalho, ou seja, atrair ou repelir outras cargas elétricas. Com relação a um campo elétrico, interessa-nos a capacidade de realizar trabalho, associada ao campo em si, independentemente do valor da carga q colocada num ponto desse campo. Para medir essa capacidade, utiliza-se a grandeza potencial elétrico.
+Para obter o potencial elétrico de um ponto, coloca-se nele uma carga de prova q e mede-se a energia potencial adquirida por ela. Essa energia potencial é proporcional ao valor de q. Portanto, o quociente entre a energia potencial e a carga é constante. Esse quociente chama-se potencial elétrico do ponto. Ele pode ser calculado pela expressão:
+ , onde
+A unidade no SI é J/C = V (volt)
+Portanto, quando se fala que o potencial elétrico de um ponto L é VL = 10 V, entende-se que este ponto consegue dotar de 10J de energia cada unidade de carga de 1C. Se a carga elétrica for 3C por exemplo, ela será dotada de uma energia de 30J, obedecendo à proporção. Vale lembrar que é preciso adotar um referencial para tal potencial elétrico. Ele é uma região que se encontra muito distante da carga, teoricamente localizado no infinito.
+
+
+Uma forma simples de sentir o efeito da corrente elétrica consiste em colocar uma colher por baixo da língua e um pedaço de folha de alumínio por cima. Quando se junta a folha de alumínio à colher, sente-se um sabor amargo na língua, produzido pela passagem de cargas elétricas através da língua. Esse fenómeno foi descoberto por Alessandro Volta, no fim do século XVIII. É importante que o metal da folha seja diferente do metal da colher; as colheres são geralmente feitas de aço ou de prata. Na nossa língua existem iões positivos e negativos; um dos metais terá uma maior tendência a atrair os iões negativos e no outro metal os iões positivos serão atraídos, criando um fluxo de cargas através dos dois metais. Volta reparou que o mesmo efeito podia ser obtido colocando dois metais diferentes, dentro de um líquido com uma solução química. Algumas combinações de metais produziam melhores resultados. Conseguiu intensificar mais o efeito colocando alternadamente vários discos de cobre e de zinco, separados por discos de papel humedecidos com água salgada; assim construiu a primeira pilha apresentada na foto ao lado.
+Para calcular o potencial elétrico devido a uma carga puntiforme usa-se a fórmula:
+, sendo
+Como o potencial é uma grandeza escalar, o potencial gerado por várias cargas é a soma algébrica (usa-se o sinal) dos potenciais gerados por cada uma delas como se estivessem sozinhas:
+
+Potencial elétrico resultante.
+Quando uma carga puntiforme está isolada no espaço, ela gera um campo elétrico em sua volta. Qualquer ponto que estiver a uma mesma distância dessa carga possuirá o mesmo potencial elétrico. Portanto, aparece ai uma superfície equipotencial esférica. Podemos também encontrar superfícies equipotenciais no campo elétrico uniforme, onde as linhas de força são paralelas e equidistantes. Nesse caso, as superfícies equipotenciais localizam-se perpendicularmente às linhas de força (mesma distância do referencial). O potencial elétrico e distância são inversamente proporcionais, portanto o gráfico cartesiano V x d é uma assíntota.
+Nota-se que, percorrendo uma linha de força no seu sentido, encontramos potenciais elétricos cada vez menores.
+Vale ainda lembrar que o vetor campo elétrico é sempre perpendicular à superfície equipotencial, e consequentemente a linha de força que o tangencia também.
+ (ver figura ao lado)
+No eletromagnetismo, potencial elétrico ou potencial eletrostático é um campo equivalente à energia potencial associada a um campo elétrico estático dividida pela carga elétrica de uma partícula-teste. A unidade de medida do SI para o potencial é o volt. Apenas diferenças de potencial elétrico possuem significado físico.
+O potencial elétrico gerado por uma carga pontual  a uma distância  é, a menos de uma constante arbitrária, dado por:
+As linhas de campo elétrico apontam na direção em que o potencial decresce. Consequentemente, num ponto onde o potencial tiver um valor máximo local, existirão linhas a apontar para fora desse ponto (nó repulsivo); o fluxo numa superfície fechada à volta desse ponto será positivo. Isso implica que na região onde o potencial é máximo deverá existir carga positiva.
+Num ponto onde o potencial tiver um valor mínimo local, as linhas de campo apontarão na direção desse ponto (nó atrativo). O fluxo numa superfície fechada à volta do ponto será negativo. Assim, deverá existir carga negativa nesse ponto.[1]
+Os pontos máximos e mínimos do potencial podem ser pontos onde o potencial aproxima-se de  ou , no caso de cargas pontuais, ou pontos de equilíbrio, onde as derivadas do potencial são todas nulas. Existe um terceiro tipo de ponto crítico, ponto de sela, em que o potencial é máximo em algumas direções e mínimo em outras. Portanto, em algumas direções entram linhas de campo e em outras direções saem; o fluxo numa superfície fechada à volta do ponto deverá ser nulo e, assim, nesse ponto o campo será nulo. Os pontos de sela são pontos de equilíbrio instável.[1]
+Como nos pontos máximos e mínimos do potencial há linhas de campo a sair ou entrar em todas as direções, esses pontos encontram-se dentro de superfícies equipotenciais fechadas, umas dentro das outras, aproximando-se do ponto mínimo ou máximo. Nos pontos de sela há sempre um cruzamento das superfícies equipotenciais.
+Se uma partícula com carga  se deslocar entre dois pontos onde existe uma diferença de potencial  a variação da sua energia potencial eletrostática será:
+
+Devido a que o campo elétrico é um campo conservativo, a energia mecânica conserva-se e a variação da energia potencial implica uma variação da energia cinética.
+Quando se trata de partículas elementares com cargas da ordem de grandeza da carga elementar, costuma usar-se uma unidade de energia designada de elétrón-volt (eV), que corresponde à energia adquirida por um eletrão quando se deslocar para uma região onde o potencial aumenta em 1 V. Assim, passando para o sistema internacional:
+
+Consideremos um condutor cilíndrico e retilíneo com os dois extremos ligados aos terminais de uma bateria. Entre os extremos do condutor existirá uma diferença de potencial. Se A for o extremo que está ligado ao terminal negativo e B o extremo ligado ao terminal positivo, o potencial será maior em B do que em A: VB > VA.[1]
+As cargas de condução no condutor deslocam-se na direção do campo elétrico; no mesmo sentido do campo, se forem cargas positivas, ou no sentido oposto se forem negativas. Assim, as linhas de campo elétrico deverão ser retas paralelas ao eixo do cilindro. Portanto, o campo tem módulo E constante e segue a direção do deslocamento d s ao longo do condutor; o integral de linha que define a diferença de potencial , pode ser calculado facilmente:
+
+onde  é o comprimento do condutor.[1] Assim, o módulo do campo no condutor é igual à diferença de potencial entre os seus extremos, dividida pelo seu comprimento:
+
+O resultado anterior também mostra que o campo aponta sempre desde o ponto com maior potencial até o ponto com menor potencial, já que para obtermos um resultado positivo, tivemos que integrar desde B até A.
+Se o condutor na figura acima for um semicondutor tipo N, as cargas de condução negativas deslocam-se no sentido oposto ao campo e, portanto, a corrente é no sentido do campo. Se o semicondutor for do tipo P, as cargas de condução positivas deslocam-se no sentido do campo e a corrente também é no sentido do campo. Consequentemente, independentemente o tipo de condutor ou semicondutor, a corrente será sempre na direção e sentido do campo elétrico, nomeadamente, desde o extremo com maior potencial para o extremo com menor potencial.[1]
+Se o condutor não for retilíneo, como no lado direito da figura, as linhas de campo já não são retas mas seguirão a direção do condutor. Isso implica que o campo vetorial  não é constante, mas se o condutor for homogéneo, as separação entre as linhas será sempre igual, indicando que o módulo E do campo é constante.
+Numa esfera condutora, as cargas distribuem-se uniformemente na superfície. Esse tipo de distribuição de carga produz um campo nulo no interior da esfera, e no exterior o campo é idêntico a que existiria se toda a carga estivesse concentrada no centro da esfera. Assim, o potencial fora da esfera deverá ser idêntico ao potencial de uma carga pontual :[1]
+
+em que  é a carga total da esfera, e  o seu raio.
+Para que o campo seja nulo no interior da esfera, o potencial deverá ser constante nessa região. Como o potencial deve ser uma função contínua, o valor constante do potencial, dentro da esfera, deverá ser o mesmo que na superfície; nomeadamente
+
+Dentro da esfera  o campo é nulo e o potencial é constante. Fora da esfera, o potencial decresce inversamente proporcional à distância.[1]
+Em 1989, Wolfgang Paul recebeu o prêmio Nobel da física pela sua invenção da armadilha de iões que permite isolar um único ião. Com essa invenção tornou-se possível estudar um átomo isolado, e pôr a prova a física quântica, já que nas experiências anteriores estavam sempre presentes muitos átomos. O princípio de funcionamento da armadilha de iões é muito simples. Usa-se um potencial de quadrupólo, nomeadamente, um sistema em que em dois lados opostos de um quadrado há dois condutores com potenciais positivos e no outros dois lados há condutores com potenciais negativos, criando-se assim um ponto d sela no centro do quadrado.
+Os iões, com carga positiva, são empurrados para o centro pelos condutores com potencial positivo, e para fora do centro pelos condutores com potencial negativo. O potencial do condutores inverte-se sucessivamente, o que faz com que após algum tempo unicamente ião que se encontra no centro permaneça nesse ponto de equilíbrio.
+A diferença de potencial entre dois pontos separados por um pequeno percurso  é:
+
+esta equação mostra que o potencial decresce mais rapidamente na direção do campo elétrico e mantém-se constante na direção perpendicular ao campo. Em cada ponto onde o campo não for nulo, existe uma única direção em que o potencial permanece constante; o campo elétrico é perpendicular a essa direção, e aponta no sentido em que  diminui (figura abaixo).
+As cargas positivas deslocam-se no sentido em que o potencial decresce, e a as cargas negativas deslocam-se no sentido em que o potencial aumenta.
+Se  for a componente do campo na direção do deslocamento vetorial , e  for o módulo desse vetor, a equação pode ser escrita
+
+Assim, a componente do campo na direção e sentido de um vetor qualquer  é:
+
+onde  é calculado na direção do vetor .
+A derivada na expressão anterior é designada {derivada direccional} da função , na direção definida por .
+Em particular, se a direção escolhida for no sentido dum dos três eixos cartesianos,  será a componente do campo na direção desse eixo, e a derivada direcional será a derivada parcial em função da variável associada ao eixo:
+
+Para calcular o potencial num ponto, é costume arbitrar que o potencial seja nulo no infinito. Assim, o potencial no ponto P obtém-se a partir do integral[1]
+
+As três componentes cartesianas do campo não podem ser quaisquer três funções da posição, já que, a partir das equações das derivadas conclui-se que:
+
+essas são as condições necessárias e suficientes para garantir que o campo seja conservativo. A matriz jacobiana do campo, em função da posição, é:[1]
+ |-
+Devido às condições apresentadas acima da matriz, essa matriz é simétrica e, portanto, deverá ter unicamente valores próprios reais. Consequentemente, no espaço da posição, os pontos de equilíbrio do campo elétrico podem ser ou pontos de sela ou nós, mas nunca centros ou focos. No espaço de fase, como o sistema é conservativo, os pontos de equilíbrio podem ser pontos de sela ou centros.[1]
+O campo elétrico numa região do espaço é dado pela expressão (unidades SI)[1]
+
+Em duas dimensões, o campo elétrico produzido por um sistema de  cargas pontuais , , ..., , é dado pela equação do Campo elétrico produzido por cargas pontuais.
+O potencial é a função de e com derivadas parciais iguais às duas componentes do campo. Assim, o potencial é:
+
+
+
+Onde  e  são as coordenadas da posição da partícula .[1]
+As variáveis (vetoriais) de estado de uma partícula, são a sua posição  e a velocidade  o espaço de fase tem seis dimensões: (x, y, z, vx , vy , vz).[1] Uma partícula com massa m e carga q, numa região onde exista um campo gravítico  e um campo elétrico  sofre uma força resultante  . As suas equações de movimento são:
+
+em que os campos  e  são funções que dependem da posição . Essas duas equações podem ser combinadas para eliminar o tempo e obter a relação entre a posição e a velocidade:
+
+As soluções da equação acima são as trajetórias no espaço de fase, Integrando os dois lados da equação, desde um ponto inicial  até um ponto final  no espaço de fase e multiplicando pela massa m, obtém-se:
+
+A expressão no lado esquerdo é o aumento da energia cinética, e a expressão no lado direito é o trabalho realizado pelas forças gravítica e elétrica.
+Num campo gravítico uniforme, o integral do campo gravítico não depende do percurso de integração, mas apenas das posições inicial e final,
+
+e a função  define a energia potencial gravítica. Devido a que o campo gravítico é conservativo, qualquer outro campo gravítico mais complicado também conduz a umintegral de linha que não depende do percurso usado e é possível associar a cada campo gravítico uma função escalar que multiplicada pela massa dá a energia potencial.[1]
+No caso do campo elétrico a situação é análoga; os campo eletrostáticos (campos elétricos que não variam com o tempo) são sempre conservativos e, portanto, para cada campo eletrostático existe uma função escalar V (x,y,z) que permite calcular o integral de linha do campo sem ser preciso saber o percurso de integração:
+
+A função V designa-se potencial eletrostático e a energia potencial eletrostática é:
+
+Em função das energias potenciais gravítica eletrostática, a equação de movimento é a lei da conservação da energia mecânica:
+
+No sistema internacional de unidades, a unidade do potencial elétrico V é o joule sobre coulomb, unidade essa que é designada de volt e denota-se com a letra V:
+
+A unidade SI do campo elétrico é N/C, que pode ser escrito como J/(m.C); consequentemente, N/C é equivalente a V/m e o campo elétrico pode ser interpretado como a diferença de potencial por unidade de comprimento.
+É de salientar que, devido a que a carga q pode ser positiva ou negativa, a energia eletrostática  de uma partícula com carga negativa será maior nos pontos onde o potencial for menor, enquanto que as partículas com carga positiva terão maior energia nos pontos. Consequentemente, a equação que explica a função das energias potenciais gravíticas eletrostáticas, implica que, dentro de um campo elétrico, as partículas com carga positiva são aceleradas para a região com menor potencial e as partículas com carga negativa são aceleradas para a região com maior potencial.[1]
+A lei de conservação da energia mecânica só é válida para cargas que se deslocam no vácuo. As cargas que se deslocam dentro de um material condutor, como um metal, ou dentro de um isolador, como o ar, estão sujeitas a forças dissipativas que fazem diminuir rápidamente a energia mecânica, até a carga ficar em repouso, onde o potencial for maior.

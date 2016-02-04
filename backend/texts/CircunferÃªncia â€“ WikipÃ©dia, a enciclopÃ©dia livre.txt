@@ -1,0 +1,13 @@
+Na geometria euclidiana, uma circunferência é o lugar geométrico dos pontos de um plano que equidistam de um ponto fixo. O ponto fixo é o centro e a equidistância o raio da circunferência.[1]
+
+
+Num sistema de coordenadas cartesianas, uma circunferência pode ser descrita pela equação[2]
+na qual  e  são as coordenadas do centro da circunferência e  é o raio. Caso a circunferência tenha o centro sobre a origem do plano cartesiano, a equação é
+Também é possível descrever uma circunferência através de equações paramétricas, usando funções trigonométricas:
+Neste caso,  é a variável paramétrica, variando entre 0 e 2 radianos.
+Na geometria analítica, pode ser representada através de uma equação da forma , com coeficientes reais. Sendo que  deve ser igual a  e diferente de zero e  deve ser igual a zero. O raio da circunferência é obtido através da relação:
+A extensão da circunferência, ou seja, seu perímetro, , pode ser calculada através da equação[1]
+em que  é o diâmetro da circunferência, ou seja, o dobro de seu raio:
+Também temos  (pron. pi) que é a constante, cujo valor é
+O círculo é a área interna () delimitada pela circunferência[1] , que pode ser calculada usando a equação
+A circunferência é a curva plana fechada que se obtém quando da interseção de um cone circular reto com um plano paralelo à sua base.[3]

@@ -1,0 +1,121 @@
+Cada elemento químico, natural ou sintetizado artificialmente, é representado por um símbolo que o identifica graficamente.
+
+
+Desde o tempo dos alquimistas os elementos químicos conhecidos já eram representados por símbolos. Por exemplo: o ouro era identificado pelo símbolo do Sol e a prata pelo símbolo da Lua. Atualmente adota-se o método de J. J. Berzelius, sugerido em 1811:
+É necessário cuidado para não escrevermos coisas como CO (monóxido de carbono) ao invés de Co (cobalto).
+Terminando com 30 anos de controvérsias, a IUPAC através do CNIC (Committee on Nomenclature of Inorganic Chemistry) comunicou, em 30 de agosto de 1997, que os nomes e os simbolos dos elementos transférmicos (com número atômico maior que o do férmio) seriam:
+Isótopos com números atômicos 112 e superiores ainda não foram nomeados, adotando nomes provisórios relativos a seu número atômico em latim, como Uub, Ununbio, um-um-dois, elemento 112, Uut, Ununtrio, um-um-três, elemento 113, e assim por diante, até o Ununoctio, Uuo, um-um-oito, elemento 118, que "fecha" a tabela, completando a última família da tabela!
+Símbolo /Nome / Z
+Símbolo / Nome / Z
+Símbolo / Nome / Z
+Símbolo / Nome / Z
+Ac - Actínio- 89
+Er - Érbio - 68
+Mt - Meitnério - 109
+Sc - Escândio - 21
+Ag - Prata - 47
+Es - Einstênio - 99
+N - Nitrogênio/Azoto - 7
+Se - Selênio - 34
+Al - Alumínio- 13
+Eu - Európio - 63
+Na - Sódio 11
+Sg - Seabórgio - 106
+Am - Amerício - 95
+F - Flúor - 9
+Nb - Nióbio - 41
+Si - Silício - 14
+Ar - Argônio - 18
+Fe - Ferro - 26
+Nd - Neodímio - 60
+Sm - Samário - 62
+As - Arsênio - 33
+Fm - Férmio - 100
+Ne - Neônio - 10
+Sn - Estanho - 50
+At - Astato - 85
+Fr - Frâncio - 87
+Ni - Níquel - 28
+Sr - Estrôncio - 38
+Au - Ouro - 79
+Ga - Gálio - 31
+No - Nobélio - 102
+Ta - Tantálio - 73
+B - Boro - 5
+Gd - Gadolínio - 64
+Np - Neptúnio - 93
+Tb - Térbio - 65
+Ba - Bário - 56
+Ge - Germânio - 32
+O - Oxigênio - 8
+Tc - Tecnécio - 43
+Be - Berílio - 4
+H - Hidrogênio - 1
+Os - Ósmio - 76
+Te - Telúrio - 52
+Bh - Bóhrio- 107
+He - Hélio - 2
+P - Fósforo - 15
+Th - Tório - 90
+Bi - Bismuto - 83
+Hf - Háfnio - 72
+Pa - Protactínio - 91
+Ti - Titânio - 22
+Bk - Berquélio - 97
+Hg - Mercúrio - 80
+Pb - Chumbo - 82
+Tl - Tálio - 81
+Br - Bromo - 35
+Ho - Hólmio - 67
+Pd - Paládio - 46
+Tm - Túlio - 69
+C - Carbono - 6
+Hs - Hássio - 108
+Pm - Promécio - 61
+U - Urânio - 92
+Ca - Cálcio - 20
+I - Iodo - 53
+Po - Polônio - 84
+V - Vanádio - 23
+Cd - Cádmio - 48
+In - Índio - 49
+Pr - Praseodímio - 59
+W - Tungstênio - 74
+Ce - Cério - 58
+Ir - Irídio -77
+Pt - Platina - 78
+Xe - Xenônio - 54
+Cf - Califórnio - 98
+K - Potássio 19
+Pu - Plutônio - 94
+Zn - Zinco - 30
+Cl - Cloro - 17
+Kr - Criptônio - 36
+Ra - Rádio - 88
+Zr - Zircônio - 40
+Cm - Cúrio - 96
+La - Lantânio - 57
+Rb - Rubídio - 37
+Y - Ítrio - 39
+Co - Cobalto - 27
+Li - Lítio - 3
+Re - Rênio - 75
+Yb - Itérbio - 70
+Cr - Crômio/Crómio - 24
+Lr - Laurêncio - 103
+Rf - Rutherfórdio - 104
+Cs - Césio - 55
+Lu - Lutécio - 71
+Rh - Ródio - 98
+Cu - Cobre - 29
+Mg - Magnésio - 12
+Rn - Radônio - 86
+Db - Dúbnio - 105
+Mn - Manganês - 25
+Ru - Rutênio - 44
+Ds - Darmstádio - 110
+Mo - Molibdênio - 42
+S - Enxofre - 16  
+Dy - Disprósio - 66
+Md - Mendelévio - 101
+Sb - Antimônio - 51  

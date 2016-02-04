@@ -1,0 +1,6 @@
+A análise estruturada é uma atividade de construção de modelos. Utiliza uma notação que é própria ao método de análise estruturada para com a finalidade de retratar o fluxo e o conteúdo das informações utilizadas pelo sistema, dividir o sistema em partições funcionais e comportamentais e descrever a essência daquilo que será construído.
+O modelo ambiental descreve o ambiente no qual o sistema se insere, ou seja, descreve o contexto do sistema, que deve ter 3 componentes:
+Componentes do modelo ambiental::
+O modelo comportamental descreve as acções que o sistema deve realizar para responder da melhor forma aos eventos definidos no modelo ambiental.
+Técnicas utilizadas:
+ · Ciência da computação  · Engenharia da computação  · Engenharia empresarial  · história  · Administração  · Gerência de projetos  · Gerenciamento da qualidade  · Usabilidade  · Engenharia de sistemas

@@ -1,0 +1,21 @@
+
+
+O objetivo da missão Planck da Agência Espacial Europeia (ESA) é o de estudar o nascimento do Universo. Ela deverá auxiliar os astrônomos a desenvolver teorias sobre o nascimento e sobre a evolução do Universo.
+A sonda Planck deverá examinar a radiação cósmica de fundo do universo, que é constituída de micro-ondas com um nível de precisão e de resolução angular nunca antes visto.
+Trata-se da terceira missão de médio porte do programa denominado de ESA's Horizon 2000 Scientific e que hoje faz parte do programa Cosmic Vision.
+A sonda Planck deverá fornecer informações relevantes de vários assuntos cosmológicos e astrofísicos, tais como testar teorias sobre a fase inicial do Universo e sobre a origem da estrutura cósmica.
+
+
+O Universo está cheio de uma radiação de microondas de fundo, e a sonda Planck deverá examinar este tipo de radiação com uma precisão nunca antes vista. Essa radiação de fundo não provém de um objeto em particular, mas sim de todo o Universo.
+Por que as primeiras luzes do Universo estão na forma de micro-ondas? Quando elas surgiram o Universo era muito menor que hoje. Em conseqüência disso as primeiras luzes estavam muito comprimidas e a sua freqüência muito elevada. O Universo se expandiu desde o Big Bang e as ondas de luz se esticaram, diminuindo sua freqüência para a faixa de micro-ondas.
+A missão Planck foi inicialmente denominada de COBRAS/SAMBA quando na sua fase de estudos. COBRAS significa Cosmic Background Radiation Anisotropy Satellite e SAMBA significa Satellite for Measurement of Background Anisotropies). Posteriormente os dois grupos de estudos foram unificados em uma única missão.
+Quando esta missão foi selecionada e aprovada, ela foi renomeada em honra ao cientista alemão Max Planck (1858-1947), que recebeu o Prêmio Nobel de Física em 1918.
+A sonda Planck deverá transportar um telescópio de com um espelho de 1,5 metros de diâmetro. O telescópio será usado para captar a radiação que vem do céu em duas faixas de freqüências, uma alta e outra baixa, para dois instrumentos científicos distintos (Low Frequency Instrument e o High Frequency Instrument).
+O Low Frequency Instrument (ou LFI) é um aparelho que consiste em 22 receptores que funcionam a –253 °C. Estes receptores deverão trabalhar agrupados em quatro canais de frequências, visando a captar frequências entre 30 e 100 GHz. Os sinais serão amplificados e convertidos em uma voltagem (diferença de potencial) e este dado será enviado a um computador.
+O High Frequency Instrument (ou HFI) é um aparelho composto de 52 detectores, os quais trabalham convertendo radiação em calor. A quantidade de calor é medida por um pequeno termômetro elétrico, e a temperatura anotada é convertida em dado de computador. Ele deverá operar a –272,9 °C.
+A sonda Planck e a sonda Herschel foram lançadas com sucesso às 13 h 12 min de 14 de maio de 2009, a bordo de um foguete Ariane 5. Após o lançamento, a sonda Planck foi a primeira a se separar do conjunto de lançamento, para ser colocada em órbita heliocêntrica. A sonda Planck deverá se situar no segundo ponto de Lagrange (L2), cerca de 1,5 milhões de quilômetros, situado entre o sistema englobado pela Terra e pelo Sol.
+Neste ponto o telescópio não sofrerá interferências nem da Terra e nem da Lua.
+Mais de quarenta institutos de pesquisas da Europa e dos Estados Unidos se uniram nesta missão para construir os instrumentos da sonda.[1]
+O instrumento de medição de baixa freqüência foi construído com a participação de 22 institutos científicos, encabeçados pelo Instituto di Astrofisica Spaziale e Fisica Cosmica (CNR) em Bologna, na Itália.
+O instrumento de alta freqüência foi construído por um consórcio de mais de 20 institutos de pesquisas, liderados pelo Institut d'Astrophysique Spatiale (CNRS) em Orsay, na França.
+Os espelhos dos telescópios primário e secundário foram fabricados em fibra de carbono e foram montados por um consórcio dinamarquês, liderado pelo Danish Space Research Institute em Copenhagen, na Dinamarca.

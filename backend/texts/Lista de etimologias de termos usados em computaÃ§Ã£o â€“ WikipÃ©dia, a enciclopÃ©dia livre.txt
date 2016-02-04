@@ -1,0 +1,3 @@
+Esta é uma lista da origem de termos relacionados com os computadores. Estes termos têm a ver tanto com o software quanto com o hardware.
+Muito da terminologia dos computadores, em especial no que se refere às aplicações, relaciona-se com a função que os objectos designados desempenham. Por exemplo, um compilador é uma aplicação que compila código de uma linguagem de programação em linguagem-máquina do computador. No entanto, existem outros termos cuja história parece indicar que têm menos a ver com a funcionalidade e que por isso são de valor etimológico. Este artigo fornece uma lista desses termos.
+

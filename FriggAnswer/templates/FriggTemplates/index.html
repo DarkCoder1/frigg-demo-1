@@ -1,0 +1,89 @@
+{% load staticfiles %}
+<!DOCTYPE HTML>
+
+<html lang='pt-br'>
+    <head>
+        <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+        <link rel="stylesheet" type="text/css" href="{% static 'css/dialog.css' %}">
+        <meta charset="utf-8">
+        <link rel="shortcut icon" href="{% static 'imagens/favicon.ico'%}" type="image/x-icon">
+        <link rel="icon" href="{% static 'imagens/favicon.ico'%}" type="image/x-icon">
+        <title>Frigg</title>
+    </head>
+    <body>
+<div id="all">
+  <header>
+  <img src="{% static 'imagens/logo.png' %}" alt="logo" id="logo">
+  <div id="knot-border"></div>
+  </header>
+      <div id="main-img">
+		<img id="frigg" src="{% static 'imagens/frigg-1.png' %}" alt="Deusa Frigg">
+      </div>
+	  <div id="rightside">
+          <div id="intro">
+                    {{intro}}
+                </div>
+      <div id="main-form">
+           <form method="post" id="fquestion">
+                    {% csrf_token %}
+                    {{form.as_p}}
+                    <input type="submit" value="Perguntar!" id="grt_btn" class="peter-river-flat-button"/>
+                </form>
+      </div>
+          <div id="ans">
+                    {{answer|linebreaks}}
+                </div>
+          <!--p>O que você achou do sistema? tem alguma sugestão? <span id="feedback-input">Nos dê um feedback!</span-->
+	</div>
+	<footer>
+        <p>Frigg Project</p>
+        <p>Email: web-devs@outlook.com</p>
+        <span></span>
+	</footer>
+	</div>
+        <div id="success" title="Pensando...">
+		<p>Espere um pouco, estou pensando na sua respsota.</p>
+	</div>
+       <link href="http://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
+       <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+       <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+        <script>            
+            $('#success').dialog({
+                height: 80,
+                width: 350,
+                modal: true,
+                resizable: false,
+                dialogClass: 'no-close success-dialog',
+                autoOpen: false,               
+            });
+            
+            $(document).on('submit','#fquestion', function(e){
+                if($('#id_question').val() == ''){
+                     $('#ans').append('Escreva algo primeiro, para que eu possa responder!');
+                }else{
+                $('#success').dialog('open');
+                e.preventDefault();
+                $.ajax({
+                    type:'POST',
+                    url:'/AnswerAjax/',
+                    data:{
+                        question: $('#id_question').val(),
+                        csrfmiddlewaretoken: $('input[name=csrfmiddlewaretoken]').val(),
+                    },
+                    success: function(json){
+                        $('#ans').html('');
+                        $('#ans').append(json.answer);
+                        $('#success').dialog('close');
+                    },
+                    error: function(){
+                        $('#ans').html('');
+                        $('#ans').html('Me parece que algo aqui não está certo.');
+                        $('#success').dialog('close');
+                    },
+                }
+                      );
+                }
+            });
+        </script>
+  </body>
+</html>

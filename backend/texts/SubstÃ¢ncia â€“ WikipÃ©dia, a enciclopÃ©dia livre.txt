@@ -1,0 +1,28 @@
+Se existir um WikiProjeto mais adequado, por favor corrija esta predefinição. Este artigo está para revisão desde dezembro de 2009.
+Uma substância é qualquer espécie de matéria formada por átomos de elementos específicos em proporções específicas. Cada substância possui um conjunto definido de propriedades e uma composição química. Elas também podem ser inorgânicas (como a água e os sais minerais) ou orgânicas (como a proteína, carboidratos, lipídeos, ácido nucleico e vitaminas).
+
+
+A substância que é formada por átomos de um único elemento químico (denomina-se elemento químico todos os átomos que possuem o mesmo número atômico (Z), ou seja, o mesmo número de prótons) é denominada substância simples. Exemplos:
+Uma substância composta por mais de um elemento químico, numa proporção determinada de átomos, é denominada substância composta. Exemplos:
+As fórmulas químicas heteronucleares destas substâncias podem apresentar como unidades estruturais compostos moleculares, no qual a unidade estrutural é a molécula, e compostos iónicos, em que a unidade estrutural é um conjunto de íões positivos e negativos mais simples.
+Duas ou mais substâncias agrupadas constituem uma mistura. O leite e o soro caseiro são exemplos de misturas.
+Sistema é uma porção limitada do universo, considerada como um todo para efeito de estudo.
+Sistema homogêneo, material homogêneo ou matéria homogênea é aquele que apresenta as mesmas propriedades em qualquer parte de sua extensão em que seja examinado.
+Sistema heterogêneo, material heterogêneo ou matéria heterogênea é aquele que não apresenta as mesmas propriedades em qualquer parte de sua extensão em que seja examinado.
+Fases são as diferentes porções homogêneas, limitadas por superfícies de separação, que constituem um sistema heterogêneo.
+Os sistemas homogêneos são monofásicos ou unifásicos. Os sistemas heterogêneos são polifásicos, podendo ser bifásicos, trifásicos, etc.
+Sistemas com N componentes não gasosos, como regra têm N fases. Sistemas com N gases sempre têm uma única fase. Não existe sistema heterogêneo de dois ou mais gases.
+Um sistema heterogêneo ou é uma mistura (heterogênea) ou é uma substância pura em mudança de estado físico.
+Um sistema homogêneo ou é uma mistura (homogênea) ou é uma substância pura num único estado físico.
+Mistura é qualquer sistema formado de duas ou mais substâncias puras, denominadas componentes, ou seja com mais de um tipo de átomo. Pode ser homogênea ou heterogênea, conforme apresente ou não as mesmas propriedades em qualquer parte de sua extensão em que seja examinada.
+Toda mistura homogênea é uma solução, por definição. Todas as misturas gasosas são homogêneas.
+Substância pura é todo material com as seguintes características:
+Existem misturas que, como exceção, se comportam como se fossem substâncias puras no processo de fusão, isto é, a temperatura mantém-se inalterada do início ao fim da fusão. Essas são chamadas misturas eutéticas, como exemplo o fio de solda.
+Outras se comportam como se fossem substâncias puras em relação à ebulição, isto é, a temperatura mantém-se inalterada do início ao fim da ebulição. Essas são chamadas misturas azeotrópicas, podemos citar à mistura homogêneo do etanol (96%) e água (4%).
+Não é conhecida nenhuma mistura que seja eutética e azeotrópica simultaneamente.
+Substância simples é toda substância pura formada de um único elemento químico. Já as substâncias compostas são puras, porém formadas por diferentes elementos químicos.
+Alotropia é o fenômeno em que um mesmo elemento químico (átomos de mesmo Z) forma duas ou mais substâncias simples diferentes.
+Elemento: Variedades alotrópicas
+Grandeza molecular: Substância simples
+A molécula de água é formada por dois elementos químicos: o hidrogênio e o oxigênio. Já o gás nitrogênio é composto por um elemento químico . O mesmo vale para o gás oxigênio. Dizemos então que o gás nitrogênio é uma substância simples, já que é formado por um único elemento químico. A água é uma substância composta, pois é formada pela união de elementos químicos diferentes, e por isso é um composto binário(bi,do latim dois).
+Algumas substâncias compostas são formadas por íons de elementos químicos diferentes, como é o caso do cloreto de sódio, que tem íons de sódio e de cloro. Portanto, uma substância pura pode ser simples, quando é formada por apenas um elemento químico, ou composta, quando em sua fórmula há mais de um elemento químico.

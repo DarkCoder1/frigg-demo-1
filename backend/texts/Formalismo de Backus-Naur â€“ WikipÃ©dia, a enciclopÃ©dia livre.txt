@@ -1,0 +1,56 @@
+O Formalismo de Backus-Naur (BNF, do inglês Backus-Naur Form ou Backus Normal Form) é uma metassintaxe usada para expressar gramáticas livres de contexto, isto é, um modo formal de descrever linguagens formais.
+O BNF é amplamente usada como uma notação para as gramáticas de linguagens de programação, conjuntos de instruções e protocolos de comunicação, e também como notação para representar partes de gramáticas de linguagens naturais. A maioria dos livros-texto para teoria de linguagem de programação e/ou semântica documenta a linguagem de programação em BNF.
+Há também variantes como a forma aumentada de Backus-Naur (FABN) baseada na BNF, mas que consiste em uma sintaxe e regras de derivações próprias. O princípio norteador desta metalinguagem é descrever um sistema formal de uma linguagem que é um protocolo (especificação bidirecional). [1]
+
+
+A notação BNF (Backus Naur Form ou Backus Normal Form) foi originalmente criada por John Backus e Peter Naur, no ﬁnal dos anos 1950, para descrever a linguagem ALGOL[2] (como parte da criação das regras para o ALGOL 60). Desde então a sua utilização generalizou-se para a especiﬁcação de linguagens de programação.
+Originalmente foi nomeada em homenagem a Backus e, por sugestão de Donald Knuth, também a Peter Naur,[3] pioneiros da ciência da computação, especialmente na arte de design de compiladores. A forma de Backus-Naur (ou gramáticas BNF) é bastante similar às regras da gramática sânscrita de Pānini (cerca do século V a.C.), e é chamada às vezes de forma de Panini-Backus.
+Uma especificação BNF é um conjunto de regras de derivação, escritas como:
+Onde <símbolo> é um não terminal, e a expressão consiste em sequências de símbolos e/ou sequências separadas pela barra vertical, '|', indicando uma escolha. Esta notação indica as possibilidades de substituição para símbolo da esquerda. Símbolos que nunca aparecem no lado esquerdo são ditos terminais.
+No exemplo, considere essa BNF possível para um endereço postal do Brasil:
+Isto se traduz para o português como:
+Note que muitas coisas (tais como o formato de um primeiro nome, especificador de apartamento, ou do CEP) não são especificados aqui. Se necessário, elas podem se descritas usando regras BNF adicionais.
+A sintaxe da FNB pode ser representado com uma FNB como no que se segue:
+Isso assume que o espaço em branco não é necessário para a devida interpretação da regra. <FDL> é o especificador fim da linha apropriado. <nome-da-regra> e <texto> são substituídos com uma regra nome/rótulo ou um texto literal, respectivamente. Outro exemplo de BNF:
+Transformar a expressa 32 + 16 / 45 * 3 em Linguagem BNF
+Uma especificação da FABN é um conjunto de regras de derivação escrito na forma:
+regra = definição ; comentário CR LF
+onde regra é um não-terminal com caixa sensível (letras em maiúscula ou minúsculas), a definição consiste numa seqüência de símbolos que definem a regra, o comentário serve para documentação e terminando com o caractere de carriage return (retornar para a posição mais à esquerda) e um line feed (indica quebra de linha).
+Nomes de regras não são caixa-sensíveis, logo <regranome>, <Regranome>, <REGRANOME>, e <rEgRaNoMe> se referem à mesma regra. Tais nomes consistem de uma letra seguida de letras, números ou hífens.
+Os sinais “<” e “>” não são requeridos em torno do nome da regra (como são em BNF), no entanto, podem ser usados para delimitar um nome de regra a fim de discerni-lo mesmo fora de contexto.
+A FABN é codificada em ASCII 7-bit, em que o 8º bit mais significativo é posto em 0.
+Terminais são especificados por um ou mais caracteres numéricos. Caracteres numéricos podem ser especificados com o sinal de porcentagem “%” seguido pela referência à base (b = binário, d = decimal, e x = hexadecimal) seguido pelo valor ou concatenação de valores (indicado por “.” ). Por exemplo um carriage return é especificado por %d13 em decimal ou %x0D em hexadecimal. Um carriage return seguido por um line feed pode ser especificado por %d13.10.
+Textos literais são especificados pelo uso de uma string entre aspas duplas ("), tais strings são caixa-insensíveis e o conjunto de caracteres usado é o US-ASCII. Portanto a string “abc” casa com “abc”, “Abc”, “aBc”, “abC”, “ABc”, “AbC”, “aBC”, e “ABC”. Para um casamento com sensibilidade de caixa, os caracteres deverão ser definido de forma explícita; no caso de “aBc” a definição será %d97% d66% d99.
+Um espaço em branco é usando para separar elementos em uma definição. Para o espaço ser reconhecido como um delimitador, ele deve ser incluído explicitamente.
+Regra1 Regra2
+Uma regra pode ser definida listando-se uma sucessão de nomes de regras, ou seja, como uma concatenação de outras regras pré-existentes.
+Para casar a string “aba” as seguintes regras podem ser usadas:
+Regra1 / Regra2
+Uma regra pode ser definida por uma lista de regras separadas pelo caractere “/”.
+Ainda utilizando as regras <fu> e a regra <bar> a seguinte regra poderia ser construída:
+Regra1 =/ Regra2
+Podem ser acrescentadas alternativas adicionais a uma regra pelo uso do ‘=/’ entre o nome da regra e a definição.
+Desta forma, a regra:
+é equivalente à:
+%c##-##
+Uma série de valores podem ser especificados pelo uso do hífen ("-").
+Logo, a regra:
+É equivalente a:
+(Regra1 Regra2)
+Pode-se colocar elementos entre parênteses a fim de agrupar regras em uma definição.
+Para casar “elem fubar snafu” ou “elem tarfu snafu” usamos a seguinte regra:
+Para casar “elem fubar” ou “tarfu snafu” podemos construir a seguinte regra:
+n*nRegra
+Para indicar a repetição de um elemento a forma <a>*<b>elemento é usada. O campo opcional <a> se refere ao número mínimo de elementos a ser incluído tendo por padrão 0 (zero). O segundo campo opcional <b> se refere ao número máximo de elementos a serem incluídos tendo infinito como padrão.
+Logo, usamos *elemento para zero ou mais elementos, 1*elemento para um ou mais e 4*5elementos para quatro ou cinco elementos.
+nRegra
+Usa-se a forma <a>elemento para indicar um número explícito de elementos, tal forma é equivalente a <a>*<a>elemento.
+Usa-se 2DIGIT para adquirir dois dígitos numéricos e 3DIGIT para adquirir três dígitos numéricos. (Veja a definição de DIGIT em ‘Regras essenciais’ e também no exemplo código postal.)
+[Regra]
+Para indicar um elemento opcional as seguintes formas são equivalentes:
+; comentário
+Usa-se ponto e virgula (";") para iniciar um comentário que perdura o resto da linha.
+Segue uma lista com a precedência dos operadores descritos acima da maior para a menor precedência:
+O uso do operador de alternação e o operador de concatenação podem ser confundidos. e recomenda-se que agrupamentos sejam usados para fazer concatenações explícitas de grupos.
+Segue abaixo regras essenciais definidas por padrão na FABN
+A implementação de um código-postal em FABN seria:
